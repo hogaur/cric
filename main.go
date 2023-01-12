@@ -10,16 +10,16 @@ func main() {
 	fmt.Println("Hello Wolf")
 
 	matchPath := "./data/odis_male_csv/"
-	matchName := "1157378.csv"
-	matchFile := fmt.Sprintf("%v%v", matchPath, matchName)
+	matchFileName := "1157378.csv"
+	matchFilePath := fmt.Sprintf("%v%v", matchPath, matchFileName)
 
 	m := &match.Match{}
 
-	m.AddTeams(matchFile)
-	m.AddVenue(matchFile)
-	m.AddWinner(matchFile)
-	m.AddPlayerOfMatch(matchFile)
-	m.AddPlaying11s(matchFile)
+	m.AddTeams(matchFilePath)
+	m.AddVenue(matchFilePath)
+	m.AddWinner(matchFilePath)
+	m.AddPlayerOfMatch(matchFilePath)
+	m.AddPlaying11s(matchFilePath)
 
 	fmt.Println("Here's the match", m)
 }
