@@ -58,6 +58,7 @@ func (m *Match) addTeams(matchFile string) {
 			}
 		}
 	}
+	fmt.Println("Match between teams ", m.teams)
 }
 
 func (m *Match) addVenue(matchFile string) {
@@ -79,12 +80,13 @@ func (m *Match) addVenue(matchFile string) {
 			log.Fatal("Error matching for team info", line, err)
 		}
 		if match {
-			fmt.Println("Matched venueline is ", line)
 			venueline := strings.Split(line, ",")
 			m.venue = venueline[2]
 			break
 		}
 	}
+	fmt.Println("Match at Venue ", m.venue)
+
 }
 
 func (m *Match) addWinner(matchFile string) {
@@ -106,10 +108,10 @@ func (m *Match) addWinner(matchFile string) {
 			log.Fatal("Error matching for match winner", line, err)
 		}
 		if match {
-			fmt.Println("Matched line is ", line)
 			line := strings.Split(line, ",")
 			m.winner = line[2]
 			break
 		}
 	}
+	fmt.Println("Match Winner ", m.winner)
 }
