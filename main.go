@@ -1,54 +1,54 @@
 package main
 
 import (
-	"encoding/csv"
+	"bufio"
 	"fmt"
 	"log"
 	"os"
+	"regexp"
 )
 
 func main() {
 	defer fmt.Println("Goodbye Wolf, come back.")
 	fmt.Println("Hello Wolf")
 
-	matchPath := "data/odis_male_csv"
-	match := "1157378.csv"
+	matchPath := "./data/odis_male_csv/"
+	matchName := "1157378.csv"
+	matchFile := fmt.Sprintf("%v%v", matchPath, matchName)
 
-	fmt.Printf("First we get 1 match info for %v\n", match)
+	readFile, err := os.Open(matchFile)
 
-	fmt.Println("Loading a match", match)
-	loadMatch(matchPath, match)
-}
-
-func createMatch(data [][]string) []Match {
-	return []Match{}
-}
-
-func loadMatch(csvPath, csvName string) {
-	filepath := fmt.Sprintf(csvPath, "/", csvPath)
-	fmt.Println("filepath for the match", filepath)
-
-	f, err := os.Open(filepath)
 	if err != nil {
-		log.Fatal(err)
+		fmt.Println(err)
+	}
+	fileScanner := bufio.NewScanner(readFile)
+
+	fileScanner.Split(bufio.ScanLines)
+	var matchInfo []string
+
+	for fileScanner.Scan() {
+		line := fileScanner.Text()
+
+		match, err := regexp.MatchString("info,team", line)
+		if err != nil {
+			log.Fatal("Error Matching Line", line, err)
+		}
+		if match {
+			matchInfo = append(matchInfo, line)
+			if len(matchInfo) == 2 {
+				break
+			}
+		}
 	}
 
-	// remember to close the file at the end of the program
-	defer f.Close()
+	fmt.Println(len(matchInfo))
+	fmt.Println(matchInfo)
 
-	// read csv values using csv.Reader
-	csvReader := csv.NewReader(f)
-	data, err := csvReader.ReadAll()
-	if err != nil {
-		log.Fatal(err)
-	}
+	readFile.Close()
+	//matchData := loadMatch(matchFile)
 
-	// convert records to array of structs
-	shoppingList := createMatch(data)
-
-	// print the array
-	fmt.Printf("%+v\n", shoppingList)
-}
-
-type Match struct {
+	//fmt.Println("Here is the raw match data", data)
+	//printMatchInfo(matchData)
+	// printMatchWinner()
+	// printMatch11s()
 }
