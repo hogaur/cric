@@ -21,17 +21,16 @@ func main() {
 
 	m.addTeams(matchFile)
 	m.addVenue(matchFile)
-
-	//printMatchInfo(matchData)
-	// printMatchWinner()
+	m.addWinner(matchFile)
 	// printMatch11s()
 
 	fmt.Println("Here's the match", m)
 }
 
 type Match struct {
-	teams []string
-	venue string
+	teams  []string
+	venue  string
+	winner string
 }
 
 func (m *Match) addTeams(matchFile string) {
@@ -83,6 +82,33 @@ func (m *Match) addVenue(matchFile string) {
 			fmt.Println("Matched venueline is ", line)
 			venueline := strings.Split(line, ",")
 			m.venue = venueline[2]
+			break
+		}
+	}
+}
+
+func (m *Match) addWinner(matchFile string) {
+	readFile, err := os.Open(matchFile)
+	defer readFile.Close()
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	matchFileScanner := bufio.NewScanner(readFile)
+	matchFileScanner.Split(bufio.ScanLines)
+
+	for matchFileScanner.Scan() {
+		line := matchFileScanner.Text()
+
+		match, err := regexp.MatchString("info,winner", line)
+		if err != nil {
+			log.Fatal("Error matching for match winner", line, err)
+		}
+		if match {
+			fmt.Println("Matched line is ", line)
+			line := strings.Split(line, ",")
+			m.winner = line[2]
 			break
 		}
 	}
