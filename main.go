@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"strings"
 )
 
 func main() {
@@ -24,31 +25,37 @@ func main() {
 	fileScanner := bufio.NewScanner(readFile)
 
 	fileScanner.Split(bufio.ScanLines)
-	var matchInfo []string
 
-	for fileScanner.Scan() {
-		line := fileScanner.Text()
+	m := &Match{}
+
+	m.addTeams(*fileScanner)
+	//printMatchInfo(matchData)
+	// printMatchWinner()
+	// printMatch11s()
+
+	fmt.Println("Here's the match", m)
+
+	defer readFile.Close()
+}
+
+type Match struct {
+	teams []string
+}
+
+func (m *Match) addTeams(matchFileScanner bufio.Scanner) {
+	for matchFileScanner.Scan() {
+		line := matchFileScanner.Text()
 
 		match, err := regexp.MatchString("info,team", line)
 		if err != nil {
-			log.Fatal("Error Matching Line", line, err)
+			log.Fatal("Error matching for team info", line, err)
 		}
 		if match {
-			matchInfo = append(matchInfo, line)
-			if len(matchInfo) == 2 {
+			infoline := strings.Split(line, ",")
+			m.teams = append(m.teams, infoline[2])
+			if len(m.teams) == 2 {
 				break
 			}
 		}
 	}
-
-	fmt.Println(len(matchInfo))
-	fmt.Println(matchInfo)
-
-	readFile.Close()
-	//matchData := loadMatch(matchFile)
-
-	//fmt.Println("Here is the raw match data", data)
-	//printMatchInfo(matchData)
-	// printMatchWinner()
-	// printMatch11s()
 }
