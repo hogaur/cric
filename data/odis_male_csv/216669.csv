@@ -1,0 +1,291 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Africa XI
+info,team,Asia XI
+info,gender,male
+info,season,2005
+info,date,2005/08/21
+info,event,Asia XI tour of South Africa
+info,match_number,3
+info,venue,Kingsmead
+info,city,Durban
+info,toss_winner,Africa XI
+info,toss_decision,bat
+info,player_of_match,Shoaib Akhtar
+info,umpire,SJ Davis
+info,umpire,BR Doctrove
+info,tv_umpire,KH Hurter
+info,match_referee,CH Lloyd
+info,outcome,no result
+info,player,Africa XI,GC Smith
+info,player,Africa XI,HH Dippenaar
+info,player,Africa XI,JH Kallis
+info,player,Africa XI,JA Rudolph
+info,player,Africa XI,AG Prince
+info,player,Africa XI,JM Kemp
+info,player,Africa XI,T Taibu
+info,player,Africa XI,SM Pollock
+info,player,Africa XI,HH Streak
+info,player,Africa XI,DW Steyn
+info,player,Africa XI,M Zondeki
+info,player,Africa XI,TM Odoyo
+info,player,Asia XI,V Sehwag
+info,player,Asia XI,Shahid Afridi
+info,player,Asia XI,KC Sangakkara
+info,player,Asia XI,DPMD Jayawardene
+info,player,Asia XI,Mohammad Yousuf
+info,player,Asia XI,Inzamam-ul-Haq
+info,player,Asia XI,Abdul Razzaq
+info,player,Asia XI,A Nehra
+info,player,Asia XI,Z Khan
+info,player,Asia XI,Shoaib Akhtar
+info,player,Asia XI,M Muralitharan
+info,player,Asia XI,Mohammad Ashraful
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,AG Prince,035cb925
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Streak,37f501d7
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Kemp,6581d753
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KH Hurter,bda8cca8
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Yousuf,e237b28c
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,T Taibu,75de770f
+info,registry,people,TM Odoyo,2c13defe
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,Z Khan,91a4a398
+ball,1,0.1,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,0.2,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,0.3,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,1,1,,,,,"",""
+ball,1,0.4,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,0.5,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,0.6,Africa XI,GC Smith,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,lbw,GC Smith
+ball,1,0.7,Africa XI,JH Kallis,HH Dippenaar,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,1.1,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,1.2,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,1.3,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,1.4,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,4,,,,4,,"",""
+ball,1,1.5,Africa XI,HH Dippenaar,JH Kallis,Z Khan,2,0,,,,,,"",""
+ball,1,1.6,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,2.1,Africa XI,JH Kallis,HH Dippenaar,Shoaib Akhtar,1,0,,,,,,"",""
+ball,1,2.2,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,2.3,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,2.4,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,2.5,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,2.6,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,3.1,Africa XI,JH Kallis,HH Dippenaar,Z Khan,0,1,1,,,,,"",""
+ball,1,3.2,Africa XI,JH Kallis,HH Dippenaar,Z Khan,1,0,,,,,,"",""
+ball,1,3.3,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,3.4,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,3.5,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,3.6,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,3.7,Africa XI,HH Dippenaar,JH Kallis,Z Khan,1,0,,,,,,"",""
+ball,1,4.1,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,4,0,,,,,,"",""
+ball,1,4.2,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,4.3,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,4.4,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,4.5,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,4.6,Africa XI,HH Dippenaar,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,5.1,Africa XI,JH Kallis,HH Dippenaar,Z Khan,0,1,,,,1,,"",""
+ball,1,5.2,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,5.3,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,5.4,Africa XI,HH Dippenaar,JH Kallis,Z Khan,0,0,,,,,,caught,HH Dippenaar
+ball,1,5.5,Africa XI,JA Rudolph,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,5.6,Africa XI,JA Rudolph,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,6.1,Africa XI,JH Kallis,JA Rudolph,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,6.2,Africa XI,JH Kallis,JA Rudolph,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,6.3,Africa XI,JH Kallis,JA Rudolph,Shoaib Akhtar,0,1,,,,1,,"",""
+ball,1,6.4,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,6.5,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,6.6,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,7.1,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,7.2,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,7.3,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,7.4,Africa XI,JH Kallis,JA Rudolph,Z Khan,1,0,,,,,,"",""
+ball,1,7.5,Africa XI,JA Rudolph,JH Kallis,Z Khan,1,0,,,,,,"",""
+ball,1,7.6,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,8.1,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,8.2,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,8.3,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,8.4,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,8.5,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,8.6,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,9.1,Africa XI,JH Kallis,JA Rudolph,Z Khan,1,0,,,,,,"",""
+ball,1,9.2,Africa XI,JA Rudolph,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,9.3,Africa XI,JA Rudolph,JH Kallis,Z Khan,0,0,,,,,,"",""
+ball,1,9.4,Africa XI,JA Rudolph,JH Kallis,Z Khan,1,0,,,,,,"",""
+ball,1,9.5,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,9.6,Africa XI,JH Kallis,JA Rudolph,Z Khan,0,0,,,,,,"",""
+ball,1,10.1,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,10.2,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,4,0,,,,,,"",""
+ball,1,10.3,Africa XI,JA Rudolph,JH Kallis,Shoaib Akhtar,1,0,,,,,,"",""
+ball,1,10.4,Africa XI,JH Kallis,JA Rudolph,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,10.5,Africa XI,JH Kallis,JA Rudolph,Shoaib Akhtar,0,0,,,,,,run out,JA Rudolph
+ball,1,10.6,Africa XI,AG Prince,JH Kallis,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,11.1,Africa XI,JH Kallis,AG Prince,Z Khan,0,0,,,,,,"",""
+ball,1,11.2,Africa XI,JH Kallis,AG Prince,Z Khan,0,0,,,,,,"",""
+ball,1,11.3,Africa XI,JH Kallis,AG Prince,Z Khan,0,0,,,,,,lbw,JH Kallis
+ball,1,11.4,Africa XI,JM Kemp,AG Prince,Z Khan,0,0,,,,,,"",""
+ball,1,11.5,Africa XI,JM Kemp,AG Prince,Z Khan,0,0,,,,,,"",""
+ball,1,11.6,Africa XI,JM Kemp,AG Prince,Z Khan,0,0,,,,,,"",""
+ball,1,12.1,Africa XI,AG Prince,JM Kemp,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,12.2,Africa XI,AG Prince,JM Kemp,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,12.3,Africa XI,AG Prince,JM Kemp,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,12.4,Africa XI,AG Prince,JM Kemp,Shoaib Akhtar,0,0,,,,,,caught,AG Prince
+ball,1,12.5,Africa XI,T Taibu,JM Kemp,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,12.6,Africa XI,T Taibu,JM Kemp,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,13.1,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,13.2,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,13.3,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,13.4,Africa XI,JM Kemp,T Taibu,Z Khan,0,1,1,,,,,"",""
+ball,1,13.5,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,13.6,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,13.7,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,14.1,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,14.2,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,14.3,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,14.4,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,14.5,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,14.6,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,15.1,Africa XI,JM Kemp,T Taibu,Z Khan,3,0,,,,,,"",""
+ball,1,15.2,Africa XI,T Taibu,JM Kemp,Z Khan,0,0,,,,,,"",""
+ball,1,15.3,Africa XI,T Taibu,JM Kemp,Z Khan,0,0,,,,,,"",""
+ball,1,15.4,Africa XI,T Taibu,JM Kemp,Z Khan,0,0,,,,,,"",""
+ball,1,15.5,Africa XI,T Taibu,JM Kemp,Z Khan,0,0,,,,,,"",""
+ball,1,15.6,Africa XI,T Taibu,JM Kemp,Z Khan,0,0,,,,,,"",""
+ball,1,16.1,Africa XI,JM Kemp,T Taibu,A Nehra,0,0,,,,,,"",""
+ball,1,16.2,Africa XI,JM Kemp,T Taibu,A Nehra,0,0,,,,,,"",""
+ball,1,16.3,Africa XI,JM Kemp,T Taibu,A Nehra,1,0,,,,,,"",""
+ball,1,16.4,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,16.5,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,16.6,Africa XI,T Taibu,JM Kemp,A Nehra,0,0,,,,,,"",""
+ball,1,17.1,Africa XI,JM Kemp,T Taibu,Z Khan,4,0,,,,,,"",""
+ball,1,17.2,Africa XI,JM Kemp,T Taibu,Z Khan,0,0,,,,,,lbw,JM Kemp
+ball,1,17.3,Africa XI,SM Pollock,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,17.4,Africa XI,SM Pollock,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,17.5,Africa XI,SM Pollock,T Taibu,Z Khan,0,1,,,,1,,"",""
+ball,1,17.6,Africa XI,T Taibu,SM Pollock,Z Khan,0,0,,,,,,"",""
+ball,1,18.1,Africa XI,SM Pollock,T Taibu,A Nehra,1,0,,,,,,"",""
+ball,1,18.2,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,18.3,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,18.4,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,18.5,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,18.6,Africa XI,T Taibu,SM Pollock,A Nehra,2,0,,,,,,"",""
+ball,1,19.1,Africa XI,SM Pollock,T Taibu,Z Khan,3,0,,,,,,"",""
+ball,1,19.2,Africa XI,T Taibu,SM Pollock,Z Khan,0,0,,,,,,"",""
+ball,1,19.3,Africa XI,T Taibu,SM Pollock,Z Khan,0,0,,,,,,"",""
+ball,1,19.4,Africa XI,T Taibu,SM Pollock,Z Khan,0,0,,,,,,"",""
+ball,1,19.5,Africa XI,T Taibu,SM Pollock,Z Khan,1,0,,,,,,"",""
+ball,1,19.6,Africa XI,SM Pollock,T Taibu,Z Khan,0,0,,,,,,"",""
+ball,1,20.1,Africa XI,T Taibu,SM Pollock,A Nehra,4,0,,,,,,"",""
+ball,1,20.2,Africa XI,T Taibu,SM Pollock,A Nehra,2,0,,,,,,"",""
+ball,1,20.3,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,20.4,Africa XI,T Taibu,SM Pollock,A Nehra,1,0,,,,,,"",""
+ball,1,20.5,Africa XI,SM Pollock,T Taibu,A Nehra,3,0,,,,,,"",""
+ball,1,20.6,Africa XI,T Taibu,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,21.1,Africa XI,SM Pollock,T Taibu,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,21.2,Africa XI,T Taibu,SM Pollock,Abdul Razzaq,0,0,,,,,,caught,T Taibu
+ball,1,21.3,Africa XI,HH Streak,SM Pollock,Abdul Razzaq,4,0,,,,,,"",""
+ball,1,21.4,Africa XI,HH Streak,SM Pollock,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,21.5,Africa XI,SM Pollock,HH Streak,Abdul Razzaq,3,0,,,,,,"",""
+ball,1,21.6,Africa XI,HH Streak,SM Pollock,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,22.1,Africa XI,SM Pollock,HH Streak,A Nehra,1,0,,,,,,"",""
+ball,1,22.2,Africa XI,HH Streak,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,22.3,Africa XI,HH Streak,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,22.4,Africa XI,HH Streak,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,22.5,Africa XI,HH Streak,SM Pollock,A Nehra,0,0,,,,,,"",""
+ball,1,22.6,Africa XI,HH Streak,SM Pollock,A Nehra,1,0,,,,,,"",""
+ball,1,23.1,Africa XI,HH Streak,SM Pollock,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,23.2,Africa XI,HH Streak,SM Pollock,Abdul Razzaq,1,0,,,,,,"",""
+ball,1,23.3,Africa XI,SM Pollock,HH Streak,Abdul Razzaq,4,0,,,,,,"",""
+ball,1,23.4,Africa XI,SM Pollock,HH Streak,Abdul Razzaq,4,0,,,,,,"",""
+ball,1,23.5,Africa XI,SM Pollock,HH Streak,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,23.6,Africa XI,SM Pollock,HH Streak,Abdul Razzaq,0,0,,,,,,"",""
+ball,1,24.1,Africa XI,HH Streak,SM Pollock,A Nehra,0,1,,,,1,,"",""
+ball,1,24.2,Africa XI,SM Pollock,HH Streak,A Nehra,0,0,,,,,,"",""
+ball,1,24.3,Africa XI,SM Pollock,HH Streak,A Nehra,4,0,,,,,,"",""
+ball,1,24.4,Africa XI,SM Pollock,HH Streak,A Nehra,2,0,,,,,,"",""
+ball,1,24.5,Africa XI,SM Pollock,HH Streak,A Nehra,4,0,,,,,,"",""
+ball,1,24.6,Africa XI,SM Pollock,HH Streak,A Nehra,4,0,,,,,,"",""
+ball,1,25.1,Africa XI,HH Streak,SM Pollock,M Muralitharan,1,0,,,,,,"",""
+ball,1,25.2,Africa XI,SM Pollock,HH Streak,M Muralitharan,0,0,,,,,,"",""
+ball,1,25.3,Africa XI,SM Pollock,HH Streak,M Muralitharan,1,0,,,,,,"",""
+ball,1,25.4,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,25.5,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,25.6,Africa XI,HH Streak,SM Pollock,M Muralitharan,1,0,,,,,,"",""
+ball,1,26.1,Africa XI,HH Streak,SM Pollock,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,26.2,Africa XI,HH Streak,SM Pollock,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,26.3,Africa XI,HH Streak,SM Pollock,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,26.4,Africa XI,HH Streak,SM Pollock,Shoaib Akhtar,1,0,,,,,,"",""
+ball,1,26.5,Africa XI,SM Pollock,HH Streak,Shoaib Akhtar,0,0,,,,,,"",""
+ball,1,26.6,Africa XI,SM Pollock,HH Streak,Shoaib Akhtar,4,0,,,,,,"",""
+ball,1,27.1,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,27.2,Africa XI,HH Streak,SM Pollock,M Muralitharan,1,0,,,,,,"",""
+ball,1,27.3,Africa XI,SM Pollock,HH Streak,M Muralitharan,1,0,,,,,,"",""
+ball,1,27.4,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,27.5,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,27.6,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,28.1,Africa XI,SM Pollock,HH Streak,Shahid Afridi,1,0,,,,,,"",""
+ball,1,28.2,Africa XI,HH Streak,SM Pollock,Shahid Afridi,2,0,,,,,,"",""
+ball,1,28.3,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,"",""
+ball,1,28.4,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,"",""
+ball,1,28.5,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,"",""
+ball,1,28.6,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,"",""
+ball,1,29.1,Africa XI,SM Pollock,HH Streak,M Muralitharan,1,0,,,,,,"",""
+ball,1,29.2,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,29.3,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,29.4,Africa XI,HH Streak,SM Pollock,M Muralitharan,1,0,,,,,,"",""
+ball,1,29.5,Africa XI,SM Pollock,HH Streak,M Muralitharan,1,0,,,,,,"",""
+ball,1,29.6,Africa XI,HH Streak,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,30.1,Africa XI,SM Pollock,HH Streak,Shahid Afridi,0,0,,,,,,"",""
+ball,1,30.2,Africa XI,SM Pollock,HH Streak,Shahid Afridi,1,0,,,,,,"",""
+ball,1,30.3,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,"",""
+ball,1,30.4,Africa XI,HH Streak,SM Pollock,Shahid Afridi,0,0,,,,,,lbw,HH Streak
+ball,1,30.5,Africa XI,DW Steyn,SM Pollock,Shahid Afridi,1,0,,,,,,"",""
+ball,1,30.6,Africa XI,SM Pollock,DW Steyn,Shahid Afridi,0,0,,,,,,"",""
+ball,1,31.1,Africa XI,DW Steyn,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,31.2,Africa XI,DW Steyn,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,31.3,Africa XI,DW Steyn,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,31.4,Africa XI,DW Steyn,SM Pollock,M Muralitharan,0,0,,,,,,lbw,DW Steyn
+ball,1,31.5,Africa XI,M Zondeki,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,31.6,Africa XI,M Zondeki,SM Pollock,M Muralitharan,0,0,,,,,,"",""
+ball,1,32.1,Africa XI,SM Pollock,M Zondeki,Shahid Afridi,0,0,,,,,,"",""
+ball,1,32.2,Africa XI,SM Pollock,M Zondeki,Shahid Afridi,0,0,,,,,,"",""
+ball,1,32.3,Africa XI,SM Pollock,M Zondeki,Shahid Afridi,0,0,,,,,,"",""
+ball,1,32.4,Africa XI,SM Pollock,M Zondeki,Shahid Afridi,0,0,,,,,,"",""
+ball,1,32.5,Africa XI,SM Pollock,M Zondeki,Shahid Afridi,0,0,,,,,,run out,M Zondeki
+ball,2,0.1,Asia XI,V Sehwag,Shahid Afridi,SM Pollock,0,0,,,,,,"",""
+ball,2,0.2,Asia XI,V Sehwag,Shahid Afridi,SM Pollock,4,0,,,,,,"",""
+ball,2,0.3,Asia XI,V Sehwag,Shahid Afridi,SM Pollock,1,0,,,,,,"",""
+ball,2,0.4,Asia XI,Shahid Afridi,V Sehwag,SM Pollock,0,0,,,,,,"",""
+ball,2,0.5,Asia XI,Shahid Afridi,V Sehwag,SM Pollock,0,0,,,,,,"",""
+ball,2,0.6,Asia XI,Shahid Afridi,V Sehwag,SM Pollock,0,0,,,,,,"",""
+ball,2,1.1,Asia XI,V Sehwag,Shahid Afridi,DW Steyn,0,1,1,,,,,"",""
+ball,2,1.2,Asia XI,V Sehwag,Shahid Afridi,DW Steyn,0,1,,1,,,,"",""
+ball,2,1.3,Asia XI,V Sehwag,Shahid Afridi,DW Steyn,0,0,,,,,,bowled,V Sehwag
+ball,2,1.4,Asia XI,KC Sangakkara,Shahid Afridi,DW Steyn,0,0,,,,,,"",""
+ball,2,1.5,Asia XI,KC Sangakkara,Shahid Afridi,DW Steyn,0,0,,,,,,"",""
+ball,2,1.6,Asia XI,KC Sangakkara,Shahid Afridi,DW Steyn,0,0,,,,,,"",""
+ball,2,1.7,Asia XI,KC Sangakkara,Shahid Afridi,DW Steyn,0,0,,,,,,"",""
+ball,2,1.8,Asia XI,KC Sangakkara,Shahid Afridi,DW Steyn,0,0,,,,,,"",""
+ball,2,2.1,Asia XI,Shahid Afridi,KC Sangakkara,SM Pollock,0,0,,,,,,caught,Shahid Afridi
+ball,2,2.2,Asia XI,KC Sangakkara,DPMD Jayawardene,SM Pollock,1,0,,,,,,"",""
+ball,2,2.3,Asia XI,DPMD Jayawardene,KC Sangakkara,SM Pollock,0,0,,,,,,"",""
+ball,2,2.4,Asia XI,DPMD Jayawardene,KC Sangakkara,SM Pollock,0,0,,,,,,"",""
+ball,2,2.5,Asia XI,DPMD Jayawardene,KC Sangakkara,SM Pollock,0,0,,,,,,"",""
+ball,2,2.6,Asia XI,DPMD Jayawardene,KC Sangakkara,SM Pollock,0,0,,,,,,"",""

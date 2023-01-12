@@ -1,0 +1,376 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Namibia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/02
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,116
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,umpire,Claus Schumacher
+info,umpire,S George
+info,reserve_umpire,A Louw
+info,match_referee,ET Dube
+info,outcome,no result
+info,player,Nepal,A Saud
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,DS Airee
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,S Dhakal
+info,player,Nepal,LN Rajbanshi
+info,player,Namibia,M van Lingen
+info,player,Namibia,D la Cock
+info,player,Namibia,L Louwrens
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,K Birkenstock
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D la Cock,48301a4b
+info,registry,people,DS Airee,1747ea18
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Birkenstock,27b8d7b6
+info,registry,people,L Louwrens,b018e1eb
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S George,6d9e5a54
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,0.2,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,0.3,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,0.4,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,0.5,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,0.6,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,1.1,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,1.2,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,1.3,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,1.4,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,1.5,Nepal,Aasif Sheikh,A Saud,T Lungameni,4,0,,,,,,"",""
+ball,1,1.6,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,2.1,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,2.2,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,2.3,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,2.4,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,2.5,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,2.6,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,3.1,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,3.2,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,3.3,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,3.4,Nepal,Aasif Sheikh,A Saud,T Lungameni,4,0,,,,,,"",""
+ball,1,3.5,Nepal,Aasif Sheikh,A Saud,T Lungameni,2,0,,,,,,"",""
+ball,1,3.6,Nepal,Aasif Sheikh,A Saud,T Lungameni,0,0,,,,,,"",""
+ball,1,4.1,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,4.2,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,4.3,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,4.4,Nepal,A Saud,Aasif Sheikh,JJ Smit,3,0,,,,,,"",""
+ball,1,4.5,Nepal,Aasif Sheikh,A Saud,JJ Smit,1,0,,,,,,"",""
+ball,1,4.6,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,5.1,Nepal,Aasif Sheikh,A Saud,T Lungameni,1,0,,,,,,"",""
+ball,1,5.2,Nepal,A Saud,Aasif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,5.3,Nepal,A Saud,Aasif Sheikh,T Lungameni,4,0,,,,,,"",""
+ball,1,5.4,Nepal,A Saud,Aasif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,5.5,Nepal,A Saud,Aasif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,5.6,Nepal,A Saud,Aasif Sheikh,T Lungameni,1,0,,,,,,"",""
+ball,1,6.1,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,6.2,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,6.3,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,6.4,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,6.5,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,6.6,Nepal,A Saud,Aasif Sheikh,JJ Smit,2,0,,,,,,"",""
+ball,1,7.1,Nepal,Aasif Sheikh,A Saud,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.2,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.3,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.4,Nepal,A Saud,Aasif Sheikh,BM Scholtz,1,0,,,,,,"",""
+ball,1,7.5,Nepal,Aasif Sheikh,A Saud,BM Scholtz,0,0,,,,,,"",""
+ball,1,7.6,Nepal,Aasif Sheikh,A Saud,BM Scholtz,0,0,,,,,,"",""
+ball,1,8.1,Nepal,A Saud,Aasif Sheikh,JJ Smit,2,0,,,,,,"",""
+ball,1,8.2,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,8.3,Nepal,A Saud,Aasif Sheikh,JJ Smit,4,0,,,,,,"",""
+ball,1,8.4,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,8.5,Nepal,A Saud,Aasif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,8.6,Nepal,A Saud,Aasif Sheikh,JJ Smit,1,0,,,,,,"",""
+ball,1,9.1,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.2,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.3,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.4,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,9.5,Nepal,A Saud,Aasif Sheikh,BM Scholtz,0,0,,,,,,bowled,A Saud
+ball,1,9.6,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.1,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,10.2,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,10.3,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,10.4,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,10.5,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,10.6,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,11.1,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.2,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.3,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.4,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,11.5,Nepal,G Malla,Aasif Sheikh,BM Scholtz,4,0,,,,,,"",""
+ball,1,11.6,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,12.1,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.2,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.3,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.4,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.5,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.6,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,13.1,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.2,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.3,Nepal,G Malla,Aasif Sheikh,BM Scholtz,1,0,,,,,,"",""
+ball,1,13.4,Nepal,Aasif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.5,Nepal,Aasif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,13.6,Nepal,Aasif Sheikh,G Malla,BM Scholtz,1,0,,,,,,"",""
+ball,1,14.1,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,14.2,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,14.3,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,14.4,Nepal,G Malla,Aasif Sheikh,R Trumpelmann,1,0,,,,,,"",""
+ball,1,14.5,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,2,0,,,,,,"",""
+ball,1,14.6,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,14.7,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,15.1,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,15.2,Nepal,G Malla,Aasif Sheikh,BM Scholtz,2,0,,,,,,"",""
+ball,1,15.3,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,15.4,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,15.5,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,15.6,Nepal,G Malla,Aasif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,16.1,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,16.2,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,16.3,Nepal,Aasif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,16.4,Nepal,G Malla,Aasif Sheikh,R Trumpelmann,4,0,,,,,,"",""
+ball,1,16.5,Nepal,G Malla,Aasif Sheikh,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,16.6,Nepal,G Malla,Aasif Sheikh,R Trumpelmann,0,0,,,,,,"",""
+ball,1,16.7,Nepal,G Malla,Aasif Sheikh,R Trumpelmann,0,0,,,,,,"",""
+ball,1,17.1,Nepal,Aasif Sheikh,G Malla,T Lungameni,0,1,1,,,,,"",""
+ball,1,17.2,Nepal,Aasif Sheikh,G Malla,T Lungameni,1,0,,,,,,"",""
+ball,1,17.3,Nepal,G Malla,Aasif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,17.4,Nepal,G Malla,Aasif Sheikh,T Lungameni,1,0,,,,,,"",""
+ball,1,17.5,Nepal,Aasif Sheikh,G Malla,T Lungameni,0,0,,,,,,"",""
+ball,1,17.6,Nepal,Aasif Sheikh,G Malla,T Lungameni,0,1,,,,1,,"",""
+ball,1,17.7,Nepal,G Malla,Aasif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,18.1,Nepal,Aasif Sheikh,G Malla,K Birkenstock,0,0,,,,,,"",""
+ball,1,18.2,Nepal,Aasif Sheikh,G Malla,K Birkenstock,1,0,,,,,,"",""
+ball,1,18.3,Nepal,G Malla,Aasif Sheikh,K Birkenstock,0,0,,,,,,"",""
+ball,1,18.4,Nepal,G Malla,Aasif Sheikh,K Birkenstock,0,0,,,,,,"",""
+ball,1,18.5,Nepal,G Malla,Aasif Sheikh,K Birkenstock,6,0,,,,,,"",""
+ball,1,18.6,Nepal,G Malla,Aasif Sheikh,K Birkenstock,1,0,,,,,,"",""
+ball,1,19.1,Nepal,G Malla,Aasif Sheikh,MG Erasmus,0,0,,,,,,"",""
+ball,1,19.2,Nepal,G Malla,Aasif Sheikh,MG Erasmus,1,0,,,,,,"",""
+ball,1,19.3,Nepal,Aasif Sheikh,G Malla,MG Erasmus,0,0,,,,,,caught,Aasif Sheikh
+ball,1,19.4,Nepal,RK Paudel,G Malla,MG Erasmus,1,0,,,,,,"",""
+ball,1,19.5,Nepal,G Malla,RK Paudel,MG Erasmus,0,0,,,,,,"",""
+ball,1,19.6,Nepal,G Malla,RK Paudel,MG Erasmus,0,0,,,,,,"",""
+ball,1,20.1,Nepal,RK Paudel,G Malla,T Lungameni,0,0,,,,,,"",""
+ball,1,20.2,Nepal,RK Paudel,G Malla,T Lungameni,1,0,,,,,,"",""
+ball,1,20.3,Nepal,G Malla,RK Paudel,T Lungameni,4,0,,,,,,"",""
+ball,1,20.4,Nepal,G Malla,RK Paudel,T Lungameni,1,0,,,,,,"",""
+ball,1,20.5,Nepal,RK Paudel,G Malla,T Lungameni,1,0,,,,,,"",""
+ball,1,20.6,Nepal,G Malla,RK Paudel,T Lungameni,2,0,,,,,,"",""
+ball,1,21.1,Nepal,RK Paudel,G Malla,MG Erasmus,1,0,,,,,,"",""
+ball,1,21.2,Nepal,G Malla,RK Paudel,MG Erasmus,0,0,,,,,,"",""
+ball,1,21.3,Nepal,G Malla,RK Paudel,MG Erasmus,1,0,,,,,,"",""
+ball,1,21.4,Nepal,RK Paudel,G Malla,MG Erasmus,0,0,,,,,,"",""
+ball,1,21.5,Nepal,RK Paudel,G Malla,MG Erasmus,2,0,,,,,,"",""
+ball,1,21.6,Nepal,RK Paudel,G Malla,MG Erasmus,1,0,,,,,,"",""
+ball,1,22.1,Nepal,RK Paudel,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,22.2,Nepal,RK Paudel,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,22.3,Nepal,RK Paudel,G Malla,BM Scholtz,1,0,,,,,,"",""
+ball,1,22.4,Nepal,G Malla,RK Paudel,BM Scholtz,0,0,,,,,,"",""
+ball,1,22.5,Nepal,G Malla,RK Paudel,BM Scholtz,0,0,,,,,,"",""
+ball,1,22.6,Nepal,G Malla,RK Paudel,BM Scholtz,0,0,,,,,,"",""
+ball,1,23.1,Nepal,RK Paudel,G Malla,M van Lingen,0,0,,,,,,"",""
+ball,1,23.2,Nepal,RK Paudel,G Malla,M van Lingen,1,0,,,,,,"",""
+ball,1,23.3,Nepal,G Malla,RK Paudel,M van Lingen,1,0,,,,,,"",""
+ball,1,23.4,Nepal,RK Paudel,G Malla,M van Lingen,1,0,,,,,,"",""
+ball,1,23.5,Nepal,G Malla,RK Paudel,M van Lingen,1,0,,,,,,"",""
+ball,1,23.6,Nepal,RK Paudel,G Malla,M van Lingen,0,0,,,,,,"",""
+ball,1,24.1,Nepal,G Malla,RK Paudel,BM Scholtz,0,0,,,,,,"",""
+ball,1,24.2,Nepal,G Malla,RK Paudel,BM Scholtz,1,0,,,,,,run out,RK Paudel
+ball,1,24.3,Nepal,Aarif Sheikh,G Malla,BM Scholtz,4,0,,,,,,"",""
+ball,1,24.4,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,24.5,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,24.6,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,25.1,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,25.2,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,25.3,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,25.4,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,25.5,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,25.6,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,26.1,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,26.2,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,26.3,Nepal,G Malla,Aarif Sheikh,R Trumpelmann,1,0,,,,,,"",""
+ball,1,26.4,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,26.5,Nepal,G Malla,Aarif Sheikh,R Trumpelmann,1,0,,,,,,"",""
+ball,1,26.6,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,27.1,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,27.2,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,27.3,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,27.4,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,27.5,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,27.6,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,28.1,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,28.2,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,28.3,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,28.4,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,28.5,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,4,0,,,,,,"",""
+ball,1,28.6,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,29.1,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,2,0,,,,,,"",""
+ball,1,29.2,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,6,0,,,,,,"",""
+ball,1,29.3,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,29.4,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,29.5,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,29.6,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,30.1,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,30.2,Nepal,G Malla,Aarif Sheikh,R Trumpelmann,0,0,,,,,,"",""
+ball,1,30.3,Nepal,G Malla,Aarif Sheikh,R Trumpelmann,1,0,,,,,,"",""
+ball,1,30.4,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,0,0,,,,,,"",""
+ball,1,30.5,Nepal,Aarif Sheikh,G Malla,R Trumpelmann,1,0,,,,,,"",""
+ball,1,30.6,Nepal,G Malla,Aarif Sheikh,R Trumpelmann,1,0,,,,,,"",""
+ball,1,31.1,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,4,0,,,,,,"",""
+ball,1,31.2,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,31.3,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,31.4,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,31.5,Nepal,G Malla,Aarif Sheikh,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,31.6,Nepal,Aarif Sheikh,G Malla,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,32.1,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,32.2,Nepal,G Malla,Aarif Sheikh,JJ Smit,2,0,,,,,,"",""
+ball,1,32.3,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,32.4,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,32.5,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,32.6,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,33.1,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,33.2,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,33.3,Nepal,Aarif Sheikh,G Malla,BM Scholtz,1,0,,,,,,"",""
+ball,1,33.4,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,33.5,Nepal,G Malla,Aarif Sheikh,BM Scholtz,1,0,,,,,,"",""
+ball,1,33.6,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,34.1,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,34.2,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,34.3,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,34.4,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,34.5,Nepal,G Malla,Aarif Sheikh,JJ Smit,1,0,,,,,,"",""
+ball,1,34.6,Nepal,Aarif Sheikh,G Malla,JJ Smit,0,0,,,,,,"",""
+ball,1,35.1,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,35.2,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,35.3,Nepal,G Malla,Aarif Sheikh,BM Scholtz,4,0,,,,,,"",""
+ball,1,35.4,Nepal,G Malla,Aarif Sheikh,BM Scholtz,4,0,,,,,,"",""
+ball,1,35.5,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,35.6,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,36.1,Nepal,Aarif Sheikh,G Malla,JJ Smit,0,0,,,,,,"",""
+ball,1,36.2,Nepal,Aarif Sheikh,G Malla,JJ Smit,1,0,,,,,,"",""
+ball,1,36.3,Nepal,G Malla,Aarif Sheikh,JJ Smit,4,0,,,,,,"",""
+ball,1,36.4,Nepal,G Malla,Aarif Sheikh,JJ Smit,1,0,,,,,,"",""
+ball,1,36.5,Nepal,Aarif Sheikh,G Malla,JJ Smit,0,1,1,,,,,"",""
+ball,1,36.6,Nepal,Aarif Sheikh,G Malla,JJ Smit,1,0,,,,,,"",""
+ball,1,36.7,Nepal,G Malla,Aarif Sheikh,JJ Smit,0,0,,,,,,"",""
+ball,1,37.1,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,37.2,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,37.3,Nepal,Aarif Sheikh,G Malla,BM Scholtz,0,0,,,,,,"",""
+ball,1,37.4,Nepal,Aarif Sheikh,G Malla,BM Scholtz,1,0,,,,,,"",""
+ball,1,37.5,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,37.6,Nepal,G Malla,Aarif Sheikh,BM Scholtz,0,0,,,,,,"",""
+ball,1,38.1,Nepal,Aarif Sheikh,G Malla,T Lungameni,1,0,,,,,,"",""
+ball,1,38.2,Nepal,G Malla,Aarif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,38.3,Nepal,G Malla,Aarif Sheikh,T Lungameni,1,0,,,,,,"",""
+ball,1,38.4,Nepal,Aarif Sheikh,G Malla,T Lungameni,1,0,,,,,,"",""
+ball,1,38.5,Nepal,G Malla,Aarif Sheikh,T Lungameni,0,0,,,,,,"",""
+ball,1,38.6,Nepal,G Malla,Aarif Sheikh,T Lungameni,1,0,,,,,,"",""
+ball,1,39.1,Nepal,G Malla,Aarif Sheikh,K Birkenstock,1,0,,,,,,"",""
+ball,1,39.2,Nepal,Aarif Sheikh,G Malla,K Birkenstock,0,1,1,,,,,"",""
+ball,1,39.3,Nepal,Aarif Sheikh,G Malla,K Birkenstock,0,0,,,,,,caught,Aarif Sheikh
+ball,1,39.4,Nepal,DS Airee,G Malla,K Birkenstock,0,0,,,,,,caught,DS Airee
+ball,1,39.5,Nepal,K Bhurtel,G Malla,K Birkenstock,0,1,1,,,,,"",""
+ball,1,39.6,Nepal,K Bhurtel,G Malla,K Birkenstock,1,0,,,,,,"",""
+ball,1,39.7,Nepal,G Malla,K Bhurtel,K Birkenstock,1,0,,,,,,"",""
+ball,1,39.8,Nepal,K Bhurtel,G Malla,K Birkenstock,6,0,,,,,,"",""
+ball,1,40.1,Nepal,G Malla,K Bhurtel,T Lungameni,0,0,,,,,,caught,G Malla
+ball,1,40.2,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,0,0,,,,,,"",""
+ball,1,40.3,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,0,0,,,,,,"",""
+ball,1,40.4,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,0,0,,,,,,"",""
+ball,1,40.5,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,1,0,,,,,,"",""
+ball,1,40.6,Nepal,K Bhurtel,Gulsan Jha,T Lungameni,1,0,,,,,,"",""
+ball,1,41.1,Nepal,K Bhurtel,Gulsan Jha,K Birkenstock,0,0,,,,,,"",""
+ball,1,41.2,Nepal,K Bhurtel,Gulsan Jha,K Birkenstock,1,0,,,,,,"",""
+ball,1,41.3,Nepal,Gulsan Jha,K Bhurtel,K Birkenstock,1,0,,,,,,"",""
+ball,1,41.4,Nepal,K Bhurtel,Gulsan Jha,K Birkenstock,1,0,,,,,,"",""
+ball,1,41.5,Nepal,Gulsan Jha,K Bhurtel,K Birkenstock,1,0,,,,,,"",""
+ball,1,41.6,Nepal,K Bhurtel,Gulsan Jha,K Birkenstock,1,0,,,,,,"",""
+ball,1,42.1,Nepal,K Bhurtel,Gulsan Jha,T Lungameni,0,0,,,,,,"",""
+ball,1,42.2,Nepal,K Bhurtel,Gulsan Jha,T Lungameni,0,0,,,,,,"",""
+ball,1,42.3,Nepal,K Bhurtel,Gulsan Jha,T Lungameni,1,0,,,,,,"",""
+ball,1,42.4,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,0,0,,,,,,"",""
+ball,1,42.5,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,6,0,,,,,,"",""
+ball,1,42.6,Nepal,Gulsan Jha,K Bhurtel,T Lungameni,0,0,,,,,,"",""
+ball,1,43.1,Nepal,K Bhurtel,Gulsan Jha,R Trumpelmann,1,0,,,,,,"",""
+ball,1,43.2,Nepal,Gulsan Jha,K Bhurtel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,43.3,Nepal,Gulsan Jha,K Bhurtel,R Trumpelmann,6,0,,,,,,"",""
+ball,1,43.4,Nepal,Gulsan Jha,K Bhurtel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,43.5,Nepal,Gulsan Jha,K Bhurtel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,43.6,Nepal,Gulsan Jha,K Bhurtel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,44.1,Nepal,K Bhurtel,Gulsan Jha,JJ Smit,0,0,,,,,,lbw,K Bhurtel
+ball,1,44.2,Nepal,Sompal Kami,Gulsan Jha,JJ Smit,0,0,,,,,,"",""
+ball,1,44.3,Nepal,Sompal Kami,Gulsan Jha,JJ Smit,1,0,,,,,,"",""
+ball,1,44.4,Nepal,Gulsan Jha,Sompal Kami,JJ Smit,1,0,,,,,,"",""
+ball,1,44.5,Nepal,Sompal Kami,Gulsan Jha,JJ Smit,1,0,,,,,,"",""
+ball,1,44.6,Nepal,Gulsan Jha,Sompal Kami,JJ Smit,2,0,,,,,,"",""
+ball,1,45.1,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,45.2,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,45.3,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,45.4,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,45.5,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,45.6,Nepal,Sompal Kami,Gulsan Jha,R Trumpelmann,0,0,,,,,,"",""
+ball,1,46.1,Nepal,Gulsan Jha,Sompal Kami,T Lungameni,0,1,,,,1,,"",""
+ball,1,46.2,Nepal,Sompal Kami,Gulsan Jha,T Lungameni,1,0,,,,,,"",""
+ball,1,46.3,Nepal,Gulsan Jha,Sompal Kami,T Lungameni,0,0,,,,,,caught,Gulsan Jha
+ball,1,46.4,Nepal,S Dhakal,Sompal Kami,T Lungameni,0,0,,,,,,"",""
+ball,1,46.5,Nepal,S Dhakal,Sompal Kami,T Lungameni,0,0,,,,,,"",""
+ball,1,46.6,Nepal,S Dhakal,Sompal Kami,T Lungameni,0,0,,,,,,"",""
+ball,1,47.1,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,0,0,,,,,,"",""
+ball,1,47.2,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,6,0,,,,,,"",""
+ball,1,47.3,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,0,0,,,,,,"",""
+ball,1,47.4,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,0,0,,,,,,"",""
+ball,1,47.5,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,0,0,,,,,,"",""
+ball,1,47.6,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,47.7,Nepal,Sompal Kami,S Dhakal,R Trumpelmann,1,0,,,,,,"",""
+ball,1,48.1,Nepal,Sompal Kami,S Dhakal,T Lungameni,0,0,,,,,,caught,Sompal Kami
+ball,1,48.2,Nepal,LN Rajbanshi,S Dhakal,T Lungameni,0,0,,,,,,"",""
+ball,1,48.3,Nepal,LN Rajbanshi,S Dhakal,T Lungameni,0,0,,,,,,"",""
+ball,1,48.4,Nepal,LN Rajbanshi,S Dhakal,T Lungameni,0,0,,,,,,"",""
+ball,1,48.5,Nepal,LN Rajbanshi,S Dhakal,T Lungameni,0,0,,,,,,"",""
+ball,1,48.6,Nepal,LN Rajbanshi,S Dhakal,T Lungameni,0,0,,,,,,"",""
+ball,1,49.1,Nepal,S Dhakal,LN Rajbanshi,JJ Smit,0,0,,,,,,"",""
+ball,1,49.2,Nepal,S Dhakal,LN Rajbanshi,JJ Smit,0,0,,,,,,"",""
+ball,1,49.3,Nepal,S Dhakal,LN Rajbanshi,JJ Smit,1,0,,,,,,"",""
+ball,1,49.4,Nepal,LN Rajbanshi,S Dhakal,JJ Smit,0,0,,,,,,"",""
+ball,1,49.5,Nepal,LN Rajbanshi,S Dhakal,JJ Smit,0,0,,,,,,run out,S Dhakal
+ball,2,0.1,Namibia,M van Lingen,D la Cock,Sompal Kami,1,0,,,,,,"",""
+ball,2,0.2,Namibia,D la Cock,M van Lingen,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.3,Namibia,D la Cock,M van Lingen,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.4,Namibia,D la Cock,M van Lingen,Sompal Kami,3,0,,,,,,"",""

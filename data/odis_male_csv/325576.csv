@@ -1,0 +1,114 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Kenya
+info,gender,male
+info,season,2008
+info,date,2008/08/25
+info,event,Kenya in Ireland ODI Series
+info,match_number,2
+info,venue,"Civil Service Cricket Club, Stormont"
+info,city,Belfast
+info,toss_winner,Kenya
+info,toss_decision,field
+info,umpire,PJ Hartley
+info,umpire,IN Ramage
+info,reserve_umpire,N McCarey
+info,match_referee,MJ Procter
+info,outcome,no result
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,GC Wilson
+info,player,Ireland,PR Stirling
+info,player,Ireland,AC Botha
+info,player,Ireland,AR Cusack
+info,player,Ireland,R Strydom
+info,player,Ireland,AD Poynter
+info,player,Ireland,WK McCallan
+info,player,Ireland,PC Connell
+info,player,Ireland,RM West
+info,player,Ireland,WB Rankin
+info,player,Kenya,KO Otieno
+info,player,Kenya,AA Obanda
+info,player,Kenya,RR Patel
+info,player,Kenya,SO Tikolo
+info,player,Kenya,MA Ouma
+info,player,Kenya,TM Odoyo
+info,player,Kenya,JK Kamande
+info,player,Kenya,AO Suji
+info,player,Kenya,HA Varaiya
+info,player,Kenya,NN Odhiambo
+info,player,Kenya,PJ Ongondo
+info,registry,people,AA Obanda,7081491e
+info,registry,people,AC Botha,d8e79af0
+info,registry,people,AD Poynter,b98cdbf0
+info,registry,people,AO Suji,b15eaf77
+info,registry,people,AR Cusack,568e5a4a
+info,registry,people,GC Wilson,05de1a5a
+info,registry,people,HA Varaiya,eeeebf82
+info,registry,people,IN Ramage,33cb7803
+info,registry,people,JK Kamande,270b3f8e
+info,registry,people,KO Otieno,fbaa61d2
+info,registry,people,MA Ouma,0939c670
+info,registry,people,MJ Procter,32e65048
+info,registry,people,N McCarey,c57ae24c
+info,registry,people,NN Odhiambo,753b5a2d
+info,registry,people,PC Connell,5500c675
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PJ Ongondo,27cc4361
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Strydom,0b2a170a
+info,registry,people,RM West,d1761087
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,SO Tikolo,00d69fa4
+info,registry,people,TM Odoyo,2c13defe
+info,registry,people,WB Rankin,29b89ae8
+info,registry,people,WK McCallan,c942a53b
+info,registry,people,WTS Porterfield,ec02b798
+ball,1,0.1,Ireland,WTS Porterfield,GC Wilson,TM Odoyo,2,0,,,,,,"",""
+ball,1,0.2,Ireland,WTS Porterfield,GC Wilson,TM Odoyo,0,0,,,,,,"",""
+ball,1,0.3,Ireland,WTS Porterfield,GC Wilson,TM Odoyo,1,0,,,,,,"",""
+ball,1,0.4,Ireland,GC Wilson,WTS Porterfield,TM Odoyo,0,0,,,,,,"",""
+ball,1,0.5,Ireland,GC Wilson,WTS Porterfield,TM Odoyo,0,0,,,,,,"",""
+ball,1,0.6,Ireland,GC Wilson,WTS Porterfield,TM Odoyo,0,0,,,,,,"",""
+ball,1,1.1,Ireland,WTS Porterfield,GC Wilson,PJ Ongondo,0,0,,,,,,lbw,WTS Porterfield
+ball,1,1.2,Ireland,PR Stirling,GC Wilson,PJ Ongondo,0,0,,,,,,"",""
+ball,1,1.3,Ireland,PR Stirling,GC Wilson,PJ Ongondo,0,0,,,,,,"",""
+ball,1,1.4,Ireland,PR Stirling,GC Wilson,PJ Ongondo,0,0,,,,,,"",""
+ball,1,1.5,Ireland,PR Stirling,GC Wilson,PJ Ongondo,0,0,,,,,,"",""
+ball,1,1.6,Ireland,PR Stirling,GC Wilson,PJ Ongondo,0,0,,,,,,"",""
+ball,1,2.1,Ireland,GC Wilson,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,2.2,Ireland,GC Wilson,PR Stirling,TM Odoyo,0,0,,,,,,lbw,GC Wilson
+ball,1,2.3,Ireland,AC Botha,PR Stirling,TM Odoyo,4,0,,,,,,"",""
+ball,1,2.4,Ireland,AC Botha,PR Stirling,TM Odoyo,3,0,,,,,,"",""
+ball,1,2.5,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,2.6,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,3.1,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,3.2,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,3.3,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,3.4,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,3.5,Ireland,AC Botha,PR Stirling,PJ Ongondo,4,0,,,,,,"",""
+ball,1,3.6,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,4.1,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,4.2,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,4.3,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,4.4,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,4.5,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,4.6,Ireland,PR Stirling,AC Botha,TM Odoyo,0,0,,,,,,"",""
+ball,1,5.1,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,5.2,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,5.3,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,5.4,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,5.5,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,5.6,Ireland,AC Botha,PR Stirling,PJ Ongondo,0,0,,,,,,"",""
+ball,1,6.1,Ireland,PR Stirling,AC Botha,TM Odoyo,1,0,,,,,,"",""
+ball,1,6.2,Ireland,AC Botha,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,6.3,Ireland,AC Botha,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,6.4,Ireland,AC Botha,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,6.5,Ireland,AC Botha,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,6.6,Ireland,AC Botha,PR Stirling,TM Odoyo,0,0,,,,,,"",""
+ball,1,7.1,Ireland,PR Stirling,AC Botha,PJ Ongondo,0,0,,,,,,"",""
+ball,1,7.2,Ireland,PR Stirling,AC Botha,PJ Ongondo,0,0,,,,,,"",""
+ball,1,7.3,Ireland,PR Stirling,AC Botha,PJ Ongondo,2,0,,,,,,"",""
+ball,1,7.4,Ireland,PR Stirling,AC Botha,PJ Ongondo,0,0,,,,,,"",""
+ball,1,7.5,Ireland,PR Stirling,AC Botha,PJ Ongondo,0,0,,,,,,"",""
+ball,1,7.6,Ireland,PR Stirling,AC Botha,PJ Ongondo,1,0,,,,,,"",""

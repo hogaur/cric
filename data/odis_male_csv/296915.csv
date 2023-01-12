@@ -1,0 +1,303 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2008
+info,date,2008/08/26
+info,event,NatWest Series
+info,match_number,2
+info,venue,Trent Bridge
+info,city,Nottingham
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,SCJ Broad
+info,umpire,MR Benson
+info,umpire,SJA Taufel
+info,reserve_umpire,NL Bainton
+info,tv_umpire,NJ Llong
+info,match_referee,RS Mahanama
+info,winner,England
+info,winner_wickets,10
+info,player,England,IR Bell
+info,player,England,MJ Prior
+info,player,England,OA Shah
+info,player,England,KP Pietersen
+info,player,England,A Flintoff
+info,player,England,PD Collingwood
+info,player,England,SR Patel
+info,player,England,LJ Wright
+info,player,England,SCJ Broad
+info,player,England,JM Anderson
+info,player,England,SJ Harmison
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JH Kallis
+info,player,South Africa,AB de Villiers
+info,player,South Africa,JP Duminy
+info,player,South Africa,MV Boucher
+info,player,South Africa,J Botha
+info,player,South Africa,JA Morkel
+info,player,South Africa,A Nel
+info,player,South Africa,DW Steyn
+info,player,South Africa,M Ntini
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A Nel,2503e881
+info,registry,people,AB de Villiers,c4487b84
+info,registry,people,DW Steyn,8fd1a8f5
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,IR Bell,33155d1b
+info,registry,people,J Botha,7c503806
+info,registry,people,JA Morkel,c3d35165
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JP Duminy,2e8994e7
+info,registry,people,KP Pietersen,39f01cdb
+info,registry,people,LJ Wright,cca50cd6
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MJ Prior,1200550f
+info,registry,people,MR Benson,790e14d3
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OA Shah,7bf96684
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Patel,18fac429
+ball,1,0.1,South Africa,GC Smith,HH Gibbs,JM Anderson,0,0,,,,,,"",""
+ball,1,0.2,South Africa,GC Smith,HH Gibbs,JM Anderson,0,0,,,,,,"",""
+ball,1,0.3,South Africa,GC Smith,HH Gibbs,JM Anderson,1,0,,,,,,"",""
+ball,1,0.4,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,0.5,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,0.6,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,1.1,South Africa,GC Smith,HH Gibbs,SCJ Broad,1,0,,,,,,"",""
+ball,1,1.2,South Africa,HH Gibbs,GC Smith,SCJ Broad,2,0,,,,,,"",""
+ball,1,1.3,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,"",""
+ball,1,1.4,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,"",""
+ball,1,1.5,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,"",""
+ball,1,1.6,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,"",""
+ball,1,2.1,South Africa,GC Smith,HH Gibbs,JM Anderson,3,0,,,,,,"",""
+ball,1,2.2,South Africa,HH Gibbs,GC Smith,JM Anderson,4,0,,,,,,"",""
+ball,1,2.3,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,2.4,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,2.5,South Africa,HH Gibbs,GC Smith,JM Anderson,4,0,,,,,,"",""
+ball,1,2.6,South Africa,HH Gibbs,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,3.1,South Africa,GC Smith,HH Gibbs,SCJ Broad,0,0,,,,,,"",""
+ball,1,3.2,South Africa,GC Smith,HH Gibbs,SCJ Broad,0,1,,,,1,,"",""
+ball,1,3.3,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,"",""
+ball,1,3.4,South Africa,HH Gibbs,GC Smith,SCJ Broad,0,0,,,,,,caught,HH Gibbs
+ball,1,3.5,South Africa,JH Kallis,GC Smith,SCJ Broad,1,0,,,,,,"",""
+ball,1,3.6,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,"",""
+ball,1,4.1,South Africa,JH Kallis,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,4.2,South Africa,JH Kallis,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,4.3,South Africa,JH Kallis,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,4.4,South Africa,JH Kallis,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,4.5,South Africa,JH Kallis,GC Smith,JM Anderson,0,0,,,,,,"",""
+ball,1,4.6,South Africa,JH Kallis,GC Smith,JM Anderson,4,0,,,,,,"",""
+ball,1,5.1,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,"",""
+ball,1,5.2,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,"",""
+ball,1,5.3,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,"",""
+ball,1,5.4,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,"",""
+ball,1,5.5,South Africa,GC Smith,JH Kallis,SCJ Broad,4,0,,,,,,"",""
+ball,1,5.6,South Africa,GC Smith,JH Kallis,SCJ Broad,0,0,,,,,,caught,GC Smith
+ball,1,6.1,South Africa,JH Kallis,AB de Villiers,JM Anderson,0,0,,,,,,"",""
+ball,1,6.2,South Africa,JH Kallis,AB de Villiers,JM Anderson,1,0,,,,,,"",""
+ball,1,6.3,South Africa,AB de Villiers,JH Kallis,JM Anderson,0,0,,,,,,"",""
+ball,1,6.4,South Africa,AB de Villiers,JH Kallis,JM Anderson,0,0,,,,,,"",""
+ball,1,6.5,South Africa,AB de Villiers,JH Kallis,JM Anderson,0,0,,,,,,"",""
+ball,1,6.6,South Africa,AB de Villiers,JH Kallis,JM Anderson,0,0,,,,,,"",""
+ball,1,7.1,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,7.2,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,7.3,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,7.4,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,7.5,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,7.6,South Africa,JH Kallis,AB de Villiers,SCJ Broad,0,0,,,,,,caught,JH Kallis
+ball,1,8.1,South Africa,AB de Villiers,JP Duminy,JM Anderson,0,0,,,,,,"",""
+ball,1,8.2,South Africa,AB de Villiers,JP Duminy,JM Anderson,0,0,,,,,,"",""
+ball,1,8.3,South Africa,AB de Villiers,JP Duminy,JM Anderson,0,0,,,,,,"",""
+ball,1,8.4,South Africa,AB de Villiers,JP Duminy,JM Anderson,1,0,,,,,,"",""
+ball,1,8.5,South Africa,JP Duminy,AB de Villiers,JM Anderson,4,0,,,,,,"",""
+ball,1,8.6,South Africa,JP Duminy,AB de Villiers,JM Anderson,4,0,,,,,,"",""
+ball,1,9.1,South Africa,AB de Villiers,JP Duminy,SCJ Broad,1,0,,,,,,"",""
+ball,1,9.2,South Africa,JP Duminy,AB de Villiers,SCJ Broad,0,0,,,,,,caught,JP Duminy
+ball,1,9.3,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,9.4,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,9.5,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,9.6,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,10.1,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,10.2,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,10.3,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,1,1,,,,,"",""
+ball,1,10.4,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,10.5,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,10.6,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,10.7,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,11.1,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,11.2,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,11.3,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,11.4,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,11.5,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,11.6,South Africa,MV Boucher,AB de Villiers,SCJ Broad,0,0,,,,,,"",""
+ball,1,12.1,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,12.2,South Africa,AB de Villiers,MV Boucher,A Flintoff,3,0,,,,,,"",""
+ball,1,12.3,South Africa,MV Boucher,AB de Villiers,A Flintoff,2,0,,,,,,"",""
+ball,1,12.4,South Africa,MV Boucher,AB de Villiers,A Flintoff,1,0,,,,,,"",""
+ball,1,12.5,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,12.6,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,13.1,South Africa,MV Boucher,AB de Villiers,SCJ Broad,1,0,,,,,,"",""
+ball,1,13.2,South Africa,AB de Villiers,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,13.3,South Africa,AB de Villiers,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,13.4,South Africa,AB de Villiers,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,13.5,South Africa,AB de Villiers,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,13.6,South Africa,AB de Villiers,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,14.1,South Africa,MV Boucher,AB de Villiers,A Flintoff,0,0,,,,,,"",""
+ball,1,14.2,South Africa,MV Boucher,AB de Villiers,A Flintoff,0,0,,,,,,"",""
+ball,1,14.3,South Africa,MV Boucher,AB de Villiers,A Flintoff,0,0,,,,,,"",""
+ball,1,14.4,South Africa,MV Boucher,AB de Villiers,A Flintoff,1,0,,,,,,"",""
+ball,1,14.5,South Africa,AB de Villiers,MV Boucher,A Flintoff,0,0,,,,,,lbw,AB de Villiers
+ball,1,14.6,South Africa,J Botha,MV Boucher,A Flintoff,0,0,,,,,,"",""
+ball,1,15.1,South Africa,MV Boucher,J Botha,SCJ Broad,0,0,,,,,,"",""
+ball,1,15.2,South Africa,MV Boucher,J Botha,SCJ Broad,1,0,,,,,,"",""
+ball,1,15.3,South Africa,J Botha,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,15.4,South Africa,J Botha,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,15.5,South Africa,J Botha,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,15.6,South Africa,J Botha,MV Boucher,SCJ Broad,0,0,,,,,,"",""
+ball,1,16.1,South Africa,MV Boucher,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,16.2,South Africa,MV Boucher,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,16.3,South Africa,MV Boucher,J Botha,A Flintoff,4,0,,,,,,"",""
+ball,1,16.4,South Africa,MV Boucher,J Botha,A Flintoff,0,0,,,,,,caught,MV Boucher
+ball,1,16.5,South Africa,JA Morkel,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,16.6,South Africa,JA Morkel,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,17.1,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,17.2,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,17.3,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,17.4,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,17.5,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,17.6,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,18.1,South Africa,JA Morkel,J Botha,A Flintoff,0,1,1,,,,,"",""
+ball,1,18.2,South Africa,JA Morkel,J Botha,A Flintoff,1,0,,,,,,"",""
+ball,1,18.3,South Africa,J Botha,JA Morkel,A Flintoff,0,0,,,,,,"",""
+ball,1,18.4,South Africa,J Botha,JA Morkel,A Flintoff,0,0,,,,,,"",""
+ball,1,18.5,South Africa,J Botha,JA Morkel,A Flintoff,1,0,,,,,,"",""
+ball,1,18.6,South Africa,JA Morkel,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,18.7,South Africa,JA Morkel,J Botha,A Flintoff,0,0,,,,,,"",""
+ball,1,19.1,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,19.2,South Africa,J Botha,JA Morkel,SCJ Broad,0,0,,,,,,caught,J Botha
+ball,1,19.3,South Africa,A Nel,JA Morkel,SCJ Broad,4,0,,,,,,"",""
+ball,1,19.4,South Africa,A Nel,JA Morkel,SCJ Broad,4,0,,,,,,"",""
+ball,1,19.5,South Africa,A Nel,JA Morkel,SCJ Broad,0,0,,,,,,"",""
+ball,1,19.6,South Africa,A Nel,JA Morkel,SCJ Broad,4,0,,,,,,"",""
+ball,1,20.1,South Africa,JA Morkel,A Nel,A Flintoff,0,0,,,,,,"",""
+ball,1,20.2,South Africa,JA Morkel,A Nel,A Flintoff,0,0,,,,,,"",""
+ball,1,20.3,South Africa,JA Morkel,A Nel,A Flintoff,0,0,,,,,,"",""
+ball,1,20.4,South Africa,JA Morkel,A Nel,A Flintoff,1,0,,,,,,"",""
+ball,1,20.5,South Africa,A Nel,JA Morkel,A Flintoff,0,1,1,,,,,"",""
+ball,1,20.6,South Africa,A Nel,JA Morkel,A Flintoff,0,0,,,,,,"",""
+ball,1,20.7,South Africa,A Nel,JA Morkel,A Flintoff,1,0,,,,,,"",""
+ball,1,21.1,South Africa,A Nel,JA Morkel,SJ Harmison,0,0,,,,,,caught,A Nel
+ball,1,21.2,South Africa,JA Morkel,DW Steyn,SJ Harmison,0,0,,,,,,"",""
+ball,1,21.3,South Africa,JA Morkel,DW Steyn,SJ Harmison,0,0,,,,,,"",""
+ball,1,21.4,South Africa,JA Morkel,DW Steyn,SJ Harmison,4,0,,,,,,"",""
+ball,1,21.5,South Africa,JA Morkel,DW Steyn,SJ Harmison,0,0,,,,,,caught,JA Morkel
+ball,1,21.6,South Africa,M Ntini,DW Steyn,SJ Harmison,0,0,,,,,,"",""
+ball,1,22.1,South Africa,DW Steyn,M Ntini,A Flintoff,0,5,5,,,,,"",""
+ball,1,22.2,South Africa,DW Steyn,M Ntini,A Flintoff,0,0,,,,,,"",""
+ball,1,22.3,South Africa,DW Steyn,M Ntini,A Flintoff,4,0,,,,,,"",""
+ball,1,22.4,South Africa,DW Steyn,M Ntini,A Flintoff,0,0,,,,,,"",""
+ball,1,22.5,South Africa,DW Steyn,M Ntini,A Flintoff,2,0,,,,,,"",""
+ball,1,22.6,South Africa,DW Steyn,M Ntini,A Flintoff,0,0,,,,,,"",""
+ball,1,22.7,South Africa,DW Steyn,M Ntini,A Flintoff,0,0,,,,,,bowled,DW Steyn
+ball,2,0.1,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,0.2,England,IR Bell,MJ Prior,DW Steyn,0,4,,,,4,,"",""
+ball,2,0.3,England,IR Bell,MJ Prior,DW Steyn,2,0,,,,,,"",""
+ball,2,0.4,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,0.5,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,0.6,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,1.1,England,MJ Prior,IR Bell,M Ntini,3,0,,,,,,"",""
+ball,2,1.2,England,IR Bell,MJ Prior,M Ntini,1,0,,,,,,"",""
+ball,2,1.3,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,1.4,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,1.5,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,1.6,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,2.1,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,2.2,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,2.3,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,2.4,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,2.5,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,2.6,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,3.1,England,MJ Prior,IR Bell,M Ntini,4,0,,,,,,"",""
+ball,2,3.2,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,3.3,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,3.4,England,MJ Prior,IR Bell,M Ntini,1,0,,,,,,"",""
+ball,2,3.5,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,3.6,England,IR Bell,MJ Prior,M Ntini,1,0,,,,,,"",""
+ball,2,4.1,England,IR Bell,MJ Prior,DW Steyn,4,0,,,,,,"",""
+ball,2,4.2,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,4.3,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,4.4,England,IR Bell,MJ Prior,DW Steyn,1,0,,,,,,"",""
+ball,2,4.5,England,MJ Prior,IR Bell,DW Steyn,0,0,,,,,,"",""
+ball,2,4.6,England,MJ Prior,IR Bell,DW Steyn,0,0,,,,,,"",""
+ball,2,5.1,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,5.2,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,5.3,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,5.4,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,5.5,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,5.6,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,6.1,England,MJ Prior,IR Bell,DW Steyn,4,0,,,,,,"",""
+ball,2,6.2,England,MJ Prior,IR Bell,DW Steyn,0,1,,,,1,,"",""
+ball,2,6.3,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,6.4,England,IR Bell,MJ Prior,DW Steyn,0,1,,1,,,,"",""
+ball,2,6.5,England,IR Bell,MJ Prior,DW Steyn,1,0,,,,,,"",""
+ball,2,6.6,England,MJ Prior,IR Bell,DW Steyn,4,0,,,,,,"",""
+ball,2,6.7,England,MJ Prior,IR Bell,DW Steyn,2,0,,,,,,"",""
+ball,2,7.1,England,IR Bell,MJ Prior,M Ntini,1,0,,,,,,"",""
+ball,2,7.2,England,MJ Prior,IR Bell,M Ntini,6,0,,,,,,"",""
+ball,2,7.3,England,MJ Prior,IR Bell,M Ntini,0,0,,,,,,"",""
+ball,2,7.4,England,MJ Prior,IR Bell,M Ntini,1,0,,,,,,"",""
+ball,2,7.5,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,7.6,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,8.1,England,MJ Prior,IR Bell,DW Steyn,0,1,1,,,,,"",""
+ball,2,8.2,England,MJ Prior,IR Bell,DW Steyn,0,1,1,,,,,"",""
+ball,2,8.3,England,MJ Prior,IR Bell,DW Steyn,1,0,,,,,,"",""
+ball,2,8.4,England,IR Bell,MJ Prior,DW Steyn,1,0,,,,,,"",""
+ball,2,8.5,England,MJ Prior,IR Bell,DW Steyn,0,1,1,,,,,"",""
+ball,2,8.6,England,MJ Prior,IR Bell,DW Steyn,0,1,,1,,,,"",""
+ball,2,8.7,England,MJ Prior,IR Bell,DW Steyn,1,0,,,,,,"",""
+ball,2,8.8,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,8.9,England,IR Bell,MJ Prior,DW Steyn,1,0,,,,,,"",""
+ball,2,8.1,England,MJ Prior,IR Bell,DW Steyn,1,0,,,,,,"",""
+ball,2,9.1,England,MJ Prior,IR Bell,M Ntini,1,0,,,,,,"",""
+ball,2,9.2,England,IR Bell,MJ Prior,M Ntini,0,1,,,,1,,"",""
+ball,2,9.3,England,MJ Prior,IR Bell,M Ntini,1,0,,,,,,"",""
+ball,2,9.4,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,9.5,England,IR Bell,MJ Prior,M Ntini,4,0,,,,,,"",""
+ball,2,9.6,England,IR Bell,MJ Prior,M Ntini,0,0,,,,,,"",""
+ball,2,10.1,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,10.2,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,10.3,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,10.4,England,MJ Prior,IR Bell,A Nel,4,0,,,,,,"",""
+ball,2,10.5,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,10.6,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,11.1,England,IR Bell,MJ Prior,DW Steyn,0,1,1,,,,,"",""
+ball,2,11.2,England,IR Bell,MJ Prior,DW Steyn,4,0,,,,,,"",""
+ball,2,11.3,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,11.4,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,11.5,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,11.6,England,IR Bell,MJ Prior,DW Steyn,0,0,,,,,,"",""
+ball,2,11.7,England,IR Bell,MJ Prior,DW Steyn,4,0,,,,,,"",""
+ball,2,12.1,England,MJ Prior,IR Bell,A Nel,0,0,,,,,,"",""
+ball,2,12.2,England,MJ Prior,IR Bell,A Nel,4,0,,,,,,"",""
+ball,2,12.3,England,MJ Prior,IR Bell,A Nel,1,0,,,,,,"",""
+ball,2,12.4,England,IR Bell,MJ Prior,A Nel,0,0,,,,,,"",""
+ball,2,12.5,England,IR Bell,MJ Prior,A Nel,0,0,,,,,,"",""
+ball,2,12.6,England,IR Bell,MJ Prior,A Nel,1,0,,,,,,"",""
+ball,2,13.1,England,IR Bell,MJ Prior,JH Kallis,0,0,,,,,,"",""
+ball,2,13.2,England,IR Bell,MJ Prior,JH Kallis,1,0,,,,,,"",""
+ball,2,13.3,England,MJ Prior,IR Bell,JH Kallis,1,0,,,,,,"",""
+ball,2,13.4,England,IR Bell,MJ Prior,JH Kallis,0,0,,,,,,"",""
+ball,2,13.5,England,IR Bell,MJ Prior,JH Kallis,1,0,,,,,,"",""
+ball,2,13.6,England,MJ Prior,IR Bell,JH Kallis,1,0,,,,,,"",""
+ball,2,14.1,England,MJ Prior,IR Bell,A Nel,4,0,,,,,,"",""

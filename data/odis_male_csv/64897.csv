@@ -1,0 +1,371 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Bangladesh
+info,gender,male
+info,season,2004
+info,date,2004/05/16
+info,event,Bangladesh tour of West Indies
+info,match_number,2
+info,venue,Arnos Vale Ground
+info,city,Kingstown
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,DR Smith
+info,umpire,BR Doctrove
+info,umpire,DR Shepherd
+info,tv_umpire,EA Nicholls
+info,match_referee,RS Mahanama
+info,winner,West Indies
+info,winner_runs,23
+info,player,West Indies,CH Gayle
+info,player,West Indies,RL Powell
+info,player,West Indies,DR Smith
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RR Sarwan
+info,player,West Indies,DJ Bravo
+info,player,West Indies,RD Jacobs
+info,player,West Indies,SC Joseph
+info,player,West Indies,IDR Bradshaw
+info,player,West Indies,TL Best
+info,player,West Indies,FH Edwards
+info,player,Bangladesh,Hannan Sarkar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Mushfiqur Rahman
+info,player,Bangladesh,Manjural Islam Rana
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Tapash Baisya
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DR Smith,35205dfc
+info,registry,people,EA Nicholls,ae71e419
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Hannan Sarkar,608e1581
+info,registry,people,IDR Bradshaw,a7489342
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,Manjural Islam Rana,e8d7b493
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mushfiqur Rahman,3fc3b204
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SC Joseph,1eff8625
+info,registry,people,TL Best,db767b89
+info,registry,people,Tapash Baisya,bb1819fa
+ball,1,0.1,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,0.2,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,1,,,,1,,"",""
+ball,1,0.3,West Indies,RL Powell,CH Gayle,Tapash Baisya,0,0,,,,,,"",""
+ball,1,0.4,West Indies,RL Powell,CH Gayle,Tapash Baisya,0,0,,,,,,"",""
+ball,1,0.5,West Indies,RL Powell,CH Gayle,Tapash Baisya,1,0,,,,,,"",""
+ball,1,0.6,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,1.1,West Indies,RL Powell,CH Gayle,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,1.2,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,1.3,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,1.4,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,1.5,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,1.6,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,2.1,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,2.2,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,2.3,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,2.4,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,2.5,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,2.6,West Indies,CH Gayle,RL Powell,Tapash Baisya,0,0,,,,,,"",""
+ball,1,3.1,West Indies,RL Powell,CH Gayle,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,3.2,West Indies,RL Powell,CH Gayle,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,3.3,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,3.4,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,3.5,West Indies,RL Powell,CH Gayle,Mushfiqur Rahman,2,0,,,,,,"",""
+ball,1,3.6,West Indies,RL Powell,CH Gayle,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,4.1,West Indies,RL Powell,CH Gayle,Tapash Baisya,0,0,,,,,,"",""
+ball,1,4.2,West Indies,RL Powell,CH Gayle,Tapash Baisya,2,0,,,,,,"",""
+ball,1,4.3,West Indies,RL Powell,CH Gayle,Tapash Baisya,0,0,,,,,,"",""
+ball,1,4.4,West Indies,RL Powell,CH Gayle,Tapash Baisya,0,0,,,,,,"",""
+ball,1,4.5,West Indies,RL Powell,CH Gayle,Tapash Baisya,1,0,,,,,,"",""
+ball,1,4.6,West Indies,CH Gayle,RL Powell,Tapash Baisya,1,0,,,,,,"",""
+ball,1,5.1,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,5.2,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,4,0,,,,,,"",""
+ball,1,5.3,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,5.4,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,5.5,West Indies,CH Gayle,RL Powell,Mushfiqur Rahman,0,0,,,,,,caught,CH Gayle
+ball,1,5.6,West Indies,DR Smith,RL Powell,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,6.1,West Indies,RL Powell,DR Smith,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,6.2,West Indies,RL Powell,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,6.3,West Indies,DR Smith,RL Powell,Khaled Mahmud,2,0,,,,,,"",""
+ball,1,6.4,West Indies,DR Smith,RL Powell,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,6.5,West Indies,DR Smith,RL Powell,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,6.6,West Indies,DR Smith,RL Powell,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,7.1,West Indies,RL Powell,DR Smith,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,7.2,West Indies,DR Smith,RL Powell,Mushfiqur Rahman,2,0,,,,,,"",""
+ball,1,7.3,West Indies,DR Smith,RL Powell,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,7.4,West Indies,RL Powell,DR Smith,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,7.5,West Indies,RL Powell,DR Smith,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,7.6,West Indies,DR Smith,RL Powell,Mushfiqur Rahman,4,0,,,,,,"",""
+ball,1,8.1,West Indies,RL Powell,DR Smith,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,8.2,West Indies,RL Powell,DR Smith,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,8.3,West Indies,RL Powell,DR Smith,Khaled Mahmud,2,0,,,,,,"",""
+ball,1,8.4,West Indies,RL Powell,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,8.5,West Indies,DR Smith,RL Powell,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,8.6,West Indies,DR Smith,RL Powell,Khaled Mahmud,6,0,,,,,,"",""
+ball,1,9.1,West Indies,RL Powell,DR Smith,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,9.2,West Indies,RL Powell,DR Smith,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,9.3,West Indies,RL Powell,DR Smith,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,9.4,West Indies,RL Powell,DR Smith,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,9.5,West Indies,RL Powell,DR Smith,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,9.6,West Indies,DR Smith,RL Powell,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,10.1,West Indies,DR Smith,RL Powell,Khaled Mahmud,2,0,,,,,,"",""
+ball,1,10.2,West Indies,DR Smith,RL Powell,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,10.3,West Indies,DR Smith,RL Powell,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,10.4,West Indies,RL Powell,DR Smith,Khaled Mahmud,0,0,,,,,,caught,RL Powell
+ball,1,10.5,West Indies,DR Smith,S Chanderpaul,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,10.6,West Indies,DR Smith,S Chanderpaul,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,11.1,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,11.2,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,11.3,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,2,,,,2,,"",""
+ball,1,11.4,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,11.5,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,11.6,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,12.1,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,12.2,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,12.3,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,2,0,,,,,,"",""
+ball,1,12.4,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,0,1,,,,1,,"",""
+ball,1,12.5,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,12.6,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,13.1,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,13.2,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,13.3,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,13.4,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,13.5,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,13.6,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,14.1,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,14.2,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,14.3,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,14.4,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,14.5,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,6,0,,,,,,"",""
+ball,1,14.6,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,15.1,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,15.2,West Indies,DR Smith,S Chanderpaul,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,15.3,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,15.4,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,15.5,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,15.6,West Indies,S Chanderpaul,DR Smith,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,16.1,West Indies,S Chanderpaul,DR Smith,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,16.2,West Indies,DR Smith,S Chanderpaul,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,16.3,West Indies,DR Smith,S Chanderpaul,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,16.4,West Indies,DR Smith,S Chanderpaul,Mushfiqur Rahman,1,0,,,,,,"",""
+ball,1,16.5,West Indies,S Chanderpaul,DR Smith,Mushfiqur Rahman,0,0,,,,,,"",""
+ball,1,16.6,West Indies,S Chanderpaul,DR Smith,Mushfiqur Rahman,2,0,,,,,,"",""
+ball,1,17.1,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,17.2,West Indies,DR Smith,S Chanderpaul,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,17.3,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,17.4,West Indies,S Chanderpaul,DR Smith,Manjural Islam Rana,0,0,,,,,,caught,S Chanderpaul
+ball,1,17.5,West Indies,DR Smith,RR Sarwan,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,17.6,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,18.1,West Indies,DR Smith,RR Sarwan,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,18.2,West Indies,DR Smith,RR Sarwan,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,18.3,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,18.4,West Indies,DR Smith,RR Sarwan,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,18.5,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,18.6,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,19.1,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,19.2,West Indies,DR Smith,RR Sarwan,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,19.3,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,2,0,,,,,,"",""
+ball,1,19.4,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,19.5,West Indies,DR Smith,RR Sarwan,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,19.6,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,20.1,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,0,0,,,,,,"",""
+ball,1,20.2,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,20.3,West Indies,DR Smith,RR Sarwan,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,20.4,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,4,0,,,,,,"",""
+ball,1,20.5,West Indies,RR Sarwan,DR Smith,Khaled Mahmud,1,0,,,,,,"",""
+ball,1,20.6,West Indies,DR Smith,RR Sarwan,Khaled Mahmud,4,0,,,,,,"",""
+ball,1,21.1,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,2,0,,,,,,"",""
+ball,1,21.2,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,21.3,West Indies,DR Smith,RR Sarwan,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,21.4,West Indies,DR Smith,RR Sarwan,Manjural Islam Rana,1,0,,,,,,"",""
+ball,1,21.5,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,0,0,,,,,,"",""
+ball,1,21.6,West Indies,RR Sarwan,DR Smith,Manjural Islam Rana,2,0,,,,,,"",""
+ball,1,22.1,West Indies,DR Smith,RR Sarwan,Tapash Baisya,2,0,,,,,,"",""
+ball,1,22.2,West Indies,DR Smith,RR Sarwan,Tapash Baisya,1,0,,,,,,"",""
+ball,1,22.3,West Indies,RR Sarwan,DR Smith,Tapash Baisya,0,0,,,,,,"",""
+ball,1,22.4,West Indies,RR Sarwan,DR Smith,Tapash Baisya,0,0,,,,,,caught,RR Sarwan
+ball,1,22.5,West Indies,DR Smith,DJ Bravo,Tapash Baisya,1,0,,,,,,"",""
+ball,1,22.6,West Indies,DJ Bravo,DR Smith,Tapash Baisya,0,0,,,,,,caught,DJ Bravo
+ball,1,23.1,West Indies,DR Smith,RD Jacobs,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,23.2,West Indies,DR Smith,RD Jacobs,Mohammad Rafique,2,0,,,,,,"",""
+ball,1,23.3,West Indies,DR Smith,RD Jacobs,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,23.4,West Indies,RD Jacobs,DR Smith,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,23.5,West Indies,DR Smith,RD Jacobs,Mohammad Rafique,0,0,,,,,,"",""
+ball,1,23.6,West Indies,DR Smith,RD Jacobs,Mohammad Rafique,1,0,,,,,,"",""
+ball,1,24.1,West Indies,DR Smith,RD Jacobs,Tapash Baisya,2,0,,,,,,"",""
+ball,1,24.2,West Indies,DR Smith,RD Jacobs,Tapash Baisya,2,0,,,,,,"",""
+ball,1,24.3,West Indies,DR Smith,RD Jacobs,Tapash Baisya,1,0,,,,,,"",""
+ball,1,24.4,West Indies,RD Jacobs,DR Smith,Tapash Baisya,2,0,,,,,,"",""
+ball,1,24.5,West Indies,RD Jacobs,DR Smith,Tapash Baisya,0,0,,,,,,bowled,RD Jacobs
+ball,1,24.6,West Indies,SC Joseph,DR Smith,Tapash Baisya,0,0,,,,,,caught,SC Joseph
+ball,2,0.1,Bangladesh,Hannan Sarkar,Mohammad Ashraful,FH Edwards,0,1,1,,,,,"",""
+ball,2,0.2,Bangladesh,Hannan Sarkar,Mohammad Ashraful,FH Edwards,0,0,,,,,,"",""
+ball,2,0.3,Bangladesh,Hannan Sarkar,Mohammad Ashraful,FH Edwards,2,0,,,,,,"",""
+ball,2,0.4,Bangladesh,Hannan Sarkar,Mohammad Ashraful,FH Edwards,0,0,,,,,,"",""
+ball,2,0.5,Bangladesh,Hannan Sarkar,Mohammad Ashraful,FH Edwards,1,0,,,,,,"",""
+ball,2,0.6,Bangladesh,Mohammad Ashraful,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,0.7,Bangladesh,Mohammad Ashraful,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,1.1,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,0,,,,,,"",""
+ball,2,1.2,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,0,,,,,,"",""
+ball,2,1.3,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,0,,,,,,"",""
+ball,2,1.4,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,0,,,,,,"",""
+ball,2,1.5,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,1,1,,,,,"",""
+ball,2,1.6,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,2,0,,,,,,"",""
+ball,2,1.7,Bangladesh,Hannan Sarkar,Mohammad Ashraful,TL Best,0,0,,,,,,"",""
+ball,2,2.1,Bangladesh,Mohammad Ashraful,Hannan Sarkar,FH Edwards,0,1,1,,,,,"",""
+ball,2,2.2,Bangladesh,Mohammad Ashraful,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,2.3,Bangladesh,Mohammad Ashraful,Hannan Sarkar,FH Edwards,0,0,,,,,,caught,Mohammad Ashraful
+ball,2,2.4,Bangladesh,Habibul Bashar,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,2.5,Bangladesh,Habibul Bashar,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,2.6,Bangladesh,Habibul Bashar,Hannan Sarkar,FH Edwards,2,0,,,,,,"",""
+ball,2,2.7,Bangladesh,Habibul Bashar,Hannan Sarkar,FH Edwards,0,0,,,,,,caught,Habibul Bashar
+ball,2,3.1,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,0,0,,,,,,"",""
+ball,2,3.2,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,0,0,,,,,,"",""
+ball,2,3.3,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,1,0,,,,,,"",""
+ball,2,3.4,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,3.5,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,3.6,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,4.1,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,0,0,,,,,,"",""
+ball,2,4.2,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,0,0,,,,,,"",""
+ball,2,4.3,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,0,0,,,,,,"",""
+ball,2,4.4,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,4,0,,,,,,"",""
+ball,2,4.5,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,0,0,,,,,,"",""
+ball,2,4.6,Bangladesh,Hannan Sarkar,Rajin Saleh,FH Edwards,1,0,,,,,,"",""
+ball,2,5.1,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,0,0,,,,,,"",""
+ball,2,5.2,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,1,0,,,,,,"",""
+ball,2,5.3,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,5.4,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,1,0,,,,,,"",""
+ball,2,5.5,Bangladesh,Hannan Sarkar,Rajin Saleh,TL Best,1,0,,,,,,"",""
+ball,2,5.6,Bangladesh,Rajin Saleh,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,6.1,Bangladesh,Hannan Sarkar,Rajin Saleh,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,6.2,Bangladesh,Rajin Saleh,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,caught,Rajin Saleh
+ball,2,6.3,Bangladesh,Alok Kapali,Hannan Sarkar,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,6.4,Bangladesh,Hannan Sarkar,Alok Kapali,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,6.5,Bangladesh,Hannan Sarkar,Alok Kapali,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,6.6,Bangladesh,Hannan Sarkar,Alok Kapali,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,7.1,Bangladesh,Alok Kapali,Hannan Sarkar,TL Best,0,0,,,,,,caught,Alok Kapali
+ball,2,7.2,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,1,0,,,,,,"",""
+ball,2,7.3,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,TL Best,0,0,,,,,,"",""
+ball,2,7.4,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,TL Best,0,0,,,,,,"",""
+ball,2,7.5,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,TL Best,1,0,,,,,,"",""
+ball,2,7.6,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,8.1,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,8.2,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,8.3,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,8.4,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,8.5,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,8.6,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,9.1,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,1,0,,,,,,"",""
+ball,2,9.2,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,TL Best,1,0,,,,,,"",""
+ball,2,9.3,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,2,0,,,,,,"",""
+ball,2,9.4,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,9.5,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,2,0,,,,,,"",""
+ball,2,9.6,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,TL Best,0,0,,,,,,"",""
+ball,2,10.1,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,10.2,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,10.3,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,10.4,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,10.5,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,IDR Bradshaw,4,0,,,,,,"",""
+ball,2,10.6,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,11.1,Bangladesh,Hannan Sarkar,Mushfiqur Rahman,DJ Bravo,1,0,,,,,,"",""
+ball,2,11.2,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,11.3,Bangladesh,Mushfiqur Rahman,Hannan Sarkar,DJ Bravo,0,0,,,,,,caught,Mushfiqur Rahman
+ball,2,11.4,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,11.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,11.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,12.1,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,12.2,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,2,0,,,,,,"",""
+ball,2,12.3,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,12.4,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,12.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,0,0,,,,,,"",""
+ball,2,12.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,1,0,,,,,,"",""
+ball,2,13.1,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,13.2,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,3,0,,,,,,"",""
+ball,2,13.3,Bangladesh,Hannan Sarkar,Manjural Islam Rana,DJ Bravo,1,0,,,,,,"",""
+ball,2,13.4,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,13.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,4,0,,,,,,"",""
+ball,2,13.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,14.1,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,2,0,,,,,,"",""
+ball,2,14.2,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,14.3,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,14.4,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,14.5,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,14.6,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,15.1,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,15.2,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,15.3,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,2,0,,,,,,"",""
+ball,2,15.4,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,15.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,2,0,,,,,,"",""
+ball,2,15.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,DJ Bravo,0,0,,,,,,"",""
+ball,2,16.1,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,16.2,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,0,0,,,,,,"",""
+ball,2,16.3,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,3,0,,,,,,"",""
+ball,2,16.4,Bangladesh,Hannan Sarkar,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,16.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,2,0,,,,,,"",""
+ball,2,16.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,CH Gayle,0,0,,,,,,"",""
+ball,2,17.1,Bangladesh,Hannan Sarkar,Manjural Islam Rana,FH Edwards,0,0,,,,,,"",""
+ball,2,17.2,Bangladesh,Hannan Sarkar,Manjural Islam Rana,FH Edwards,2,0,,,,,,"",""
+ball,2,17.3,Bangladesh,Hannan Sarkar,Manjural Islam Rana,FH Edwards,1,0,,,,,,"",""
+ball,2,17.4,Bangladesh,Manjural Islam Rana,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,17.5,Bangladesh,Manjural Islam Rana,Hannan Sarkar,FH Edwards,0,0,,,,,,"",""
+ball,2,17.6,Bangladesh,Manjural Islam Rana,Hannan Sarkar,FH Edwards,0,1,,,,1,,"",""
+ball,2,18.1,Bangladesh,Manjural Islam Rana,Hannan Sarkar,IDR Bradshaw,0,1,,,,1,,"",""
+ball,2,18.2,Bangladesh,Hannan Sarkar,Manjural Islam Rana,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,18.3,Bangladesh,Manjural Islam Rana,Hannan Sarkar,IDR Bradshaw,1,0,,,,,,"",""
+ball,2,18.4,Bangladesh,Hannan Sarkar,Manjural Islam Rana,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,18.5,Bangladesh,Hannan Sarkar,Manjural Islam Rana,IDR Bradshaw,0,0,,,,,,caught,Hannan Sarkar
+ball,2,18.6,Bangladesh,Manjural Islam Rana,Khaled Mahmud,IDR Bradshaw,2,0,,,,,,"",""
+ball,2,19.1,Bangladesh,Khaled Mahmud,Manjural Islam Rana,FH Edwards,1,0,,,,,,"",""
+ball,2,19.2,Bangladesh,Manjural Islam Rana,Khaled Mahmud,FH Edwards,0,0,,,,,,"",""
+ball,2,19.3,Bangladesh,Manjural Islam Rana,Khaled Mahmud,FH Edwards,0,0,,,,,,"",""
+ball,2,19.4,Bangladesh,Manjural Islam Rana,Khaled Mahmud,FH Edwards,0,0,,,,,,"",""
+ball,2,19.5,Bangladesh,Manjural Islam Rana,Khaled Mahmud,FH Edwards,2,0,,,,,,"",""
+ball,2,19.6,Bangladesh,Manjural Islam Rana,Khaled Mahmud,FH Edwards,1,0,,,,,,"",""
+ball,2,20.1,Bangladesh,Manjural Islam Rana,Khaled Mahmud,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,20.2,Bangladesh,Manjural Islam Rana,Khaled Mahmud,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,20.3,Bangladesh,Manjural Islam Rana,Khaled Mahmud,IDR Bradshaw,0,1,,,,1,,"",""
+ball,2,20.4,Bangladesh,Khaled Mahmud,Manjural Islam Rana,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,20.5,Bangladesh,Khaled Mahmud,Manjural Islam Rana,IDR Bradshaw,0,0,,,,,,caught,Khaled Mahmud
+ball,2,20.6,Bangladesh,Khaled Mashud,Manjural Islam Rana,IDR Bradshaw,0,0,,,,,,"",""
+ball,2,21.1,Bangladesh,Manjural Islam Rana,Khaled Mashud,DJ Bravo,1,0,,,,,,"",""
+ball,2,21.2,Bangladesh,Khaled Mashud,Manjural Islam Rana,DJ Bravo,0,0,,,,,,"",""
+ball,2,21.3,Bangladesh,Khaled Mashud,Manjural Islam Rana,DJ Bravo,1,0,,,,,,"",""
+ball,2,21.4,Bangladesh,Manjural Islam Rana,Khaled Mashud,DJ Bravo,2,0,,,,,,"",""
+ball,2,21.5,Bangladesh,Manjural Islam Rana,Khaled Mashud,DJ Bravo,1,0,,,,,,"",""
+ball,2,21.6,Bangladesh,Khaled Mashud,Manjural Islam Rana,DJ Bravo,1,0,,,,,,"",""
+ball,2,22.1,Bangladesh,Khaled Mashud,Manjural Islam Rana,CH Gayle,2,0,,,,,,"",""
+ball,2,22.2,Bangladesh,Khaled Mashud,Manjural Islam Rana,CH Gayle,2,0,,,,,,"",""
+ball,2,22.3,Bangladesh,Khaled Mashud,Manjural Islam Rana,CH Gayle,2,0,,,,,,"",""
+ball,2,22.4,Bangladesh,Khaled Mashud,Manjural Islam Rana,CH Gayle,0,0,,,,,,"",""
+ball,2,22.5,Bangladesh,Khaled Mashud,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,22.6,Bangladesh,Manjural Islam Rana,Khaled Mashud,CH Gayle,1,0,,,,,,"",""
+ball,2,23.1,Bangladesh,Manjural Islam Rana,Khaled Mashud,DJ Bravo,2,0,,,,,,"",""
+ball,2,23.2,Bangladesh,Manjural Islam Rana,Khaled Mashud,DJ Bravo,1,0,,,,,,"",""
+ball,2,23.3,Bangladesh,Khaled Mashud,Manjural Islam Rana,DJ Bravo,0,0,,,,,,bowled,Khaled Mashud
+ball,2,23.4,Bangladesh,Mohammad Rafique,Manjural Islam Rana,DJ Bravo,0,0,,,,,,"",""
+ball,2,23.5,Bangladesh,Mohammad Rafique,Manjural Islam Rana,DJ Bravo,0,0,,,,,,"",""
+ball,2,23.6,Bangladesh,Mohammad Rafique,Manjural Islam Rana,DJ Bravo,1,0,,,,,,"",""
+ball,2,24.1,Bangladesh,Mohammad Rafique,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,24.2,Bangladesh,Manjural Islam Rana,Mohammad Rafique,CH Gayle,1,0,,,,,,"",""
+ball,2,24.3,Bangladesh,Mohammad Rafique,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,24.4,Bangladesh,Manjural Islam Rana,Mohammad Rafique,CH Gayle,1,0,,,,,,"",""
+ball,2,24.5,Bangladesh,Mohammad Rafique,Manjural Islam Rana,CH Gayle,1,0,,,,,,"",""
+ball,2,24.6,Bangladesh,Manjural Islam Rana,Mohammad Rafique,CH Gayle,0,0,,,,,,"",""

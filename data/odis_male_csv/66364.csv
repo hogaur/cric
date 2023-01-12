@@ -1,0 +1,232 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2003/04
+info,date,2003/10/23
+info,event,TVS Cup (India)
+info,match_number,1
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,India
+info,toss_decision,bat
+info,umpire,AV Jayaprakash
+info,umpire,DR Shepherd
+info,tv_umpire,I Shivram
+info,match_referee,RS Madugalle
+info,outcome,no result
+info,player,India,V Sehwag
+info,player,India,SR Tendulkar
+info,player,India,VVS Laxman
+info,player,India,R Dravid
+info,player,India,Yuvraj Singh
+info,player,India,M Kaif
+info,player,India,A Kumble
+info,player,India,PA Patel
+info,player,India,Harbhajan Singh
+info,player,India,AB Agarkar
+info,player,India,Z Khan
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,L Vincent
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,DR Tuffey
+info,player,New Zealand,PA Hitchcock
+info,registry,people,A Kumble,0c2730df
+info,registry,people,AB Agarkar,fa463154
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DR Tuffey,43936951
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,I Shivram,85143097
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,L Vincent,2764133a
+info,registry,people,M Kaif,d84378a4
+info,registry,people,PA Hitchcock,27d1cc51
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398
+ball,1,0.1,India,V Sehwag,SR Tendulkar,DR Tuffey,1,0,,,,,,"",""
+ball,1,0.2,India,SR Tendulkar,V Sehwag,DR Tuffey,0,0,,,,,,"",""
+ball,1,0.3,India,SR Tendulkar,V Sehwag,DR Tuffey,0,0,,,,,,"",""
+ball,1,0.4,India,SR Tendulkar,V Sehwag,DR Tuffey,0,0,,,,,,"",""
+ball,1,0.5,India,SR Tendulkar,V Sehwag,DR Tuffey,0,0,,,,,,"",""
+ball,1,0.6,India,SR Tendulkar,V Sehwag,DR Tuffey,1,0,,,,,,"",""
+ball,1,1.1,India,SR Tendulkar,V Sehwag,JDP Oram,1,0,,,,,,"",""
+ball,1,1.2,India,V Sehwag,SR Tendulkar,JDP Oram,2,0,,,,,,"",""
+ball,1,1.3,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,1.4,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,1.5,India,V Sehwag,SR Tendulkar,JDP Oram,4,0,,,,,,"",""
+ball,1,1.6,India,V Sehwag,SR Tendulkar,JDP Oram,0,1,1,,,,,"",""
+ball,1,1.7,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,2.1,India,SR Tendulkar,V Sehwag,DR Tuffey,0,0,,,,,,"",""
+ball,1,2.2,India,SR Tendulkar,V Sehwag,DR Tuffey,1,0,,,,,,"",""
+ball,1,2.3,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,2.4,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,2.5,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,2.6,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,3.1,India,SR Tendulkar,V Sehwag,JDP Oram,1,0,,,,,,"",""
+ball,1,3.2,India,V Sehwag,SR Tendulkar,JDP Oram,1,0,,,,,,"",""
+ball,1,3.3,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,3.4,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,3.5,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,3.6,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,4.1,India,V Sehwag,SR Tendulkar,DR Tuffey,4,0,,,,,,"",""
+ball,1,4.2,India,V Sehwag,SR Tendulkar,DR Tuffey,4,0,,,,,,"",""
+ball,1,4.3,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,4.4,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,4.5,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,4.6,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,5.1,India,SR Tendulkar,V Sehwag,JDP Oram,1,0,,,,,,"",""
+ball,1,5.2,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,5.3,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,5.4,India,V Sehwag,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,5.5,India,V Sehwag,SR Tendulkar,JDP Oram,1,0,,,,,,"",""
+ball,1,5.6,India,SR Tendulkar,V Sehwag,JDP Oram,1,0,,,,,,"",""
+ball,1,6.1,India,SR Tendulkar,V Sehwag,DR Tuffey,4,0,,,,,,"",""
+ball,1,6.2,India,SR Tendulkar,V Sehwag,DR Tuffey,1,0,,,,,,"",""
+ball,1,6.3,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,6.4,India,V Sehwag,SR Tendulkar,DR Tuffey,6,0,,,,,,"",""
+ball,1,6.5,India,V Sehwag,SR Tendulkar,DR Tuffey,0,0,,,,,,"",""
+ball,1,6.6,India,V Sehwag,SR Tendulkar,DR Tuffey,4,0,,,,,,"",""
+ball,1,7.1,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,7.2,India,SR Tendulkar,V Sehwag,JDP Oram,4,0,,,,,,"",""
+ball,1,7.3,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,7.4,India,SR Tendulkar,V Sehwag,JDP Oram,4,0,,,,,,"",""
+ball,1,7.5,India,SR Tendulkar,V Sehwag,JDP Oram,0,0,,,,,,"",""
+ball,1,7.6,India,SR Tendulkar,V Sehwag,JDP Oram,1,0,,,,,,"",""
+ball,1,8.1,India,SR Tendulkar,V Sehwag,CL Cairns,0,0,,,,,,"",""
+ball,1,8.2,India,SR Tendulkar,V Sehwag,CL Cairns,1,0,,,,,,"",""
+ball,1,8.3,India,V Sehwag,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,8.4,India,V Sehwag,SR Tendulkar,CL Cairns,4,0,,,,,,"",""
+ball,1,8.5,India,V Sehwag,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,8.6,India,V Sehwag,SR Tendulkar,CL Cairns,0,0,,,,,,bowled,V Sehwag
+ball,1,9.1,India,SR Tendulkar,VVS Laxman,JDP Oram,2,0,,,,,,"",""
+ball,1,9.2,India,SR Tendulkar,VVS Laxman,JDP Oram,0,0,,,,,,"",""
+ball,1,9.3,India,SR Tendulkar,VVS Laxman,JDP Oram,0,0,,,,,,"",""
+ball,1,9.4,India,SR Tendulkar,VVS Laxman,JDP Oram,1,0,,,,,,"",""
+ball,1,9.5,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,9.6,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,10.1,India,SR Tendulkar,VVS Laxman,CL Cairns,1,0,,,,,,"",""
+ball,1,10.2,India,VVS Laxman,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,10.3,India,VVS Laxman,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,10.4,India,VVS Laxman,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,10.5,India,VVS Laxman,SR Tendulkar,CL Cairns,1,0,,,,,,"",""
+ball,1,10.6,India,SR Tendulkar,VVS Laxman,CL Cairns,0,0,,,,,,"",""
+ball,1,11.1,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,11.2,India,VVS Laxman,SR Tendulkar,JDP Oram,4,0,,,,,,"",""
+ball,1,11.3,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,11.4,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,11.5,India,VVS Laxman,SR Tendulkar,JDP Oram,0,1,1,,,,,"",""
+ball,1,11.6,India,VVS Laxman,SR Tendulkar,JDP Oram,0,0,,,,,,"",""
+ball,1,11.7,India,VVS Laxman,SR Tendulkar,JDP Oram,1,0,,,,,,"",""
+ball,1,12.1,India,VVS Laxman,SR Tendulkar,CL Cairns,4,0,,,,,,"",""
+ball,1,12.2,India,VVS Laxman,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,12.3,India,VVS Laxman,SR Tendulkar,CL Cairns,0,0,,,,,,"",""
+ball,1,12.4,India,VVS Laxman,SR Tendulkar,CL Cairns,1,0,,,,,,"",""
+ball,1,12.5,India,SR Tendulkar,VVS Laxman,CL Cairns,0,0,,,,,,"",""
+ball,1,12.6,India,SR Tendulkar,VVS Laxman,CL Cairns,4,0,,,,,,"",""
+ball,1,13.1,India,VVS Laxman,SR Tendulkar,PA Hitchcock,0,0,,,,,,"",""
+ball,1,13.2,India,VVS Laxman,SR Tendulkar,PA Hitchcock,4,0,,,,,,"",""
+ball,1,13.3,India,VVS Laxman,SR Tendulkar,PA Hitchcock,2,0,,,,,,"",""
+ball,1,13.4,India,VVS Laxman,SR Tendulkar,PA Hitchcock,4,0,,,,,,"",""
+ball,1,13.5,India,VVS Laxman,SR Tendulkar,PA Hitchcock,4,0,,,,,,"",""
+ball,1,13.6,India,VVS Laxman,SR Tendulkar,PA Hitchcock,0,0,,,,,,"",""
+ball,1,14.1,India,SR Tendulkar,VVS Laxman,SB Styris,1,0,,,,,,"",""
+ball,1,14.2,India,VVS Laxman,SR Tendulkar,SB Styris,0,0,,,,,,caught,VVS Laxman
+ball,1,14.3,India,R Dravid,SR Tendulkar,SB Styris,2,0,,,,,,"",""
+ball,1,14.4,India,R Dravid,SR Tendulkar,SB Styris,2,0,,,,,,"",""
+ball,1,14.5,India,R Dravid,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,14.6,India,R Dravid,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,15.1,India,SR Tendulkar,R Dravid,DL Vettori,0,0,,,,,,"",""
+ball,1,15.2,India,SR Tendulkar,R Dravid,DL Vettori,0,0,,,,,,"",""
+ball,1,15.3,India,SR Tendulkar,R Dravid,DL Vettori,1,0,,,,,,"",""
+ball,1,15.4,India,R Dravid,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,15.5,India,R Dravid,SR Tendulkar,DL Vettori,0,0,,,,,,caught,R Dravid
+ball,1,15.6,India,Yuvraj Singh,SR Tendulkar,DL Vettori,1,0,,,,,,"",""
+ball,1,16.1,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,16.2,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,16.3,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,16.4,India,Yuvraj Singh,SR Tendulkar,SB Styris,4,0,,,,,,"",""
+ball,1,16.5,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,16.6,India,Yuvraj Singh,SR Tendulkar,SB Styris,1,0,,,,,,"",""
+ball,1,17.1,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,17.2,India,Yuvraj Singh,SR Tendulkar,DL Vettori,2,0,,,,,,"",""
+ball,1,17.3,India,Yuvraj Singh,SR Tendulkar,DL Vettori,1,0,,,,,,"",""
+ball,1,17.4,India,SR Tendulkar,Yuvraj Singh,DL Vettori,1,0,,,,,,"",""
+ball,1,17.5,India,Yuvraj Singh,SR Tendulkar,DL Vettori,4,0,,,,,,"",""
+ball,1,17.6,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,18.1,India,SR Tendulkar,Yuvraj Singh,SB Styris,1,0,,,,,,"",""
+ball,1,18.2,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,18.3,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,18.4,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,18.5,India,Yuvraj Singh,SR Tendulkar,SB Styris,1,0,,,,,,"",""
+ball,1,18.6,India,SR Tendulkar,Yuvraj Singh,SB Styris,1,0,,,,,,"",""
+ball,1,19.1,India,SR Tendulkar,Yuvraj Singh,DL Vettori,0,0,,,,,,"",""
+ball,1,19.2,India,SR Tendulkar,Yuvraj Singh,DL Vettori,1,0,,,,,,"",""
+ball,1,19.3,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,19.4,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,19.5,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,19.6,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,20.1,India,SR Tendulkar,Yuvraj Singh,SB Styris,4,0,,,,,,"",""
+ball,1,20.2,India,SR Tendulkar,Yuvraj Singh,SB Styris,0,0,,,,,,"",""
+ball,1,20.3,India,SR Tendulkar,Yuvraj Singh,SB Styris,1,0,,,,,,"",""
+ball,1,20.4,India,Yuvraj Singh,SR Tendulkar,SB Styris,0,0,,,,,,"",""
+ball,1,20.5,India,Yuvraj Singh,SR Tendulkar,SB Styris,1,0,,,,,,"",""
+ball,1,20.6,India,SR Tendulkar,Yuvraj Singh,SB Styris,0,0,,,,,,"",""
+ball,1,21.1,India,Yuvraj Singh,SR Tendulkar,DL Vettori,4,0,,,,,,"",""
+ball,1,21.2,India,Yuvraj Singh,SR Tendulkar,DL Vettori,0,0,,,,,,"",""
+ball,1,21.3,India,Yuvraj Singh,SR Tendulkar,DL Vettori,1,0,,,,,,"",""
+ball,1,21.4,India,SR Tendulkar,Yuvraj Singh,DL Vettori,0,0,,,,,,"",""
+ball,1,21.5,India,SR Tendulkar,Yuvraj Singh,DL Vettori,1,0,,,,,,"",""
+ball,1,21.6,India,Yuvraj Singh,SR Tendulkar,DL Vettori,4,0,,,,,,"",""
+ball,1,22.1,India,SR Tendulkar,Yuvraj Singh,CZ Harris,0,0,,,,,,"",""
+ball,1,22.2,India,SR Tendulkar,Yuvraj Singh,CZ Harris,1,0,,,,,,"",""
+ball,1,22.3,India,Yuvraj Singh,SR Tendulkar,CZ Harris,0,0,,,,,,"",""
+ball,1,22.4,India,Yuvraj Singh,SR Tendulkar,CZ Harris,1,0,,,,,,"",""
+ball,1,22.5,India,SR Tendulkar,Yuvraj Singh,CZ Harris,2,0,,,,,,"",""
+ball,1,22.6,India,SR Tendulkar,Yuvraj Singh,CZ Harris,0,0,,,,,,"",""
+ball,1,23.1,India,Yuvraj Singh,SR Tendulkar,PA Hitchcock,0,0,,,,,,"",""
+ball,1,23.2,India,Yuvraj Singh,SR Tendulkar,PA Hitchcock,0,0,,,,,,"",""
+ball,1,23.3,India,Yuvraj Singh,SR Tendulkar,PA Hitchcock,0,0,,,,,,"",""
+ball,1,23.4,India,Yuvraj Singh,SR Tendulkar,PA Hitchcock,1,0,,,,,,"",""
+ball,1,23.5,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,23.6,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,24.1,India,Yuvraj Singh,SR Tendulkar,CZ Harris,1,0,,,,,,"",""
+ball,1,24.2,India,SR Tendulkar,Yuvraj Singh,CZ Harris,0,1,1,,,,,"",""
+ball,1,24.3,India,SR Tendulkar,Yuvraj Singh,CZ Harris,1,0,,,,,,"",""
+ball,1,24.4,India,Yuvraj Singh,SR Tendulkar,CZ Harris,1,0,,,,,,"",""
+ball,1,24.5,India,SR Tendulkar,Yuvraj Singh,CZ Harris,1,0,,,,,,"",""
+ball,1,24.6,India,Yuvraj Singh,SR Tendulkar,CZ Harris,0,0,,,,,,"",""
+ball,1,24.7,India,Yuvraj Singh,SR Tendulkar,CZ Harris,0,0,,,,,,"",""
+ball,1,25.1,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,25.2,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,1,,1,,,,"",""
+ball,1,25.3,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,25.4,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,25.5,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,25.6,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,0,0,,,,,,"",""
+ball,1,25.7,India,SR Tendulkar,Yuvraj Singh,PA Hitchcock,1,0,,,,,,"",""
+ball,1,26.1,India,SR Tendulkar,Yuvraj Singh,CZ Harris,0,0,,,,,,"",""
+ball,1,26.2,India,SR Tendulkar,Yuvraj Singh,CZ Harris,0,0,,,,,,"",""
+ball,1,26.3,India,SR Tendulkar,Yuvraj Singh,CZ Harris,1,0,,,,,,"",""
+ball,1,26.4,India,Yuvraj Singh,SR Tendulkar,CZ Harris,0,0,,,,,,"",""
+ball,1,26.5,India,Yuvraj Singh,SR Tendulkar,CZ Harris,1,0,,,,,,"",""

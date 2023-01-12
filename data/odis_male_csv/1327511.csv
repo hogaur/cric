@@ -1,0 +1,355 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,male
+info,season,2022/23
+info,date,2022/10/11
+info,event,South Africa tour of India
+info,match_number,3
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Kuldeep Yadav
+info,umpire,AK Chaudhary
+info,umpire,J Madanagopal
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,VK Sharma
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,7
+info,player,South Africa,JN Malan
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,M Jansen
+info,player,South Africa,BC Fortuin
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,player,India,S Dhawan
+info,player,India,Shubman Gill
+info,player,India,Ishan Kishan
+info,player,India,SS Iyer
+info,player,India,SV Samson
+info,player,India,SN Thakur
+info,player,India,Washington Sundar
+info,player,India,Shahbaz Ahmed
+info,player,India,Kuldeep Yadav
+info,player,India,Avesh Khan
+info,player,India,Mohammed Siraj
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JN Malan,f76d7466
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,South Africa,JN Malan,Q de Kock,Washington Sundar,1,0,,,,,,"",""
+ball,1,0.2,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,0.3,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,0.4,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,0.5,South Africa,Q de Kock,JN Malan,Washington Sundar,1,0,,,,,,"",""
+ball,1,0.6,South Africa,JN Malan,Q de Kock,Washington Sundar,0,0,,,,,,"",""
+ball,1,1.1,South Africa,Q de Kock,JN Malan,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,1.2,South Africa,JN Malan,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.3,South Africa,JN Malan,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.4,South Africa,JN Malan,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.5,South Africa,JN Malan,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,1.6,South Africa,JN Malan,Q de Kock,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,2.1,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.2,South Africa,Q de Kock,JN Malan,Washington Sundar,4,0,,,,,,"",""
+ball,1,2.3,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.4,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,2.5,South Africa,Q de Kock,JN Malan,Washington Sundar,0,0,,,,,,caught,Q de Kock
+ball,1,2.6,South Africa,RR Hendricks,JN Malan,Washington Sundar,0,0,,,,,,"",""
+ball,1,3.1,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.2,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.3,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,2,0,,,,,,"",""
+ball,1,3.4,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,3.5,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,3.6,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,4.1,South Africa,RR Hendricks,JN Malan,Avesh Khan,1,0,,,,,,"",""
+ball,1,4.2,South Africa,JN Malan,RR Hendricks,Avesh Khan,0,1,,,,1,,"",""
+ball,1,4.3,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.4,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.5,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,4.6,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,5.1,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.2,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.3,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,5.4,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.5,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,5.6,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,6.1,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,6.2,South Africa,RR Hendricks,JN Malan,Avesh Khan,0,0,,,,,,"",""
+ball,1,6.3,South Africa,RR Hendricks,JN Malan,Avesh Khan,1,0,,,,,,"",""
+ball,1,6.4,South Africa,JN Malan,RR Hendricks,Avesh Khan,0,0,,,,,,"",""
+ball,1,6.5,South Africa,JN Malan,RR Hendricks,Avesh Khan,0,0,,,,,,"",""
+ball,1,6.6,South Africa,JN Malan,RR Hendricks,Avesh Khan,0,0,,,,,,"",""
+ball,1,7.1,South Africa,RR Hendricks,JN Malan,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,7.2,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,7.3,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,7.4,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,4,0,,,,,,"",""
+ball,1,7.5,South Africa,JN Malan,RR Hendricks,Mohammed Siraj,0,0,,,,,,caught,JN Malan
+ball,1,7.6,South Africa,AK Markram,RR Hendricks,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,8.1,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,8.2,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,8.3,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,8.4,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,8.5,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,8.6,South Africa,RR Hendricks,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,9.1,South Africa,AK Markram,RR Hendricks,Mohammed Siraj,1,0,,,,,,"",""
+ball,1,9.2,South Africa,RR Hendricks,AK Markram,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,9.3,South Africa,RR Hendricks,AK Markram,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,9.4,South Africa,RR Hendricks,AK Markram,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,9.5,South Africa,RR Hendricks,AK Markram,Mohammed Siraj,0,0,,,,,,"",""
+ball,1,9.6,South Africa,RR Hendricks,AK Markram,Mohammed Siraj,0,0,,,,,,caught,RR Hendricks
+ball,1,10.1,South Africa,AK Markram,H Klaasen,Avesh Khan,0,0,,,,,,"",""
+ball,1,10.2,South Africa,AK Markram,H Klaasen,Avesh Khan,0,0,,,,,,"",""
+ball,1,10.3,South Africa,AK Markram,H Klaasen,Avesh Khan,1,0,,,,,,"",""
+ball,1,10.4,South Africa,H Klaasen,AK Markram,Avesh Khan,1,0,,,,,,"",""
+ball,1,10.5,South Africa,AK Markram,H Klaasen,Avesh Khan,0,0,,,,,,"",""
+ball,1,10.6,South Africa,AK Markram,H Klaasen,Avesh Khan,1,0,,,,,,"",""
+ball,1,11.1,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,11.2,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,11.3,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,11.4,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,11.5,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,11.6,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,12.1,South Africa,AK Markram,H Klaasen,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.2,South Africa,AK Markram,H Klaasen,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.3,South Africa,AK Markram,H Klaasen,Avesh Khan,0,1,1,,,,,"",""
+ball,1,12.4,South Africa,AK Markram,H Klaasen,Avesh Khan,1,0,,,,,,"",""
+ball,1,12.5,South Africa,H Klaasen,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.6,South Africa,H Klaasen,AK Markram,Avesh Khan,0,1,1,,,,,"",""
+ball,1,12.7,South Africa,H Klaasen,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,12.8,South Africa,H Klaasen,AK Markram,Avesh Khan,0,0,,,,,,"",""
+ball,1,13.1,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.2,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,13.3,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.4,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,13.5,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,13.6,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,14.1,South Africa,H Klaasen,AK Markram,SN Thakur,1,0,,,,,,"",""
+ball,1,14.2,South Africa,AK Markram,H Klaasen,SN Thakur,1,0,,,,,,"",""
+ball,1,14.3,South Africa,H Klaasen,AK Markram,SN Thakur,0,0,,,,,,"",""
+ball,1,14.4,South Africa,H Klaasen,AK Markram,SN Thakur,0,0,,,,,,"",""
+ball,1,14.5,South Africa,H Klaasen,AK Markram,SN Thakur,1,0,,,,,,"",""
+ball,1,14.6,South Africa,AK Markram,H Klaasen,SN Thakur,0,0,,,,,,"",""
+ball,1,15.1,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,15.2,South Africa,H Klaasen,AK Markram,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.3,South Africa,AK Markram,H Klaasen,Shahbaz Ahmed,0,0,,,,,,caught,AK Markram
+ball,1,15.4,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,15.5,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,15.6,South Africa,H Klaasen,DA Miller,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,16.1,South Africa,DA Miller,H Klaasen,SN Thakur,1,0,,,,,,"",""
+ball,1,16.2,South Africa,H Klaasen,DA Miller,SN Thakur,0,0,,,,,,"",""
+ball,1,16.3,South Africa,H Klaasen,DA Miller,SN Thakur,4,0,,,,,,"",""
+ball,1,16.4,South Africa,H Klaasen,DA Miller,SN Thakur,0,0,,,,,,"",""
+ball,1,16.5,South Africa,H Klaasen,DA Miller,SN Thakur,0,0,,,,,,"",""
+ball,1,16.6,South Africa,H Klaasen,DA Miller,SN Thakur,0,0,,,,,,"",""
+ball,1,17.1,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,17.2,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,17.3,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,17.4,South Africa,DA Miller,H Klaasen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,17.5,South Africa,H Klaasen,DA Miller,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,17.6,South Africa,H Klaasen,DA Miller,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,18.1,South Africa,H Klaasen,DA Miller,Washington Sundar,0,1,1,,,,,"",""
+ball,1,18.2,South Africa,H Klaasen,DA Miller,Washington Sundar,4,0,,,,,,"",""
+ball,1,18.3,South Africa,H Klaasen,DA Miller,Washington Sundar,0,0,,,,,,"",""
+ball,1,18.4,South Africa,H Klaasen,DA Miller,Washington Sundar,0,0,,,,,,"",""
+ball,1,18.5,South Africa,H Klaasen,DA Miller,Washington Sundar,1,0,,,,,,"",""
+ball,1,18.6,South Africa,DA Miller,H Klaasen,Washington Sundar,0,1,1,,,,,"",""
+ball,1,18.7,South Africa,DA Miller,H Klaasen,Washington Sundar,0,0,,,,,,bowled,DA Miller
+ball,1,18.8,South Africa,AL Phehlukwayo,H Klaasen,Washington Sundar,1,0,,,,,,"",""
+ball,1,19.1,South Africa,AL Phehlukwayo,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,19.2,South Africa,AL Phehlukwayo,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,19.3,South Africa,AL Phehlukwayo,H Klaasen,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,19.4,South Africa,AL Phehlukwayo,H Klaasen,Kuldeep Yadav,0,0,,,,,,bowled,AL Phehlukwayo
+ball,1,19.5,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,19.6,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,20.1,South Africa,H Klaasen,M Jansen,Washington Sundar,0,0,,,,,,"",""
+ball,1,20.2,South Africa,H Klaasen,M Jansen,Washington Sundar,0,0,,,,,,"",""
+ball,1,20.3,South Africa,H Klaasen,M Jansen,Washington Sundar,0,0,,,,,,"",""
+ball,1,20.4,South Africa,H Klaasen,M Jansen,Washington Sundar,1,0,,,,,,"",""
+ball,1,20.5,South Africa,M Jansen,H Klaasen,Washington Sundar,0,0,,,,,,"",""
+ball,1,20.6,South Africa,M Jansen,H Klaasen,Washington Sundar,0,0,,,,,,"",""
+ball,1,21.1,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,21.2,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,21.3,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,21.4,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,21.5,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,21.6,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,22.1,South Africa,H Klaasen,M Jansen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,22.2,South Africa,M Jansen,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,22.3,South Africa,M Jansen,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,22.4,South Africa,M Jansen,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,22.5,South Africa,M Jansen,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,22.6,South Africa,M Jansen,H Klaasen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,23.1,South Africa,H Klaasen,M Jansen,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,23.2,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,23.3,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,23.4,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,23.5,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,23.6,South Africa,M Jansen,H Klaasen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,24.1,South Africa,H Klaasen,M Jansen,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,24.2,South Africa,H Klaasen,M Jansen,Shahbaz Ahmed,2,0,,,,,,"",""
+ball,1,24.3,South Africa,H Klaasen,M Jansen,Shahbaz Ahmed,0,0,,,,,,bowled,H Klaasen
+ball,1,24.4,South Africa,BC Fortuin,M Jansen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,24.5,South Africa,BC Fortuin,M Jansen,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,24.6,South Africa,M Jansen,BC Fortuin,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,25.1,South Africa,BC Fortuin,M Jansen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,25.2,South Africa,BC Fortuin,M Jansen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,25.3,South Africa,BC Fortuin,M Jansen,Kuldeep Yadav,0,0,,,,,,lbw,BC Fortuin
+ball,1,25.4,South Africa,A Nortje,M Jansen,Kuldeep Yadav,0,0,,,,,,bowled,A Nortje
+ball,1,25.5,South Africa,L Ngidi,M Jansen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,25.6,South Africa,L Ngidi,M Jansen,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,26.1,South Africa,M Jansen,L Ngidi,Shahbaz Ahmed,4,0,,,,,,"",""
+ball,1,26.2,South Africa,M Jansen,L Ngidi,Shahbaz Ahmed,1,0,,,,,,"",""
+ball,1,26.3,South Africa,L Ngidi,M Jansen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,26.4,South Africa,L Ngidi,M Jansen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,26.5,South Africa,L Ngidi,M Jansen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,26.6,South Africa,L Ngidi,M Jansen,Shahbaz Ahmed,0,0,,,,,,"",""
+ball,1,27.1,South Africa,M Jansen,L Ngidi,Kuldeep Yadav,0,0,,,,,,caught,M Jansen
+ball,2,0.1,India,S Dhawan,Shubman Gill,M Jansen,0,1,,1,,,,"",""
+ball,2,0.2,India,S Dhawan,Shubman Gill,M Jansen,1,0,,,,,,"",""
+ball,2,0.3,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,0.4,India,Shubman Gill,S Dhawan,M Jansen,0,1,1,,,,,"",""
+ball,2,0.5,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,0.6,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,0.7,India,Shubman Gill,S Dhawan,M Jansen,4,0,,,,,,"",""
+ball,2,0.8,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,1.1,India,S Dhawan,Shubman Gill,L Ngidi,1,0,,,,,,"",""
+ball,2,1.2,India,Shubman Gill,S Dhawan,L Ngidi,0,0,,,,,,"",""
+ball,2,1.3,India,Shubman Gill,S Dhawan,L Ngidi,1,0,,,,,,"",""
+ball,2,1.4,India,S Dhawan,Shubman Gill,L Ngidi,0,0,,,,,,"",""
+ball,2,1.5,India,S Dhawan,Shubman Gill,L Ngidi,4,0,,,,,,"",""
+ball,2,1.6,India,S Dhawan,Shubman Gill,L Ngidi,0,0,,,,,,"",""
+ball,2,2.1,India,Shubman Gill,S Dhawan,M Jansen,4,0,,,,,,"",""
+ball,2,2.2,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,2.3,India,Shubman Gill,S Dhawan,M Jansen,1,0,,,,,,"",""
+ball,2,2.4,India,S Dhawan,Shubman Gill,M Jansen,0,0,,,,,,"",""
+ball,2,2.5,India,S Dhawan,Shubman Gill,M Jansen,0,0,,,,,,"",""
+ball,2,2.6,India,S Dhawan,Shubman Gill,M Jansen,0,0,,,,,,"",""
+ball,2,3.1,India,Shubman Gill,S Dhawan,L Ngidi,0,0,,,,,,"",""
+ball,2,3.2,India,Shubman Gill,S Dhawan,L Ngidi,0,0,,,,,,"",""
+ball,2,3.3,India,Shubman Gill,S Dhawan,L Ngidi,2,0,,,,,,"",""
+ball,2,3.4,India,Shubman Gill,S Dhawan,L Ngidi,0,0,,,,,,"",""
+ball,2,3.5,India,Shubman Gill,S Dhawan,L Ngidi,4,0,,,,,,"",""
+ball,2,3.6,India,Shubman Gill,S Dhawan,L Ngidi,0,0,,,,,,"",""
+ball,2,4.1,India,S Dhawan,Shubman Gill,M Jansen,2,0,,,,,,"",""
+ball,2,4.2,India,S Dhawan,Shubman Gill,M Jansen,0,1,,,1,,,"",""
+ball,2,4.3,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,4.4,India,Shubman Gill,S Dhawan,M Jansen,0,0,,,,,,"",""
+ball,2,4.5,India,Shubman Gill,S Dhawan,M Jansen,4,0,,,,,,"",""
+ball,2,4.6,India,Shubman Gill,S Dhawan,M Jansen,4,0,,,,,,"",""
+ball,2,5.1,India,S Dhawan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,5.2,India,S Dhawan,Shubman Gill,A Nortje,0,1,,,,1,,"",""
+ball,2,5.3,India,Shubman Gill,S Dhawan,A Nortje,4,0,,,,,,"",""
+ball,2,5.4,India,Shubman Gill,S Dhawan,A Nortje,0,0,,,,,,"",""
+ball,2,5.5,India,Shubman Gill,S Dhawan,A Nortje,2,0,,,,,,"",""
+ball,2,5.6,India,Shubman Gill,S Dhawan,A Nortje,0,0,,,,,,"",""
+ball,2,6.1,India,S Dhawan,Shubman Gill,BC Fortuin,0,0,,,,,,run out,S Dhawan
+ball,2,6.2,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,6.3,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,6.4,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,6.5,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,6.6,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,7.1,India,Shubman Gill,Ishan Kishan,A Nortje,1,0,,,,,,"",""
+ball,2,7.2,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,7.3,India,Ishan Kishan,Shubman Gill,A Nortje,1,0,,,,,,"",""
+ball,2,7.4,India,Shubman Gill,Ishan Kishan,A Nortje,0,0,,,,,,"",""
+ball,2,7.5,India,Shubman Gill,Ishan Kishan,A Nortje,0,0,,,,,,"",""
+ball,2,7.6,India,Shubman Gill,Ishan Kishan,A Nortje,0,0,,,,,,"",""
+ball,2,8.1,India,Ishan Kishan,Shubman Gill,BC Fortuin,4,0,,,,,,"",""
+ball,2,8.2,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,8.3,India,Ishan Kishan,Shubman Gill,BC Fortuin,1,0,,,,,,"",""
+ball,2,8.4,India,Shubman Gill,Ishan Kishan,BC Fortuin,0,0,,,,,,"",""
+ball,2,8.5,India,Shubman Gill,Ishan Kishan,BC Fortuin,0,0,,,,,,"",""
+ball,2,8.6,India,Shubman Gill,Ishan Kishan,BC Fortuin,0,0,,,,,,"",""
+ball,2,9.1,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,9.2,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,9.3,India,Ishan Kishan,Shubman Gill,A Nortje,0,4,,,,4,,"",""
+ball,2,9.4,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,9.5,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,9.6,India,Ishan Kishan,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,10.1,India,Shubman Gill,Ishan Kishan,BC Fortuin,0,0,,,,,,"",""
+ball,2,10.2,India,Shubman Gill,Ishan Kishan,BC Fortuin,1,0,,,,,,"",""
+ball,2,10.3,India,Ishan Kishan,Shubman Gill,BC Fortuin,4,0,,,,,,"",""
+ball,2,10.4,India,Ishan Kishan,Shubman Gill,BC Fortuin,0,0,,,,,,caught,Ishan Kishan
+ball,2,10.5,India,SS Iyer,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,10.6,India,SS Iyer,Shubman Gill,BC Fortuin,1,0,,,,,,"",""
+ball,2,11.1,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,11.2,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,11.3,India,SS Iyer,Shubman Gill,A Nortje,6,0,,,,,,"",""
+ball,2,11.4,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,11.5,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,11.6,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,12.1,India,Shubman Gill,SS Iyer,BC Fortuin,1,0,,,,,,"",""
+ball,2,12.2,India,SS Iyer,Shubman Gill,BC Fortuin,4,0,,,,,,"",""
+ball,2,12.3,India,SS Iyer,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.4,India,SS Iyer,Shubman Gill,BC Fortuin,4,0,,,,,,"",""
+ball,2,12.5,India,SS Iyer,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,12.6,India,SS Iyer,Shubman Gill,BC Fortuin,0,0,,,,,,"",""
+ball,2,13.1,India,Shubman Gill,SS Iyer,A Nortje,0,0,,,,,,"",""
+ball,2,13.2,India,Shubman Gill,SS Iyer,A Nortje,0,0,,,,,,"",""
+ball,2,13.3,India,Shubman Gill,SS Iyer,A Nortje,0,0,,,,,,"",""
+ball,2,13.4,India,Shubman Gill,SS Iyer,A Nortje,1,0,,,,,,"",""
+ball,2,13.5,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,13.6,India,SS Iyer,Shubman Gill,A Nortje,0,0,,,,,,"",""
+ball,2,14.1,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,14.2,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,14.3,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,14.4,India,Shubman Gill,SS Iyer,L Ngidi,2,0,,,,,,"",""
+ball,2,14.5,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,14.6,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,15.1,India,SS Iyer,Shubman Gill,M Jansen,1,0,,,,,,"",""
+ball,2,15.2,India,Shubman Gill,SS Iyer,M Jansen,0,0,,,,,,"",""
+ball,2,15.3,India,Shubman Gill,SS Iyer,M Jansen,0,0,,,,,,"",""
+ball,2,15.4,India,Shubman Gill,SS Iyer,M Jansen,4,0,,,,,,"",""
+ball,2,15.5,India,Shubman Gill,SS Iyer,M Jansen,1,0,,,,,,"",""
+ball,2,15.6,India,SS Iyer,Shubman Gill,M Jansen,2,0,,,,,,"",""
+ball,2,16.1,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,16.2,India,Shubman Gill,SS Iyer,L Ngidi,4,0,,,,,,"",""
+ball,2,16.3,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,16.4,India,Shubman Gill,SS Iyer,L Ngidi,1,0,,,,,,"",""
+ball,2,16.5,India,SS Iyer,Shubman Gill,L Ngidi,0,0,,,,,,"",""
+ball,2,16.6,India,SS Iyer,Shubman Gill,L Ngidi,0,0,,,,,,"",""
+ball,2,17.1,India,Shubman Gill,SS Iyer,M Jansen,2,0,,,,,,"",""
+ball,2,17.2,India,Shubman Gill,SS Iyer,M Jansen,0,0,,,,,,"",""
+ball,2,17.3,India,Shubman Gill,SS Iyer,M Jansen,1,0,,,,,,"",""
+ball,2,17.4,India,SS Iyer,Shubman Gill,M Jansen,0,0,,,,,,"",""
+ball,2,17.5,India,SS Iyer,Shubman Gill,M Jansen,0,0,,,,,,"",""
+ball,2,17.6,India,SS Iyer,Shubman Gill,M Jansen,4,0,,,,,,"",""
+ball,2,18.1,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,18.2,India,Shubman Gill,SS Iyer,L Ngidi,0,0,,,,,,lbw,Shubman Gill
+ball,2,18.3,India,SV Samson,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,18.4,India,SV Samson,SS Iyer,L Ngidi,2,0,,,,,,"",""
+ball,2,18.5,India,SV Samson,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,18.6,India,SV Samson,SS Iyer,L Ngidi,0,0,,,,,,"",""
+ball,2,19.1,India,SS Iyer,SV Samson,M Jansen,6,0,,,,,,"",""

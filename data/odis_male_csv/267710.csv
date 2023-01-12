@@ -1,0 +1,180 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,male
+info,season,2006/07
+info,date,2007/02/08
+info,event,Sri Lanka in India ODI Series
+info,match_number,1
+info,venue,Eden Gardens
+info,city,Kolkata
+info,toss_winner,India
+info,toss_decision,field
+info,umpire,SL Shastri
+info,umpire,SJA Taufel
+info,reserve_umpire,S Rao
+info,tv_umpire,GA Pratapkumar
+info,match_referee,AG Hurst
+info,outcome,no result
+info,player,India,RV Uthappa
+info,player,India,SC Ganguly
+info,player,India,R Dravid
+info,player,India,SR Tendulkar
+info,player,India,V Sehwag
+info,player,India,MS Dhoni
+info,player,India,KD Karthik
+info,player,India,Harbhajan Singh
+info,player,India,Z Khan
+info,player,India,S Sreesanth
+info,player,India,MM Patel
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,MF Maharoof
+info,player,Sri Lanka,HMCM Bandara
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,DNT Zoysa
+info,registry,people,AG Hurst,ad7945c6
+info,registry,people,DNT Zoysa,e0351c86
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,GA Pratapkumar,cf7c5778
+info,registry,people,HMCM Bandara,4fc516bd
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,MF Maharoof,ab89348d
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,S Rao,8f9e95fd
+info,registry,people,S Sreesanth,6b8eb6e5
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,SL Shastri,53ef012d
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,WU Tharanga,7ed9fd56
+info,registry,people,Z Khan,91a4a398
+ball,1,0.1,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,4,0,,,,,,"",""
+ball,1,0.2,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,0.3,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,0.4,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,4,0,,,,,,"",""
+ball,1,0.5,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,0.6,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,5,5,,,,,"",""
+ball,1,0.7,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,1.1,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,2,0,,,,,,"",""
+ball,1,1.2,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,4,0,,,,,,"",""
+ball,1,1.3,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,1.4,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,1.5,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,1.6,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,2.1,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,2.2,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,2.3,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,2.4,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,4,0,,,,,,"",""
+ball,1,2.5,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,2.6,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,3.1,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,3.2,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,3.3,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,3.4,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,3.5,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,3.6,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,4.1,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,4.2,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,4.3,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,4.4,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,4.5,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,2,0,,,,,,"",""
+ball,1,4.6,Sri Lanka,WU Tharanga,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,5.1,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,5.2,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,4,0,,,,,,"",""
+ball,1,5.3,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,0,0,,,,,,"",""
+ball,1,5.4,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,4,0,,,,,,"",""
+ball,1,5.5,Sri Lanka,ST Jayasuriya,WU Tharanga,MM Patel,1,0,,,,,,"",""
+ball,1,5.6,Sri Lanka,WU Tharanga,ST Jayasuriya,MM Patel,0,0,,,,,,bowled,WU Tharanga
+ball,1,6.1,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,Z Khan,0,0,,,,,,"",""
+ball,1,6.2,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,Z Khan,4,0,,,,,,"",""
+ball,1,6.3,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,Z Khan,4,0,,,,,,"",""
+ball,1,6.4,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,Z Khan,1,0,,,,,,"",""
+ball,1,6.5,Sri Lanka,DPMD Jayawardene,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,6.6,Sri Lanka,DPMD Jayawardene,ST Jayasuriya,Z Khan,0,0,,,,,,"",""
+ball,1,7.1,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,MM Patel,0,0,,,,,,"",""
+ball,1,7.2,Sri Lanka,ST Jayasuriya,DPMD Jayawardene,MM Patel,1,0,,,,,,"",""
+ball,1,7.3,Sri Lanka,DPMD Jayawardene,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,7.4,Sri Lanka,DPMD Jayawardene,ST Jayasuriya,MM Patel,0,0,,,,,,caught,DPMD Jayawardene
+ball,1,7.5,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,7.6,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,8.1,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,,,,,,"",""
+ball,1,8.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,,,,,,"",""
+ball,1,8.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,,,,,,"",""
+ball,1,8.4,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,,,,,,"",""
+ball,1,8.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,4,0,,,,,,"",""
+ball,1,8.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,,,,,,"",""
+ball,1,9.1,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,1,0,,,,,,"",""
+ball,1,9.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,9.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,1,0,,,,,,"",""
+ball,1,9.4,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,9.5,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,1,0,,,,,,"",""
+ball,1,9.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,1,0,,,,,,"",""
+ball,1,10.1,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,1,1,,,,,"",""
+ball,1,10.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,10.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,4,0,,,,,,"",""
+ball,1,10.4,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,4,0,,,,,,"",""
+ball,1,10.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,10.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,10.7,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,11.1,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,11.2,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,2,,,,2,,"",""
+ball,1,11.3,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,0,0,,,,,,"",""
+ball,1,11.4,Sri Lanka,KC Sangakkara,ST Jayasuriya,MM Patel,1,0,,,,,,"",""
+ball,1,11.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,11.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,12.1,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,12.2,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,1,0,,,,,,"",""
+ball,1,12.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,4,0,,,,,,"",""
+ball,1,12.4,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,12.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,4,0,,,,,,"",""
+ball,1,12.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,1,0,,,,,,"",""
+ball,1,13.1,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,13.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,13.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,13.4,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,4,0,,,,,,"",""
+ball,1,13.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,13.6,Sri Lanka,ST Jayasuriya,KC Sangakkara,MM Patel,0,0,,,,,,"",""
+ball,1,14.1,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,4,0,,,,,,"",""
+ball,1,14.2,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,14.3,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,4,0,,,,,,"",""
+ball,1,14.4,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,14.5,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,14.6,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,15.1,Sri Lanka,ST Jayasuriya,KC Sangakkara,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,15.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,Harbhajan Singh,4,0,,,,,,"",""
+ball,1,15.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,15.4,Sri Lanka,ST Jayasuriya,KC Sangakkara,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,15.5,Sri Lanka,ST Jayasuriya,KC Sangakkara,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,15.6,Sri Lanka,KC Sangakkara,ST Jayasuriya,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,16.1,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,4,0,,,,,,"",""
+ball,1,16.2,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,0,0,,,,,,"",""
+ball,1,16.3,Sri Lanka,ST Jayasuriya,KC Sangakkara,S Sreesanth,1,0,,,,,,"",""
+ball,1,16.4,Sri Lanka,KC Sangakkara,ST Jayasuriya,S Sreesanth,0,0,,,,,,caught,KC Sangakkara
+ball,1,16.5,Sri Lanka,MS Atapattu,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,16.6,Sri Lanka,MS Atapattu,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""
+ball,1,17.1,Sri Lanka,ST Jayasuriya,MS Atapattu,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,17.2,Sri Lanka,MS Atapattu,ST Jayasuriya,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,17.3,Sri Lanka,MS Atapattu,ST Jayasuriya,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,17.4,Sri Lanka,MS Atapattu,ST Jayasuriya,Harbhajan Singh,1,0,,,,,,"",""
+ball,1,17.5,Sri Lanka,ST Jayasuriya,MS Atapattu,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,17.6,Sri Lanka,ST Jayasuriya,MS Atapattu,Harbhajan Singh,0,0,,,,,,"",""
+ball,1,18.1,Sri Lanka,MS Atapattu,ST Jayasuriya,S Sreesanth,4,0,,,,,,"",""
+ball,1,18.2,Sri Lanka,MS Atapattu,ST Jayasuriya,S Sreesanth,0,0,,,,,,"",""

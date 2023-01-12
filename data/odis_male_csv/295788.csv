@@ -1,0 +1,174 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,West Indies
+info,gender,male
+info,season,2007
+info,date,2007/07/14
+info,event,Quadrangular Series (Ireland)
+info,match_number,5
+info,venue,Clontarf Cricket Club Ground
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,bat
+info,umpire,NJ Llong
+info,umpire,AM Saheba
+info,reserve_umpire,M Russell
+info,match_referee,RS Madugalle
+info,outcome,no result
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,EJG Morgan
+info,player,Ireland,AC Botha
+info,player,Ireland,NJ O'Brien
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,AR Cusack
+info,player,Ireland,MJ Fourie
+info,player,Ireland,WK McCallan
+info,player,Ireland,DT Johnston
+info,player,Ireland,D Langford-Smith
+info,player,Ireland,GE Kidd
+info,player,West Indies,CH Gayle
+info,player,West Indies,DR Smith
+info,player,West Indies,RS Morton
+info,player,West Indies,MN Samuels
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,DS Smith
+info,player,West Indies,D Ramdin
+info,player,West Indies,DJG Sammy
+info,player,West Indies,DBL Powell
+info,player,West Indies,R Rampaul
+info,player,West Indies,FH Edwards
+info,registry,people,AC Botha,d8e79af0
+info,registry,people,AM Saheba,883e3818
+info,registry,people,AR Cusack,568e5a4a
+info,registry,people,CH Gayle,db584dad
+info,registry,people,D Langford-Smith,fa1aa7e7
+info,registry,people,D Ramdin,d1523761
+info,registry,people,DBL Powell,83904270
+info,registry,people,DJG Sammy,c03c6200
+info,registry,people,DR Smith,35205dfc
+info,registry,people,DS Smith,85ad2217
+info,registry,people,DT Johnston,e01895bb
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FH Edwards,a7c226e1
+info,registry,people,GE Kidd,bd48593c
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,M Russell,d09a64eb
+info,registry,people,MJ Fourie,7a4819e1
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NJ O'Brien,84826f48
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RS Morton,2f8a9682
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,WK McCallan,c942a53b
+info,registry,people,WTS Porterfield,ec02b798
+ball,1,0.1,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,0.2,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,0.3,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,0.4,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,4,0,,,,,,"",""
+ball,1,0.5,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,0.6,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,1.1,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,1,1,,,,,"",""
+ball,1,1.2,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,1.3,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,1.4,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,1.5,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,1.6,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,1.7,Ireland,EJG Morgan,WTS Porterfield,R Rampaul,0,0,,,,,,"",""
+ball,1,2.1,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,1,1,,,,,"",""
+ball,1,2.2,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,2.3,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,2.4,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,2.5,Ireland,WTS Porterfield,EJG Morgan,DBL Powell,0,0,,,,,,caught,WTS Porterfield
+ball,1,2.6,Ireland,AC Botha,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,2.7,Ireland,AC Botha,EJG Morgan,DBL Powell,0,0,,,,,,bowled,AC Botha
+ball,1,3.1,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,3.2,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,3.3,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,3.4,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,3.5,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,4,0,,,,,,"",""
+ball,1,3.6,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,4.1,Ireland,NJ O'Brien,EJG Morgan,DBL Powell,4,0,,,,,,"",""
+ball,1,4.2,Ireland,NJ O'Brien,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,4.3,Ireland,NJ O'Brien,EJG Morgan,DBL Powell,1,0,,,,,,"",""
+ball,1,4.4,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,4.5,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,1,0,,,,,,"",""
+ball,1,4.6,Ireland,NJ O'Brien,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,5.1,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,5.2,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,5.3,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,4,0,,,,,,"",""
+ball,1,5.4,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,5.5,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,5.6,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,6.1,Ireland,NJ O'Brien,EJG Morgan,DBL Powell,1,0,,,,,,"",""
+ball,1,6.2,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,6.3,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,6.4,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,6.5,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,6.6,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,7.1,Ireland,NJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,"",""
+ball,1,7.2,Ireland,NJ O'Brien,EJG Morgan,R Rampaul,1,0,,,,,,"",""
+ball,1,7.3,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,7.4,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,7.5,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,0,1,,1,,,,"",""
+ball,1,7.6,Ireland,EJG Morgan,NJ O'Brien,R Rampaul,1,0,,,,,,"",""
+ball,1,7.7,Ireland,NJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,"",""
+ball,1,8.1,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,8.2,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,8.3,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,4,0,,,,,,"",""
+ball,1,8.4,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,8.5,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,8.6,Ireland,EJG Morgan,NJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,9.1,Ireland,NJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,bowled,NJ O'Brien
+ball,1,9.2,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,1,0,,,,,,"",""
+ball,1,9.3,Ireland,EJG Morgan,KJ O'Brien,R Rampaul,0,0,,,,,,"",""
+ball,1,9.4,Ireland,EJG Morgan,KJ O'Brien,R Rampaul,5,0,,,,,,"",""
+ball,1,9.5,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,"",""
+ball,1,9.6,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,1,0,,,,,,"",""
+ball,1,10.1,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,4,0,,,,,,"",""
+ball,1,10.2,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,10.3,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,10.4,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,4,0,,,,,,"",""
+ball,1,10.5,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,0,0,,,,,,"",""
+ball,1,10.6,Ireland,KJ O'Brien,EJG Morgan,DBL Powell,0,1,,,,1,,"",""
+ball,1,11.1,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,6,0,,,,,,"",""
+ball,1,11.2,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,4,0,,,,,,"",""
+ball,1,11.3,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,"",""
+ball,1,11.4,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,1,0,,,,,,"",""
+ball,1,11.5,Ireland,EJG Morgan,KJ O'Brien,R Rampaul,1,0,,,,,,"",""
+ball,1,11.6,Ireland,KJ O'Brien,EJG Morgan,R Rampaul,0,0,,,,,,"",""
+ball,1,12.1,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,12.2,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,12.3,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,4,0,,,,,,"",""
+ball,1,12.4,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,12.5,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,1,1,,,,,"",""
+ball,1,12.6,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,12.7,Ireland,EJG Morgan,KJ O'Brien,DBL Powell,0,0,,,,,,"",""
+ball,1,13.1,Ireland,KJ O'Brien,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,13.2,Ireland,KJ O'Brien,EJG Morgan,FH Edwards,4,0,,,,,,"",""
+ball,1,13.3,Ireland,KJ O'Brien,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,13.4,Ireland,KJ O'Brien,EJG Morgan,FH Edwards,0,0,,,,,,bowled,KJ O'Brien
+ball,1,13.5,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,13.6,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,14.1,Ireland,EJG Morgan,AR Cusack,DR Smith,0,0,,,,,,"",""
+ball,1,14.2,Ireland,EJG Morgan,AR Cusack,DR Smith,1,0,,,,,,"",""
+ball,1,14.3,Ireland,AR Cusack,EJG Morgan,DR Smith,0,0,,,,,,"",""
+ball,1,14.4,Ireland,AR Cusack,EJG Morgan,DR Smith,1,0,,,,,,"",""
+ball,1,14.5,Ireland,EJG Morgan,AR Cusack,DR Smith,0,0,,,,,,"",""
+ball,1,14.6,Ireland,EJG Morgan,AR Cusack,DR Smith,6,0,,,,,,"",""
+ball,1,15.1,Ireland,AR Cusack,EJG Morgan,FH Edwards,2,0,,,,,,"",""
+ball,1,15.2,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,15.3,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,15.4,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,15.5,Ireland,AR Cusack,EJG Morgan,FH Edwards,0,0,,,,,,"",""
+ball,1,15.6,Ireland,AR Cusack,EJG Morgan,FH Edwards,2,0,,,,,,"",""
+ball,1,16.1,Ireland,EJG Morgan,AR Cusack,DR Smith,0,0,,,,,,"",""
+ball,1,16.2,Ireland,EJG Morgan,AR Cusack,DR Smith,0,0,,,,,,"",""
+ball,1,16.3,Ireland,EJG Morgan,AR Cusack,DR Smith,4,0,,,,,,"",""
+ball,1,16.4,Ireland,EJG Morgan,AR Cusack,DR Smith,1,0,,,,,,"",""
+ball,1,16.5,Ireland,AR Cusack,EJG Morgan,DR Smith,1,0,,,,,,"",""
+ball,1,16.6,Ireland,EJG Morgan,AR Cusack,DR Smith,1,0,,,,,,"",""
+ball,1,17.1,Ireland,EJG Morgan,AR Cusack,FH Edwards,0,0,,,,,,"",""
+ball,1,17.2,Ireland,EJG Morgan,AR Cusack,FH Edwards,0,0,,,,,,"",""

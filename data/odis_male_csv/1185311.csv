@@ -1,0 +1,138 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2019/20
+info,date,2020/02/07
+info,event,England tour of South Africa
+info,match_number,2
+info,venue,Kingsmead
+info,city,Durban
+info,toss_winner,England
+info,toss_decision,field
+info,umpire,A Paleker
+info,umpire,Aleem Dar
+info,reserve_umpire,S George
+info,tv_umpire,GO Brathwaite
+info,match_referee,DC Boon
+info,outcome,no result
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,T Bavuma
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,JT Smuts
+info,player,South Africa,DA Miller
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,BE Hendricks
+info,player,South Africa,BC Fortuin
+info,player,South Africa,L Sipamla
+info,player,South Africa,T Shamsi
+info,player,England,JJ Roy
+info,player,England,JM Bairstow
+info,player,England,JE Root
+info,player,England,EJG Morgan
+info,player,England,JL Denly
+info,player,England,T Banton
+info,player,England,SM Curran
+info,player,England,CR Woakes
+info,player,England,TK Curran
+info,player,England,CJ Jordan
+info,player,England,MW Parkinson
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S George,6d9e5a54
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TK Curran,e86754b2
+ball,1,0.1,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,0.2,South Africa,Q de Kock,RR Hendricks,CR Woakes,1,0,,,,,,"",""
+ball,1,0.3,South Africa,RR Hendricks,Q de Kock,CR Woakes,2,0,,,,,,"",""
+ball,1,0.4,South Africa,RR Hendricks,Q de Kock,CR Woakes,1,0,,,,,,"",""
+ball,1,0.5,South Africa,Q de Kock,RR Hendricks,CR Woakes,2,0,,,,,,"",""
+ball,1,0.6,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,1.1,South Africa,RR Hendricks,Q de Kock,SM Curran,0,1,1,,,,,"",""
+ball,1,1.2,South Africa,RR Hendricks,Q de Kock,SM Curran,2,0,,,,,,"",""
+ball,1,1.3,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,1,1.4,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,1,1.5,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,1,1.6,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,1,1.7,South Africa,RR Hendricks,Q de Kock,SM Curran,2,0,,,,,,"",""
+ball,1,2.1,South Africa,Q de Kock,RR Hendricks,CR Woakes,1,0,,,,,,"",""
+ball,1,2.2,South Africa,RR Hendricks,Q de Kock,CR Woakes,1,0,,,,,,"",""
+ball,1,2.3,South Africa,Q de Kock,RR Hendricks,CR Woakes,1,0,,,,,,"",""
+ball,1,2.4,South Africa,RR Hendricks,Q de Kock,CR Woakes,0,0,,,,,,"",""
+ball,1,2.5,South Africa,RR Hendricks,Q de Kock,CR Woakes,0,0,,,,,,"",""
+ball,1,2.6,South Africa,RR Hendricks,Q de Kock,CR Woakes,0,0,,,,,,"",""
+ball,1,3.1,South Africa,Q de Kock,RR Hendricks,SM Curran,0,0,,,,,,"",""
+ball,1,3.2,South Africa,Q de Kock,RR Hendricks,SM Curran,1,0,,,,,,"",""
+ball,1,3.3,South Africa,RR Hendricks,Q de Kock,SM Curran,4,0,,,,,,"",""
+ball,1,3.4,South Africa,RR Hendricks,Q de Kock,SM Curran,0,0,,,,,,"",""
+ball,1,3.5,South Africa,RR Hendricks,Q de Kock,SM Curran,4,0,,,,,,"",""
+ball,1,3.6,South Africa,RR Hendricks,Q de Kock,SM Curran,2,0,,,,,,"",""
+ball,1,4.1,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,4.2,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,4.3,South Africa,Q de Kock,RR Hendricks,CR Woakes,2,0,,,,,,"",""
+ball,1,4.4,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,4.5,South Africa,Q de Kock,RR Hendricks,CR Woakes,2,0,,,,,,"",""
+ball,1,4.6,South Africa,Q de Kock,RR Hendricks,CR Woakes,0,0,,,,,,"",""
+ball,1,5.1,South Africa,RR Hendricks,Q de Kock,JE Root,1,0,,,,,,"",""
+ball,1,5.2,South Africa,Q de Kock,RR Hendricks,JE Root,1,0,,,,,,"",""
+ball,1,5.3,South Africa,RR Hendricks,Q de Kock,JE Root,1,0,,,,,,"",""
+ball,1,5.4,South Africa,Q de Kock,RR Hendricks,JE Root,0,0,,,,,,"",""
+ball,1,5.5,South Africa,Q de Kock,RR Hendricks,JE Root,0,0,,,,,,bowled,Q de Kock
+ball,1,5.6,South Africa,T Bavuma,RR Hendricks,JE Root,1,0,,,,,,"",""
+ball,1,6.1,South Africa,T Bavuma,RR Hendricks,CR Woakes,1,0,,,,,,"",""
+ball,1,6.2,South Africa,RR Hendricks,T Bavuma,CR Woakes,0,0,,,,,,"",""
+ball,1,6.3,South Africa,RR Hendricks,T Bavuma,CR Woakes,4,0,,,,,,"",""
+ball,1,6.4,South Africa,RR Hendricks,T Bavuma,CR Woakes,1,0,,,,,,"",""
+ball,1,6.5,South Africa,T Bavuma,RR Hendricks,CR Woakes,2,0,,,,,,"",""
+ball,1,6.6,South Africa,T Bavuma,RR Hendricks,CR Woakes,0,1,,,1,,,"",""
+ball,1,7.1,South Africa,T Bavuma,RR Hendricks,TK Curran,0,0,,,,,,"",""
+ball,1,7.2,South Africa,T Bavuma,RR Hendricks,TK Curran,0,0,,,,,,"",""
+ball,1,7.3,South Africa,T Bavuma,RR Hendricks,TK Curran,0,0,,,,,,"",""
+ball,1,7.4,South Africa,T Bavuma,RR Hendricks,TK Curran,6,0,,,,,,"",""
+ball,1,7.5,South Africa,T Bavuma,RR Hendricks,TK Curran,0,0,,,,,,"",""
+ball,1,7.6,South Africa,T Bavuma,RR Hendricks,TK Curran,0,0,,,,,,"",""
+ball,1,8.1,South Africa,RR Hendricks,T Bavuma,MW Parkinson,2,0,,,,,,"",""
+ball,1,8.2,South Africa,RR Hendricks,T Bavuma,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.3,South Africa,RR Hendricks,T Bavuma,MW Parkinson,0,0,,,,,,"",""
+ball,1,8.4,South Africa,RR Hendricks,T Bavuma,MW Parkinson,1,0,,,,,,"",""
+ball,1,8.5,South Africa,T Bavuma,RR Hendricks,MW Parkinson,1,0,,,,,,"",""
+ball,1,8.6,South Africa,RR Hendricks,T Bavuma,MW Parkinson,0,1,1,,,,,"",""
+ball,1,8.7,South Africa,RR Hendricks,T Bavuma,MW Parkinson,1,0,,,,,,"",""
+ball,1,9.1,South Africa,RR Hendricks,T Bavuma,TK Curran,1,0,,,,,,"",""
+ball,1,9.2,South Africa,T Bavuma,RR Hendricks,TK Curran,3,0,,,,,,"",""
+ball,1,9.3,South Africa,RR Hendricks,T Bavuma,TK Curran,1,0,,,,,,"",""
+ball,1,9.4,South Africa,T Bavuma,RR Hendricks,TK Curran,1,0,,,,,,"",""
+ball,1,9.5,South Africa,RR Hendricks,T Bavuma,TK Curran,0,0,,,,,,"",""
+ball,1,9.6,South Africa,RR Hendricks,T Bavuma,TK Curran,1,0,,,,,,"",""
+ball,1,10.1,South Africa,RR Hendricks,T Bavuma,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.2,South Africa,T Bavuma,RR Hendricks,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.3,South Africa,RR Hendricks,T Bavuma,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.4,South Africa,T Bavuma,RR Hendricks,MW Parkinson,4,0,,,,,,"",""
+ball,1,10.5,South Africa,T Bavuma,RR Hendricks,MW Parkinson,1,0,,,,,,"",""
+ball,1,10.6,South Africa,RR Hendricks,T Bavuma,MW Parkinson,1,0,,,,,,"",""
+ball,1,11.1,South Africa,RR Hendricks,T Bavuma,CJ Jordan,0,1,,,,1,,"",""
+ball,1,11.2,South Africa,T Bavuma,RR Hendricks,CJ Jordan,0,0,,,,,,lbw,T Bavuma

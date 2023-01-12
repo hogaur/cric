@@ -8,6 +8,13 @@
 ## Execute
 - `go run main.go`
 
+## Data
+With due credits to https://cricsheet.org/ 
+Data being used in `csv` format because csv loaders are cheap.
+- ODIs Men - `odis_male_csv/*.csv`
+- Players - `people.csv`
+
+
 ## Steps
 ### Roles 
 - Get batter list

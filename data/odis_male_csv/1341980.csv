@@ -1,0 +1,389 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Scotland
+info,gender,male
+info,season,2022/23
+info,date,2022/12/08
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,120
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,CM McBride
+info,umpire,A Louw
+info,umpire,C Thorburn
+info,reserve_umpire,S George
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_wickets,8
+info,player,Nepal,A Saud
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,H Shah
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,S Dhakal
+info,player,Scotland,KJ Coetzer
+info,player,Scotland,HG Munsey
+info,player,Scotland,CM McBride
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,CN Greaves
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Thorburn,904288fe
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DS Airee,1747ea18
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,H Shah,afb3b840
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,KJ Coetzer,85d8110a
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S George,6d9e5a54
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Sompal Kami,1adb8ee8
+ball,1,0.1,Nepal,A Saud,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,0.2,Nepal,A Saud,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,0.3,Nepal,A Saud,Aasif Sheikh,CB Sole,0,0,,,,,,caught,A Saud
+ball,1,0.4,Nepal,G Malla,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,0.5,Nepal,G Malla,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,0.6,Nepal,G Malla,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,1.1,Nepal,Aasif Sheikh,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,1.2,Nepal,Aasif Sheikh,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,1.3,Nepal,Aasif Sheikh,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,1.4,Nepal,Aasif Sheikh,G Malla,BJ McMullen,0,1,,,,1,,"",""
+ball,1,1.5,Nepal,G Malla,Aasif Sheikh,BJ McMullen,0,0,,,,,,"",""
+ball,1,1.6,Nepal,G Malla,Aasif Sheikh,BJ McMullen,0,0,,,,,,"",""
+ball,1,2.1,Nepal,Aasif Sheikh,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,2.2,Nepal,Aasif Sheikh,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,2.3,Nepal,Aasif Sheikh,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,2.4,Nepal,Aasif Sheikh,G Malla,CB Sole,1,0,,,,,,"",""
+ball,1,2.5,Nepal,G Malla,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,2.6,Nepal,G Malla,Aasif Sheikh,CB Sole,0,0,,,,,,"",""
+ball,1,3.1,Nepal,Aasif Sheikh,G Malla,BJ McMullen,0,0,,,,,,lbw,Aasif Sheikh
+ball,1,3.2,Nepal,RK Paudel,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,3.3,Nepal,RK Paudel,G Malla,BJ McMullen,0,1,1,,,,,"",""
+ball,1,3.4,Nepal,RK Paudel,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,3.5,Nepal,RK Paudel,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,3.6,Nepal,RK Paudel,G Malla,BJ McMullen,0,1,1,,,,,"",""
+ball,1,3.7,Nepal,RK Paudel,G Malla,BJ McMullen,0,1,1,,,,,"",""
+ball,1,3.8,Nepal,RK Paudel,G Malla,BJ McMullen,2,0,,,,,,"",""
+ball,1,3.9,Nepal,RK Paudel,G Malla,BJ McMullen,0,0,,,,,,"",""
+ball,1,4.1,Nepal,G Malla,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,4.2,Nepal,G Malla,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,4.3,Nepal,G Malla,RK Paudel,CB Sole,1,0,,,,,,"",""
+ball,1,4.4,Nepal,RK Paudel,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,4.5,Nepal,RK Paudel,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,4.6,Nepal,RK Paudel,G Malla,CB Sole,0,0,,,,,,"",""
+ball,1,5.1,Nepal,G Malla,RK Paudel,BJ McMullen,0,0,,,,,,"",""
+ball,1,5.2,Nepal,G Malla,RK Paudel,BJ McMullen,4,0,,,,,,"",""
+ball,1,5.3,Nepal,G Malla,RK Paudel,BJ McMullen,0,0,,,,,,"",""
+ball,1,5.4,Nepal,G Malla,RK Paudel,BJ McMullen,4,0,,,,,,"",""
+ball,1,5.5,Nepal,G Malla,RK Paudel,BJ McMullen,0,0,,,,,,"",""
+ball,1,5.6,Nepal,G Malla,RK Paudel,BJ McMullen,0,0,,,,,,lbw,G Malla
+ball,1,6.1,Nepal,RK Paudel,DS Airee,CB Sole,6,0,,,,,,"",""
+ball,1,6.2,Nepal,RK Paudel,DS Airee,CB Sole,0,0,,,,,,"",""
+ball,1,6.3,Nepal,RK Paudel,DS Airee,CB Sole,0,0,,,,,,"",""
+ball,1,6.4,Nepal,RK Paudel,DS Airee,CB Sole,6,0,,,,,,"",""
+ball,1,6.5,Nepal,RK Paudel,DS Airee,CB Sole,0,0,,,,,,"",""
+ball,1,6.6,Nepal,RK Paudel,DS Airee,CB Sole,0,0,,,,,,"",""
+ball,1,7.1,Nepal,DS Airee,RK Paudel,BJ McMullen,0,0,,,,,,"",""
+ball,1,7.2,Nepal,DS Airee,RK Paudel,BJ McMullen,1,0,,,,,,"",""
+ball,1,7.3,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,7.4,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,7.5,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,7.6,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,8.1,Nepal,DS Airee,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,8.2,Nepal,DS Airee,RK Paudel,CB Sole,4,0,,,,,,"",""
+ball,1,8.3,Nepal,DS Airee,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,8.4,Nepal,DS Airee,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,8.5,Nepal,DS Airee,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,8.6,Nepal,DS Airee,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,9.1,Nepal,RK Paudel,DS Airee,BJ McMullen,2,0,,,,,,"",""
+ball,1,9.2,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,9.3,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,9.4,Nepal,RK Paudel,DS Airee,BJ McMullen,2,0,,,,,,"",""
+ball,1,9.5,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,9.6,Nepal,RK Paudel,DS Airee,BJ McMullen,0,0,,,,,,"",""
+ball,1,10.1,Nepal,DS Airee,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,10.2,Nepal,DS Airee,RK Paudel,SM Sharif,1,0,,,,,,"",""
+ball,1,10.3,Nepal,RK Paudel,DS Airee,SM Sharif,1,0,,,,,,"",""
+ball,1,10.4,Nepal,DS Airee,RK Paudel,SM Sharif,1,0,,,,,,"",""
+ball,1,10.5,Nepal,RK Paudel,DS Airee,SM Sharif,0,0,,,,,,"",""
+ball,1,10.6,Nepal,RK Paudel,DS Airee,SM Sharif,1,0,,,,,,"",""
+ball,1,11.1,Nepal,RK Paudel,DS Airee,MRJ Watt,1,0,,,,,,"",""
+ball,1,11.2,Nepal,DS Airee,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,11.3,Nepal,DS Airee,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,11.4,Nepal,DS Airee,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,11.5,Nepal,DS Airee,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,11.6,Nepal,RK Paudel,DS Airee,MRJ Watt,4,0,,,,,,"",""
+ball,1,12.1,Nepal,DS Airee,RK Paudel,SM Sharif,1,0,,,,,,"",""
+ball,1,12.2,Nepal,RK Paudel,DS Airee,SM Sharif,4,0,,,,,,"",""
+ball,1,12.3,Nepal,RK Paudel,DS Airee,SM Sharif,0,0,,,,,,"",""
+ball,1,12.4,Nepal,RK Paudel,DS Airee,SM Sharif,0,0,,,,,,"",""
+ball,1,12.5,Nepal,RK Paudel,DS Airee,SM Sharif,1,0,,,,,,"",""
+ball,1,12.6,Nepal,DS Airee,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,13.1,Nepal,RK Paudel,DS Airee,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.2,Nepal,RK Paudel,DS Airee,MRJ Watt,1,0,,,,,,"",""
+ball,1,13.3,Nepal,DS Airee,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.4,Nepal,DS Airee,RK Paudel,MRJ Watt,4,0,,,,,,"",""
+ball,1,13.5,Nepal,DS Airee,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,13.6,Nepal,RK Paudel,DS Airee,MRJ Watt,0,0,,,,,,"",""
+ball,1,14.1,Nepal,DS Airee,RK Paudel,SM Sharif,0,0,,,,,,caught,DS Airee
+ball,1,14.2,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,14.3,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,14.4,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,14.5,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,4,0,,,,,,"",""
+ball,1,14.6,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,15.1,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,0,0,,,,,,"",""
+ball,1,15.2,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,1,0,,,,,,"",""
+ball,1,15.3,Nepal,Aarif Sheikh,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,15.4,Nepal,Aarif Sheikh,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,15.5,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,1,0,,,,,,"",""
+ball,1,15.6,Nepal,Aarif Sheikh,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,16.1,Nepal,RK Paudel,Aarif Sheikh,SM Sharif,0,0,,,,,,"",""
+ball,1,16.2,Nepal,RK Paudel,Aarif Sheikh,SM Sharif,1,0,,,,,,"",""
+ball,1,16.3,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,16.4,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,16.5,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,16.6,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,17.1,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,4,0,,,,,,"",""
+ball,1,17.2,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.3,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.4,Nepal,Aarif Sheikh,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.5,Nepal,Aarif Sheikh,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.6,Nepal,RK Paudel,Aarif Sheikh,MRJ Watt,0,0,,,,,,"",""
+ball,1,18.1,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,18.2,Nepal,Aarif Sheikh,RK Paudel,SM Sharif,0,0,,,,,,caught,Aarif Sheikh
+ball,1,18.3,Nepal,H Shah,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,18.4,Nepal,H Shah,RK Paudel,SM Sharif,1,0,,,,,,"",""
+ball,1,18.5,Nepal,RK Paudel,H Shah,SM Sharif,0,0,,,,,,"",""
+ball,1,18.6,Nepal,RK Paudel,H Shah,SM Sharif,0,0,,,,,,"",""
+ball,1,19.1,Nepal,H Shah,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.2,Nepal,H Shah,RK Paudel,MRJ Watt,0,0,,,,,,lbw,H Shah
+ball,1,19.3,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.4,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.5,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,0,0,,,,,,"",""
+ball,1,19.6,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,20.1,Nepal,Gulsan Jha,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,20.2,Nepal,Gulsan Jha,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,20.3,Nepal,Gulsan Jha,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,20.4,Nepal,Gulsan Jha,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,20.5,Nepal,Gulsan Jha,RK Paudel,SM Sharif,0,0,,,,,,"",""
+ball,1,20.6,Nepal,Gulsan Jha,RK Paudel,SM Sharif,1,0,,,,,,"",""
+ball,1,21.1,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,21.2,Nepal,RK Paudel,Gulsan Jha,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.3,Nepal,RK Paudel,Gulsan Jha,MRJ Watt,1,0,,,,,,"",""
+ball,1,21.4,Nepal,Gulsan Jha,RK Paudel,MRJ Watt,1,0,,,,,,"",""
+ball,1,21.5,Nepal,RK Paudel,Gulsan Jha,MRJ Watt,0,0,,,,,,"",""
+ball,1,21.6,Nepal,RK Paudel,Gulsan Jha,MRJ Watt,0,0,,,,,,"",""
+ball,1,22.1,Nepal,Gulsan Jha,RK Paudel,MA Leask,0,0,,,,,,"",""
+ball,1,22.2,Nepal,Gulsan Jha,RK Paudel,MA Leask,0,0,,,,,,"",""
+ball,1,22.3,Nepal,Gulsan Jha,RK Paudel,MA Leask,0,0,,,,,,"",""
+ball,1,22.4,Nepal,Gulsan Jha,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,22.5,Nepal,RK Paudel,Gulsan Jha,MA Leask,1,0,,,,,,"",""
+ball,1,22.6,Nepal,Gulsan Jha,RK Paudel,MA Leask,0,0,,,,,,"",""
+ball,1,23.1,Nepal,RK Paudel,Gulsan Jha,CM McBride,2,0,,,,,,"",""
+ball,1,23.2,Nepal,RK Paudel,Gulsan Jha,CM McBride,4,0,,,,,,"",""
+ball,1,23.3,Nepal,RK Paudel,Gulsan Jha,CM McBride,0,0,,,,,,run out,Gulsan Jha
+ball,1,23.4,Nepal,Sompal Kami,RK Paudel,CM McBride,0,0,,,,,,"",""
+ball,1,23.5,Nepal,Sompal Kami,RK Paudel,CM McBride,1,0,,,,,,"",""
+ball,1,23.6,Nepal,RK Paudel,Sompal Kami,CM McBride,0,0,,,,,,"",""
+ball,1,24.1,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,24.2,Nepal,Sompal Kami,RK Paudel,CB Sole,0,1,1,,,,,"",""
+ball,1,24.3,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,24.4,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,24.5,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,24.6,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,24.7,Nepal,Sompal Kami,RK Paudel,CB Sole,0,0,,,,,,"",""
+ball,1,25.1,Nepal,RK Paudel,Sompal Kami,CM McBride,0,0,,,,,,caught,RK Paudel
+ball,1,25.2,Nepal,LN Rajbanshi,Sompal Kami,CM McBride,0,1,,,,1,,"",""
+ball,1,25.3,Nepal,Sompal Kami,LN Rajbanshi,CM McBride,2,0,,,,,,"",""
+ball,1,25.4,Nepal,Sompal Kami,LN Rajbanshi,CM McBride,1,0,,,,,,"",""
+ball,1,25.5,Nepal,LN Rajbanshi,Sompal Kami,CM McBride,0,0,,,,,,"",""
+ball,1,25.6,Nepal,LN Rajbanshi,Sompal Kami,CM McBride,0,0,,,,,,"",""
+ball,1,26.1,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,26.2,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,26.3,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,26.4,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,26.5,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,26.6,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,27.1,Nepal,LN Rajbanshi,Sompal Kami,SM Sharif,3,0,,,,,,"",""
+ball,1,27.2,Nepal,Sompal Kami,LN Rajbanshi,SM Sharif,0,0,,,,,,"",""
+ball,1,27.3,Nepal,Sompal Kami,LN Rajbanshi,SM Sharif,0,0,,,,,,"",""
+ball,1,27.4,Nepal,Sompal Kami,LN Rajbanshi,SM Sharif,0,0,,,,,,"",""
+ball,1,27.5,Nepal,Sompal Kami,LN Rajbanshi,SM Sharif,0,0,,,,,,"",""
+ball,1,27.6,Nepal,Sompal Kami,LN Rajbanshi,SM Sharif,0,1,,,,1,,"",""
+ball,1,28.1,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,28.2,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,28.3,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,2,0,,,,,,"",""
+ball,1,28.4,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,28.5,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,28.6,Nepal,Sompal Kami,LN Rajbanshi,CB Sole,0,0,,,,,,"",""
+ball,1,29.1,Nepal,LN Rajbanshi,Sompal Kami,MRJ Watt,1,0,,,,,,"",""
+ball,1,29.2,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,29.3,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,2,0,,,,,,"",""
+ball,1,29.4,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,29.5,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,29.6,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,4,0,,,,,,"",""
+ball,1,30.1,Nepal,LN Rajbanshi,Sompal Kami,BJ McMullen,1,0,,,,,,"",""
+ball,1,30.2,Nepal,Sompal Kami,LN Rajbanshi,BJ McMullen,0,0,,,,,,"",""
+ball,1,30.3,Nepal,Sompal Kami,LN Rajbanshi,BJ McMullen,0,0,,,,,,"",""
+ball,1,30.4,Nepal,Sompal Kami,LN Rajbanshi,BJ McMullen,0,0,,,,,,"",""
+ball,1,30.5,Nepal,Sompal Kami,LN Rajbanshi,BJ McMullen,0,1,,,,1,,"",""
+ball,1,30.6,Nepal,LN Rajbanshi,Sompal Kami,BJ McMullen,2,0,,,,,,"",""
+ball,1,31.1,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,31.2,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,31.3,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,31.4,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,31.5,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,31.6,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,1,0,,,,,,"",""
+ball,1,32.1,Nepal,Sompal Kami,LN Rajbanshi,CN Greaves,1,0,,,,,,"",""
+ball,1,32.2,Nepal,LN Rajbanshi,Sompal Kami,CN Greaves,0,0,,,,,,"",""
+ball,1,32.3,Nepal,LN Rajbanshi,Sompal Kami,CN Greaves,0,0,,,,,,"",""
+ball,1,32.4,Nepal,LN Rajbanshi,Sompal Kami,CN Greaves,1,0,,,,,,"",""
+ball,1,32.5,Nepal,Sompal Kami,LN Rajbanshi,CN Greaves,1,0,,,,,,"",""
+ball,1,32.6,Nepal,LN Rajbanshi,Sompal Kami,CN Greaves,0,0,,,,,,"",""
+ball,1,33.1,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,33.2,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,33.3,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,33.4,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,33.5,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,0,0,,,,,,"",""
+ball,1,33.6,Nepal,Sompal Kami,LN Rajbanshi,MRJ Watt,1,0,,,,,,"",""
+ball,1,34.1,Nepal,Sompal Kami,LN Rajbanshi,CN Greaves,0,0,,,,,,bowled,Sompal Kami
+ball,1,34.2,Nepal,S Dhakal,LN Rajbanshi,CN Greaves,0,0,,,,,,"",""
+ball,1,34.3,Nepal,S Dhakal,LN Rajbanshi,CN Greaves,0,0,,,,,,"",""
+ball,1,34.4,Nepal,S Dhakal,LN Rajbanshi,CN Greaves,0,0,,,,,,"",""
+ball,1,34.5,Nepal,S Dhakal,LN Rajbanshi,CN Greaves,1,0,,,,,,"",""
+ball,1,34.6,Nepal,LN Rajbanshi,S Dhakal,CN Greaves,1,0,,,,,,"",""
+ball,1,35.1,Nepal,LN Rajbanshi,S Dhakal,MRJ Watt,2,0,,,,,,"",""
+ball,1,35.2,Nepal,LN Rajbanshi,S Dhakal,MRJ Watt,0,0,,,,,,"",""
+ball,1,35.3,Nepal,LN Rajbanshi,S Dhakal,MRJ Watt,0,0,,,,,,caught,LN Rajbanshi
+ball,2,0.1,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,1,1,,,,,"",""
+ball,2,0.2,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.3,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.4,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.5,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,2,0,,,,,,"",""
+ball,2,0.6,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,0.7,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,1.1,Scotland,HG Munsey,KJ Coetzer,H Shah,0,0,,,,,,"",""
+ball,2,1.2,Scotland,HG Munsey,KJ Coetzer,H Shah,0,0,,,,,,"",""
+ball,2,1.3,Scotland,HG Munsey,KJ Coetzer,H Shah,6,0,,,,,,"",""
+ball,2,1.4,Scotland,HG Munsey,KJ Coetzer,H Shah,6,0,,,,,,"",""
+ball,2,1.5,Scotland,HG Munsey,KJ Coetzer,H Shah,4,0,,,,,,"",""
+ball,2,1.6,Scotland,HG Munsey,KJ Coetzer,H Shah,0,0,,,,,,"",""
+ball,2,2.1,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,1,0,,,,,,"",""
+ball,2,2.2,Scotland,HG Munsey,KJ Coetzer,Sompal Kami,1,0,,,,,,"",""
+ball,2,2.3,Scotland,KJ Coetzer,HG Munsey,Sompal Kami,1,0,,,,,,"",""
+ball,2,2.4,Scotland,HG Munsey,KJ Coetzer,Sompal Kami,0,0,,,,,,"",""
+ball,2,2.5,Scotland,HG Munsey,KJ Coetzer,Sompal Kami,4,0,,,,,,"",""
+ball,2,2.6,Scotland,HG Munsey,KJ Coetzer,Sompal Kami,4,0,,,,,,"",""
+ball,2,3.1,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,0,1,1,,,,,"",""
+ball,2,3.2,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,4,0,,,,,,"",""
+ball,2,3.3,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,0,0,,,,,,"",""
+ball,2,3.4,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,4,0,,,,,,"",""
+ball,2,3.5,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,4,0,,,,,,"",""
+ball,2,3.6,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,0,0,,,,,,"",""
+ball,2,3.7,Scotland,KJ Coetzer,HG Munsey,Gulsan Jha,0,0,,,,,,lbw,KJ Coetzer
+ball,2,4.1,Scotland,HG Munsey,CM McBride,Sompal Kami,0,0,,,,,,"",""
+ball,2,4.2,Scotland,HG Munsey,CM McBride,Sompal Kami,0,0,,,,,,"",""
+ball,2,4.3,Scotland,HG Munsey,CM McBride,Sompal Kami,1,0,,,,,,"",""
+ball,2,4.4,Scotland,CM McBride,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,4.5,Scotland,CM McBride,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,4.6,Scotland,CM McBride,HG Munsey,Sompal Kami,1,0,,,,,,"",""
+ball,2,5.1,Scotland,CM McBride,HG Munsey,Gulsan Jha,0,0,,,,,,"",""
+ball,2,5.2,Scotland,CM McBride,HG Munsey,Gulsan Jha,4,0,,,,,,"",""
+ball,2,5.3,Scotland,CM McBride,HG Munsey,Gulsan Jha,4,0,,,,,,"",""
+ball,2,5.4,Scotland,CM McBride,HG Munsey,Gulsan Jha,0,0,,,,,,"",""
+ball,2,5.5,Scotland,CM McBride,HG Munsey,Gulsan Jha,3,0,,,,,,"",""
+ball,2,5.6,Scotland,HG Munsey,CM McBride,Gulsan Jha,0,0,,,,,,"",""
+ball,2,6.1,Scotland,CM McBride,HG Munsey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.2,Scotland,HG Munsey,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.3,Scotland,HG Munsey,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.4,Scotland,HG Munsey,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.5,Scotland,HG Munsey,CM McBride,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,6.6,Scotland,HG Munsey,CM McBride,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,7.1,Scotland,CM McBride,HG Munsey,Sompal Kami,4,0,,,,,,"",""
+ball,2,7.2,Scotland,CM McBride,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,7.3,Scotland,CM McBride,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,7.4,Scotland,CM McBride,HG Munsey,Sompal Kami,0,0,,,,,,"",""
+ball,2,7.5,Scotland,CM McBride,HG Munsey,Sompal Kami,4,0,,,,,,"",""
+ball,2,7.6,Scotland,CM McBride,HG Munsey,Sompal Kami,1,0,,,,,,"",""
+ball,2,8.1,Scotland,CM McBride,HG Munsey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,8.2,Scotland,HG Munsey,CM McBride,LN Rajbanshi,2,0,,,,,,"",""
+ball,2,8.3,Scotland,HG Munsey,CM McBride,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,8.4,Scotland,HG Munsey,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,8.5,Scotland,HG Munsey,CM McBride,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,8.6,Scotland,CM McBride,HG Munsey,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,9.1,Scotland,HG Munsey,CM McBride,DS Airee,4,0,,,,,,"",""
+ball,2,9.2,Scotland,HG Munsey,CM McBride,DS Airee,0,0,,,,,,"",""
+ball,2,9.3,Scotland,HG Munsey,CM McBride,DS Airee,0,0,,,,,,"",""
+ball,2,9.4,Scotland,HG Munsey,CM McBride,DS Airee,0,0,,,,,,"",""
+ball,2,9.5,Scotland,HG Munsey,CM McBride,DS Airee,0,0,,,,,,lbw,HG Munsey
+ball,2,9.6,Scotland,RD Berrington,CM McBride,DS Airee,1,0,,,,,,"",""
+ball,2,10.1,Scotland,RD Berrington,CM McBride,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,10.2,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,10.3,Scotland,CM McBride,RD Berrington,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,10.4,Scotland,RD Berrington,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,10.5,Scotland,RD Berrington,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,10.6,Scotland,RD Berrington,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,11.1,Scotland,CM McBride,RD Berrington,S Dhakal,0,0,,,,,,"",""
+ball,2,11.2,Scotland,CM McBride,RD Berrington,S Dhakal,1,0,,,,,,"",""
+ball,2,11.3,Scotland,RD Berrington,CM McBride,S Dhakal,1,0,,,,,,"",""
+ball,2,11.4,Scotland,CM McBride,RD Berrington,S Dhakal,4,0,,,,,,"",""
+ball,2,11.5,Scotland,CM McBride,RD Berrington,S Dhakal,0,0,,,,,,"",""
+ball,2,11.6,Scotland,CM McBride,RD Berrington,S Dhakal,1,0,,,,,,"",""
+ball,2,12.1,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.2,Scotland,CM McBride,RD Berrington,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,12.3,Scotland,RD Berrington,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.4,Scotland,RD Berrington,CM McBride,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,12.5,Scotland,CM McBride,RD Berrington,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,12.6,Scotland,RD Berrington,CM McBride,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,13.1,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,13.2,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,13.3,Scotland,RD Berrington,CM McBride,S Dhakal,1,0,,,,,,"",""
+ball,2,13.4,Scotland,CM McBride,RD Berrington,S Dhakal,2,0,,,,,,"",""
+ball,2,13.5,Scotland,CM McBride,RD Berrington,S Dhakal,0,0,,,,,,"",""
+ball,2,13.6,Scotland,CM McBride,RD Berrington,S Dhakal,1,0,,,,,,"",""
+ball,2,14.1,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,14.2,Scotland,CM McBride,RD Berrington,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,14.3,Scotland,CM McBride,RD Berrington,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,14.4,Scotland,RD Berrington,CM McBride,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,14.5,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,14.6,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,15.1,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,15.2,Scotland,RD Berrington,CM McBride,S Dhakal,1,0,,,,,,"",""
+ball,2,15.3,Scotland,CM McBride,RD Berrington,S Dhakal,1,0,,,,,,"",""
+ball,2,15.4,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,15.5,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,15.6,Scotland,RD Berrington,CM McBride,S Dhakal,0,0,,,,,,"",""
+ball,2,16.1,Scotland,CM McBride,RD Berrington,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,16.2,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,16.3,Scotland,CM McBride,RD Berrington,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,16.4,Scotland,CM McBride,RD Berrington,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,16.5,Scotland,RD Berrington,CM McBride,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,16.6,Scotland,RD Berrington,CM McBride,LN Rajbanshi,4,0,,,,,,"",""

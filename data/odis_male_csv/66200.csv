@@ -1,0 +1,276 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Australia
+info,gender,male
+info,season,2004
+info,date,2004/09/13
+info,event,ICC Champions Trophy
+info,match_number,5
+info,venue,The Rose Bowl
+info,city,Southampton
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,MS Kasprowicz
+info,umpire,Aleem Dar
+info,umpire,BF Bowden
+info,tv_umpire,SA Bucknor
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_wickets,9
+info,player,United States of America,RP Alexander
+info,player,United States of America,MR Johnson
+info,player,United States of America,LC Romero
+info,player,United States of America,SJ Massiah
+info,player,United States of America,RW Staple
+info,player,United States of America,CA Reid
+info,player,United States of America,Rashid Zia
+info,player,United States of America,Aijaz Ali
+info,player,United States of America,Nasir Javed
+info,player,United States of America,DL Blake
+info,player,United States of America,HR Johnson
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DS Lehmann
+info,player,Australia,A Symonds
+info,player,Australia,DR Martyn
+info,player,Australia,MJ Clarke
+info,player,Australia,MS Kasprowicz
+info,player,Australia,B Lee
+info,player,Australia,JN Gillespie
+info,player,Australia,GD McGrath
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Aijaz Ali,6d60ece6
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CA Reid,6b062b4b
+info,registry,people,DL Blake,6cd0b2d8
+info,registry,people,DR Martyn,69762509
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,HR Johnson,98653b57
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,LC Romero,a2a1efe2
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MR Johnson,2b30ca91
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,Nasir Javed,474a8333
+info,registry,people,RP Alexander,c25927f8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,RW Staple,9de31202
+info,registry,people,Rashid Zia,d797ecfe
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SJ Massiah,59cc6b79
+ball,1,0.1,United States of America,RP Alexander,MR Johnson,B Lee,1,0,,,,,,"",""
+ball,1,0.2,United States of America,MR Johnson,RP Alexander,B Lee,0,0,,,,,,bowled,MR Johnson
+ball,1,0.3,United States of America,LC Romero,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,0.4,United States of America,LC Romero,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,0.5,United States of America,LC Romero,RP Alexander,B Lee,1,0,,,,,,"",""
+ball,1,0.6,United States of America,RP Alexander,LC Romero,B Lee,0,0,,,,,,"",""
+ball,1,1.1,United States of America,LC Romero,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,1.2,United States of America,LC Romero,RP Alexander,GD McGrath,0,0,,,,,,run out,LC Romero
+ball,1,1.3,United States of America,RP Alexander,SJ Massiah,GD McGrath,1,0,,,,,,"",""
+ball,1,1.4,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,1.5,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,1.6,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,2.1,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,2.2,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,2.3,United States of America,RP Alexander,SJ Massiah,B Lee,1,0,,,,,,"",""
+ball,1,2.4,United States of America,SJ Massiah,RP Alexander,B Lee,0,1,1,,,,,"",""
+ball,1,2.5,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,2.6,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,2.7,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,3.1,United States of America,RP Alexander,SJ Massiah,GD McGrath,1,0,,,,,,"",""
+ball,1,3.2,United States of America,SJ Massiah,RP Alexander,GD McGrath,4,0,,,,,,"",""
+ball,1,3.3,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,1,1,,,,,"",""
+ball,1,3.4,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,3.5,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,3.6,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,3.7,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,4.1,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,4.2,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,4.3,United States of America,RP Alexander,SJ Massiah,B Lee,0,1,,1,,,,"",""
+ball,1,4.4,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,4.5,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,4.6,United States of America,RP Alexander,SJ Massiah,B Lee,1,0,,,,,,"",""
+ball,1,4.7,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,5.1,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,5.2,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,5.3,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,5.4,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,5.5,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,5.6,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,6.1,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,6.2,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,6.3,United States of America,SJ Massiah,RP Alexander,B Lee,0,1,1,,,,,"",""
+ball,1,6.4,United States of America,SJ Massiah,RP Alexander,B Lee,1,0,,,,,,"",""
+ball,1,6.5,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,6.6,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,6.7,United States of America,RP Alexander,SJ Massiah,B Lee,0,1,1,,,,,"",""
+ball,1,6.8,United States of America,RP Alexander,SJ Massiah,B Lee,0,0,,,,,,"",""
+ball,1,7.1,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,7.2,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,7.3,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,7.4,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,7.5,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,7.6,United States of America,SJ Massiah,RP Alexander,GD McGrath,1,0,,,,,,"",""
+ball,1,8.1,United States of America,SJ Massiah,RP Alexander,B Lee,4,0,,,,,,"",""
+ball,1,8.2,United States of America,SJ Massiah,RP Alexander,B Lee,0,1,,1,,,,"",""
+ball,1,8.3,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,8.4,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,8.5,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,8.6,United States of America,SJ Massiah,RP Alexander,B Lee,2,1,,1,,,,"",""
+ball,1,8.7,United States of America,SJ Massiah,RP Alexander,B Lee,4,0,,,,,,"",""
+ball,1,8.8,United States of America,SJ Massiah,RP Alexander,B Lee,0,0,,,,,,"",""
+ball,1,9.1,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,9.2,United States of America,RP Alexander,SJ Massiah,GD McGrath,2,0,,,,,,"",""
+ball,1,9.3,United States of America,RP Alexander,SJ Massiah,GD McGrath,0,0,,,,,,"",""
+ball,1,9.4,United States of America,RP Alexander,SJ Massiah,GD McGrath,1,0,,,,,,"",""
+ball,1,9.5,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,9.6,United States of America,SJ Massiah,RP Alexander,GD McGrath,0,0,,,,,,"",""
+ball,1,10.1,United States of America,RP Alexander,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,10.2,United States of America,RP Alexander,SJ Massiah,MS Kasprowicz,0,0,,,,,,caught,RP Alexander
+ball,1,10.3,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,10.4,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,10.5,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,10.6,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,11.1,United States of America,SJ Massiah,RW Staple,GD McGrath,0,0,,,,,,"",""
+ball,1,11.2,United States of America,SJ Massiah,RW Staple,GD McGrath,0,0,,,,,,"",""
+ball,1,11.3,United States of America,SJ Massiah,RW Staple,GD McGrath,2,0,,,,,,"",""
+ball,1,11.4,United States of America,SJ Massiah,RW Staple,GD McGrath,0,0,,,,,,"",""
+ball,1,11.5,United States of America,SJ Massiah,RW Staple,GD McGrath,0,0,,,,,,"",""
+ball,1,11.6,United States of America,SJ Massiah,RW Staple,GD McGrath,0,0,,,,,,"",""
+ball,1,12.1,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,12.2,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,12.3,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,12.4,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,4,0,,,,,,"",""
+ball,1,12.5,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,12.6,United States of America,RW Staple,SJ Massiah,MS Kasprowicz,0,0,,,,,,lbw,RW Staple
+ball,1,13.1,United States of America,SJ Massiah,CA Reid,JN Gillespie,0,0,,,,,,"",""
+ball,1,13.2,United States of America,SJ Massiah,CA Reid,JN Gillespie,3,0,,,,,,"",""
+ball,1,13.3,United States of America,CA Reid,SJ Massiah,JN Gillespie,0,0,,,,,,"",""
+ball,1,13.4,United States of America,CA Reid,SJ Massiah,JN Gillespie,2,0,,,,,,"",""
+ball,1,13.5,United States of America,CA Reid,SJ Massiah,JN Gillespie,0,1,1,,,,,"",""
+ball,1,13.6,United States of America,CA Reid,SJ Massiah,JN Gillespie,0,0,,,,,,"",""
+ball,1,13.7,United States of America,CA Reid,SJ Massiah,JN Gillespie,0,0,,,,,,"",""
+ball,1,14.1,United States of America,SJ Massiah,CA Reid,MS Kasprowicz,2,0,,,,,,"",""
+ball,1,14.2,United States of America,SJ Massiah,CA Reid,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,14.3,United States of America,SJ Massiah,CA Reid,MS Kasprowicz,0,0,,,,,,caught,SJ Massiah
+ball,1,14.4,United States of America,CA Reid,Rashid Zia,MS Kasprowicz,0,0,,,,,,lbw,CA Reid
+ball,1,14.5,United States of America,Aijaz Ali,Rashid Zia,MS Kasprowicz,0,1,,1,,,,"",""
+ball,1,14.6,United States of America,Aijaz Ali,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,14.7,United States of America,Aijaz Ali,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,15.1,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,15.2,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,15.3,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,15.4,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,15.5,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,15.6,United States of America,Rashid Zia,Aijaz Ali,JN Gillespie,0,0,,,,,,"",""
+ball,1,16.1,United States of America,Aijaz Ali,Rashid Zia,MS Kasprowicz,1,0,,,,,,"",""
+ball,1,16.2,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,1,1,,,,,"",""
+ball,1,16.3,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,16.4,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,16.5,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,16.6,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,16.7,United States of America,Rashid Zia,Aijaz Ali,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,17.1,United States of America,Aijaz Ali,Rashid Zia,JN Gillespie,0,0,,,,,,"",""
+ball,1,17.2,United States of America,Aijaz Ali,Rashid Zia,JN Gillespie,0,0,,,,,,caught,Aijaz Ali
+ball,1,17.3,United States of America,Nasir Javed,Rashid Zia,JN Gillespie,0,1,,1,,,,"",""
+ball,1,17.4,United States of America,Nasir Javed,Rashid Zia,JN Gillespie,1,0,,,,,,"",""
+ball,1,17.5,United States of America,Rashid Zia,Nasir Javed,JN Gillespie,0,0,,,,,,"",""
+ball,1,17.6,United States of America,Rashid Zia,Nasir Javed,JN Gillespie,0,1,,,,1,,"",""
+ball,1,17.7,United States of America,Nasir Javed,Rashid Zia,JN Gillespie,0,0,,,,,,"",""
+ball,1,18.1,United States of America,Rashid Zia,Nasir Javed,MS Kasprowicz,1,0,,,,,,"",""
+ball,1,18.2,United States of America,Nasir Javed,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,18.3,United States of America,Nasir Javed,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,18.4,United States of America,Nasir Javed,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,18.5,United States of America,Nasir Javed,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,18.6,United States of America,Nasir Javed,Rashid Zia,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,19.1,United States of America,Rashid Zia,Nasir Javed,JN Gillespie,0,0,,,,,,"",""
+ball,1,19.2,United States of America,Rashid Zia,Nasir Javed,JN Gillespie,0,0,,,,,,lbw,Rashid Zia
+ball,1,19.3,United States of America,DL Blake,Nasir Javed,JN Gillespie,0,0,,,,,,"",""
+ball,1,19.4,United States of America,DL Blake,Nasir Javed,JN Gillespie,0,0,,,,,,lbw,DL Blake
+ball,1,19.5,United States of America,HR Johnson,Nasir Javed,JN Gillespie,0,0,,,,,,"",""
+ball,1,19.6,United States of America,HR Johnson,Nasir Javed,JN Gillespie,1,0,,,,,,"",""
+ball,1,20.1,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,20.2,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,1,0,,,,,,"",""
+ball,1,20.3,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,1,0,,,,,,"",""
+ball,1,20.4,United States of America,Nasir Javed,HR Johnson,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,20.5,United States of America,Nasir Javed,HR Johnson,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,20.6,United States of America,Nasir Javed,HR Johnson,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,21.1,United States of America,HR Johnson,Nasir Javed,JN Gillespie,1,0,,,,,,"",""
+ball,1,21.2,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,21.3,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,1,,,,1,,"",""
+ball,1,21.4,United States of America,HR Johnson,Nasir Javed,JN Gillespie,3,0,,,,,,"",""
+ball,1,21.5,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,21.6,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,22.1,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,22.2,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,22.3,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,22.4,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,22.5,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,0,0,,,,,,"",""
+ball,1,22.6,United States of America,HR Johnson,Nasir Javed,MS Kasprowicz,2,0,,,,,,"",""
+ball,1,23.1,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,23.2,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,23.3,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,1,1,,,,,"",""
+ball,1,23.4,United States of America,Nasir Javed,HR Johnson,JN Gillespie,0,0,,,,,,"",""
+ball,1,23.5,United States of America,Nasir Javed,HR Johnson,JN Gillespie,1,0,,,,,,"",""
+ball,1,23.6,United States of America,HR Johnson,Nasir Javed,JN Gillespie,0,0,,,,,,"",""
+ball,1,23.7,United States of America,HR Johnson,Nasir Javed,JN Gillespie,0,0,,,,,,bowled,HR Johnson
+ball,2,0.1,Australia,AC Gilchrist,ML Hayden,HR Johnson,0,0,,,,,,"",""
+ball,2,0.2,Australia,AC Gilchrist,ML Hayden,HR Johnson,1,0,,,,,,"",""
+ball,2,0.3,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,1,,1,,,,"",""
+ball,2,0.4,Australia,ML Hayden,AC Gilchrist,HR Johnson,4,0,,,,,,"",""
+ball,2,0.5,Australia,ML Hayden,AC Gilchrist,HR Johnson,4,0,,,,,,"",""
+ball,2,0.6,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,2,,2,,,,"",""
+ball,2,0.7,Australia,AC Gilchrist,ML Hayden,HR Johnson,0,0,,,,,,"",""
+ball,2,0.8,Australia,AC Gilchrist,ML Hayden,HR Johnson,0,0,,,,,,"",""
+ball,2,1.1,Australia,ML Hayden,AC Gilchrist,CA Reid,0,0,,,,,,"",""
+ball,2,1.2,Australia,ML Hayden,AC Gilchrist,CA Reid,4,0,,,,,,"",""
+ball,2,1.3,Australia,ML Hayden,AC Gilchrist,CA Reid,1,0,,,,,,"",""
+ball,2,1.4,Australia,AC Gilchrist,ML Hayden,CA Reid,0,0,,,,,,"",""
+ball,2,1.5,Australia,AC Gilchrist,ML Hayden,CA Reid,0,0,,,,,,"",""
+ball,2,1.6,Australia,AC Gilchrist,ML Hayden,CA Reid,4,0,,,,,,"",""
+ball,2,2.1,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,0,,,,,,"",""
+ball,2,2.2,Australia,ML Hayden,AC Gilchrist,HR Johnson,2,0,,,,,,"",""
+ball,2,2.3,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,0,,,,,,"",""
+ball,2,2.4,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,1,,1,,,,"",""
+ball,2,2.5,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,0,,,,,,"",""
+ball,2,2.6,Australia,ML Hayden,AC Gilchrist,HR Johnson,4,0,,,,,,"",""
+ball,2,2.7,Australia,ML Hayden,AC Gilchrist,HR Johnson,4,0,,,,,,"",""
+ball,2,3.1,Australia,AC Gilchrist,ML Hayden,CA Reid,0,0,,,,,,"",""
+ball,2,3.2,Australia,AC Gilchrist,ML Hayden,CA Reid,2,0,,,,,,"",""
+ball,2,3.3,Australia,AC Gilchrist,ML Hayden,CA Reid,0,0,,,,,,"",""
+ball,2,3.4,Australia,AC Gilchrist,ML Hayden,CA Reid,4,0,,,,,,"",""
+ball,2,3.5,Australia,AC Gilchrist,ML Hayden,CA Reid,1,0,,,,,,"",""
+ball,2,3.6,Australia,ML Hayden,AC Gilchrist,CA Reid,0,0,,,,,,"",""
+ball,2,4.1,Australia,AC Gilchrist,ML Hayden,HR Johnson,0,0,,,,,,"",""
+ball,2,4.2,Australia,AC Gilchrist,ML Hayden,HR Johnson,0,0,,,,,,"",""
+ball,2,4.3,Australia,AC Gilchrist,ML Hayden,HR Johnson,1,0,,,,,,"",""
+ball,2,4.4,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,0,,,,,,"",""
+ball,2,4.5,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,1,1,,,,,"",""
+ball,2,4.6,Australia,ML Hayden,AC Gilchrist,HR Johnson,0,0,,,,,,caught,ML Hayden
+ball,2,4.7,Australia,RT Ponting,AC Gilchrist,HR Johnson,1,0,,,,,,"",""
+ball,2,5.1,Australia,RT Ponting,AC Gilchrist,CA Reid,0,5,5,,,,,"",""
+ball,2,5.2,Australia,RT Ponting,AC Gilchrist,CA Reid,0,0,,,,,,"",""
+ball,2,5.3,Australia,RT Ponting,AC Gilchrist,CA Reid,0,0,,,,,,"",""
+ball,2,5.4,Australia,RT Ponting,AC Gilchrist,CA Reid,1,0,,,,,,"",""
+ball,2,5.5,Australia,AC Gilchrist,RT Ponting,CA Reid,0,0,,,,,,"",""
+ball,2,5.6,Australia,AC Gilchrist,RT Ponting,CA Reid,0,0,,,,,,"",""
+ball,2,5.7,Australia,AC Gilchrist,RT Ponting,CA Reid,4,0,,,,,,"",""
+ball,2,6.1,Australia,RT Ponting,AC Gilchrist,DL Blake,1,0,,,,,,"",""
+ball,2,6.2,Australia,AC Gilchrist,RT Ponting,DL Blake,0,1,,,,1,,"",""
+ball,2,6.3,Australia,RT Ponting,AC Gilchrist,DL Blake,1,0,,,,,,"",""
+ball,2,6.4,Australia,AC Gilchrist,RT Ponting,DL Blake,1,0,,,,,,"",""
+ball,2,6.5,Australia,RT Ponting,AC Gilchrist,DL Blake,4,0,,,,,,"",""
+ball,2,6.6,Australia,RT Ponting,AC Gilchrist,DL Blake,0,0,,,,,,"",""
+ball,2,7.1,Australia,AC Gilchrist,RT Ponting,Rashid Zia,0,0,,,,,,"",""
+ball,2,7.2,Australia,AC Gilchrist,RT Ponting,Rashid Zia,0,0,,,,,,"",""
+ball,2,7.3,Australia,AC Gilchrist,RT Ponting,Rashid Zia,0,0,,,,,,"",""
+ball,2,7.4,Australia,AC Gilchrist,RT Ponting,Rashid Zia,0,0,,,,,,"",""
+ball,2,7.5,Australia,AC Gilchrist,RT Ponting,Rashid Zia,6,0,,,,,,"",""

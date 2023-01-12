@@ -1,0 +1,339 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2003/04
+info,date,2004/01/30
+info,event,West Indies tour of South Africa
+info,match_number,3
+info,venue,Kingsmead
+info,city,Durban
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,umpire,DB Hair
+info,umpire,IL Howell
+info,tv_umpire,BG Jerling
+info,match_referee,RS Madugalle
+info,outcome,no result
+info,player,West Indies,CH Gayle
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RL Powell
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,DR Smith
+info,player,West Indies,RD Jacobs
+info,player,West Indies,RO Hurley
+info,player,West Indies,M Dillon
+info,player,West Indies,R Rampaul
+info,player,West Indies,CD Collymore
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JH Kallis
+info,player,South Africa,RJ Peterson
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,JA Rudolph
+info,player,South Africa,SM Pollock
+info,player,South Africa,L Klusener
+info,player,South Africa,MV Boucher
+info,player,South Africa,A Nel
+info,player,South Africa,M Ntini
+info,registry,people,A Nel,2503e881
+info,registry,people,BC Lara,d5403021
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DR Smith,35205dfc
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,IL Howell,c1cd91c3
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,L Klusener,c0790f82
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RO Hurley,304c9c2e
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SM Pollock,88fccd6c
+ball,1,0.1,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,0.2,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,0.3,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,0.4,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,0.5,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,0.6,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,1.1,West Indies,S Chanderpaul,CH Gayle,A Nel,0,0,,,,,,"",""
+ball,1,1.2,West Indies,S Chanderpaul,CH Gayle,A Nel,1,0,,,,,,"",""
+ball,1,1.3,West Indies,CH Gayle,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,1.4,West Indies,CH Gayle,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,1.5,West Indies,CH Gayle,S Chanderpaul,A Nel,1,0,,,,,,"",""
+ball,1,1.6,West Indies,S Chanderpaul,CH Gayle,A Nel,0,0,,,,,,"",""
+ball,1,2.1,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,2.2,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,2.3,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,2.4,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,2.5,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,2.6,West Indies,CH Gayle,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,3.1,West Indies,S Chanderpaul,CH Gayle,A Nel,0,0,,,,,,"",""
+ball,1,3.2,West Indies,S Chanderpaul,CH Gayle,A Nel,0,0,,,,,,"",""
+ball,1,3.3,West Indies,S Chanderpaul,CH Gayle,A Nel,1,0,,,,,,"",""
+ball,1,3.4,West Indies,CH Gayle,S Chanderpaul,A Nel,0,0,,,,,,caught,CH Gayle
+ball,1,3.5,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,3.6,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,4.1,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,4.2,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,4.3,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,4.4,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,4.5,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,4.6,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,5.1,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,5.2,West Indies,RL Powell,S Chanderpaul,A Nel,1,0,,,,,,"",""
+ball,1,5.3,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,5.4,West Indies,S Chanderpaul,RL Powell,A Nel,0,1,1,,,,,"",""
+ball,1,5.5,West Indies,S Chanderpaul,RL Powell,A Nel,1,0,,,,,,"",""
+ball,1,5.6,West Indies,RL Powell,S Chanderpaul,A Nel,1,0,,,,,,"",""
+ball,1,5.7,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,6.1,West Indies,RL Powell,S Chanderpaul,SM Pollock,2,0,,,,,,"",""
+ball,1,6.2,West Indies,RL Powell,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,6.3,West Indies,RL Powell,S Chanderpaul,SM Pollock,4,0,,,,,,"",""
+ball,1,6.4,West Indies,RL Powell,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,6.5,West Indies,RL Powell,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,6.6,West Indies,RL Powell,S Chanderpaul,SM Pollock,1,0,,,,,,"",""
+ball,1,7.1,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,7.2,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,7.3,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,7.4,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,7.5,West Indies,RL Powell,S Chanderpaul,A Nel,4,0,,,,,,"",""
+ball,1,7.6,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,8.1,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,8.2,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,8.3,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,8.4,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,8.5,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,8.6,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,9.1,West Indies,RL Powell,S Chanderpaul,A Nel,0,1,,,,1,,"",""
+ball,1,9.2,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,9.3,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,9.4,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,9.5,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,9.6,West Indies,S Chanderpaul,RL Powell,A Nel,0,0,,,,,,"",""
+ball,1,10.1,West Indies,RL Powell,S Chanderpaul,SM Pollock,0,0,,,,,,"",""
+ball,1,10.2,West Indies,RL Powell,S Chanderpaul,SM Pollock,1,0,,,,,,"",""
+ball,1,10.3,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,10.4,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,10.5,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,10.6,West Indies,S Chanderpaul,RL Powell,SM Pollock,0,0,,,,,,"",""
+ball,1,11.1,West Indies,RL Powell,S Chanderpaul,A Nel,4,0,,,,,,"",""
+ball,1,11.2,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,11.3,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,11.4,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,11.5,West Indies,RL Powell,S Chanderpaul,A Nel,0,1,1,,,,,"",""
+ball,1,11.6,West Indies,RL Powell,S Chanderpaul,A Nel,2,0,,,,,,"",""
+ball,1,11.7,West Indies,RL Powell,S Chanderpaul,A Nel,0,0,,,,,,"",""
+ball,1,12.1,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,12.2,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,12.3,West Indies,S Chanderpaul,RL Powell,M Ntini,2,0,,,,,,"",""
+ball,1,12.4,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,12.5,West Indies,S Chanderpaul,RL Powell,M Ntini,2,0,,,,,,"",""
+ball,1,12.6,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,13.1,West Indies,RL Powell,S Chanderpaul,L Klusener,1,0,,,,,,"",""
+ball,1,13.2,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,13.3,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,13.4,West Indies,S Chanderpaul,RL Powell,L Klusener,1,0,,,,,,"",""
+ball,1,13.5,West Indies,RL Powell,S Chanderpaul,L Klusener,0,0,,,,,,"",""
+ball,1,13.6,West Indies,RL Powell,S Chanderpaul,L Klusener,0,0,,,,,,"",""
+ball,1,14.1,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,14.2,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,14.3,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,14.4,West Indies,S Chanderpaul,RL Powell,M Ntini,4,0,,,,,,"",""
+ball,1,14.5,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,14.6,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,15.1,West Indies,RL Powell,S Chanderpaul,L Klusener,0,0,,,,,,"",""
+ball,1,15.2,West Indies,RL Powell,S Chanderpaul,L Klusener,0,0,,,,,,"",""
+ball,1,15.3,West Indies,RL Powell,S Chanderpaul,L Klusener,1,0,,,,,,"",""
+ball,1,15.4,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,15.5,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,15.6,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,16.1,West Indies,RL Powell,S Chanderpaul,M Ntini,0,0,,,,,,"",""
+ball,1,16.2,West Indies,RL Powell,S Chanderpaul,M Ntini,4,0,,,,,,"",""
+ball,1,16.3,West Indies,RL Powell,S Chanderpaul,M Ntini,0,0,,,,,,"",""
+ball,1,16.4,West Indies,RL Powell,S Chanderpaul,M Ntini,1,0,,,,,,"",""
+ball,1,16.5,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,16.6,West Indies,S Chanderpaul,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,17.1,West Indies,RL Powell,S Chanderpaul,L Klusener,1,0,,,,,,"",""
+ball,1,17.2,West Indies,S Chanderpaul,RL Powell,L Klusener,1,0,,,,,,"",""
+ball,1,17.3,West Indies,RL Powell,S Chanderpaul,L Klusener,1,0,,,,,,"",""
+ball,1,17.4,West Indies,S Chanderpaul,RL Powell,L Klusener,4,0,,,,,,"",""
+ball,1,17.5,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,17.6,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,"",""
+ball,1,18.1,West Indies,RL Powell,S Chanderpaul,RJ Peterson,0,0,,,,,,"",""
+ball,1,18.2,West Indies,RL Powell,S Chanderpaul,RJ Peterson,0,0,,,,,,"",""
+ball,1,18.3,West Indies,RL Powell,S Chanderpaul,RJ Peterson,2,0,,,,,,"",""
+ball,1,18.4,West Indies,RL Powell,S Chanderpaul,RJ Peterson,0,0,,,,,,"",""
+ball,1,18.5,West Indies,RL Powell,S Chanderpaul,RJ Peterson,0,0,,,,,,"",""
+ball,1,18.6,West Indies,RL Powell,S Chanderpaul,RJ Peterson,0,0,,,,,,"",""
+ball,1,19.1,West Indies,S Chanderpaul,RL Powell,L Klusener,0,0,,,,,,caught,S Chanderpaul
+ball,1,19.2,West Indies,RL Powell,RR Sarwan,L Klusener,4,0,,,,,,"",""
+ball,1,19.3,West Indies,RL Powell,RR Sarwan,L Klusener,0,1,1,,,,,"",""
+ball,1,19.4,West Indies,RL Powell,RR Sarwan,L Klusener,0,0,,,,,,"",""
+ball,1,19.5,West Indies,RL Powell,RR Sarwan,L Klusener,0,0,,,,,,"",""
+ball,1,19.6,West Indies,RL Powell,RR Sarwan,L Klusener,4,0,,,,,,"",""
+ball,1,19.7,West Indies,RL Powell,RR Sarwan,L Klusener,0,1,,,,1,,"",""
+ball,1,20.1,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,20.2,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,20.3,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,20.4,West Indies,RL Powell,RR Sarwan,RJ Peterson,2,0,,,,,,"",""
+ball,1,20.5,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,20.6,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,21.1,West Indies,RR Sarwan,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,21.2,West Indies,RR Sarwan,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,21.3,West Indies,RR Sarwan,RL Powell,M Ntini,1,0,,,,,,"",""
+ball,1,21.4,West Indies,RL Powell,RR Sarwan,M Ntini,2,0,,,,,,"",""
+ball,1,21.5,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,"",""
+ball,1,21.6,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,"",""
+ball,1,22.1,West Indies,RR Sarwan,RL Powell,RJ Peterson,1,0,,,,,,"",""
+ball,1,22.2,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,22.3,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,22.4,West Indies,RL Powell,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,22.5,West Indies,RR Sarwan,RL Powell,RJ Peterson,0,0,,,,,,"",""
+ball,1,22.6,West Indies,RR Sarwan,RL Powell,RJ Peterson,0,0,,,,,,"",""
+ball,1,23.1,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,"",""
+ball,1,23.2,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,"",""
+ball,1,23.3,West Indies,RL Powell,RR Sarwan,M Ntini,1,0,,,,,,"",""
+ball,1,23.4,West Indies,RR Sarwan,RL Powell,M Ntini,0,0,,,,,,"",""
+ball,1,23.5,West Indies,RR Sarwan,RL Powell,M Ntini,1,0,,,,,,"",""
+ball,1,23.6,West Indies,RL Powell,RR Sarwan,M Ntini,2,0,,,,,,"",""
+ball,1,24.1,West Indies,RR Sarwan,RL Powell,RJ Peterson,1,0,,,,,,"",""
+ball,1,24.2,West Indies,RL Powell,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,24.3,West Indies,RR Sarwan,RL Powell,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.4,West Indies,RR Sarwan,RL Powell,RJ Peterson,1,0,,,,,,"",""
+ball,1,24.5,West Indies,RL Powell,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.6,West Indies,RL Powell,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,25.1,West Indies,RL Powell,RR Sarwan,M Ntini,1,0,,,,,,"",""
+ball,1,25.2,West Indies,RR Sarwan,RL Powell,M Ntini,1,0,,,,,,"",""
+ball,1,25.3,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,"",""
+ball,1,25.4,West Indies,RL Powell,RR Sarwan,M Ntini,0,0,,,,,,caught,RL Powell
+ball,1,25.5,West Indies,RR Sarwan,BC Lara,M Ntini,0,0,,,,,,"",""
+ball,1,25.6,West Indies,RR Sarwan,BC Lara,M Ntini,1,0,,,,,,"",""
+ball,1,26.1,West Indies,RR Sarwan,BC Lara,RJ Peterson,1,0,,,,,,"",""
+ball,1,26.2,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,26.3,West Indies,BC Lara,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,26.4,West Indies,RR Sarwan,BC Lara,RJ Peterson,0,0,,,,,,"",""
+ball,1,26.5,West Indies,RR Sarwan,BC Lara,RJ Peterson,1,0,,,,,,"",""
+ball,1,26.6,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,27.1,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,27.2,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,27.3,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,27.4,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,27.5,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,27.6,West Indies,RR Sarwan,BC Lara,A Nel,0,0,,,,,,"",""
+ball,1,28.1,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.2,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.3,West Indies,BC Lara,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,28.4,West Indies,RR Sarwan,BC Lara,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.5,West Indies,RR Sarwan,BC Lara,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.6,West Indies,RR Sarwan,BC Lara,RJ Peterson,0,0,,,,,,"",""
+ball,1,29.1,West Indies,BC Lara,RR Sarwan,A Nel,0,0,,,,,,"",""
+ball,1,29.2,West Indies,BC Lara,RR Sarwan,A Nel,0,0,,,,,,"",""
+ball,1,29.3,West Indies,BC Lara,RR Sarwan,A Nel,1,0,,,,,,"",""
+ball,1,29.4,West Indies,RR Sarwan,BC Lara,A Nel,1,0,,,,,,"",""
+ball,1,29.5,West Indies,BC Lara,RR Sarwan,A Nel,1,0,,,,,,"",""
+ball,1,29.6,West Indies,RR Sarwan,BC Lara,A Nel,4,0,,,,,,"",""
+ball,1,30.1,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,0,,,,,,"",""
+ball,1,30.2,West Indies,BC Lara,RR Sarwan,RJ Peterson,1,0,,,,,,"",""
+ball,1,30.3,West Indies,RR Sarwan,BC Lara,RJ Peterson,1,0,,,,,,"",""
+ball,1,30.4,West Indies,BC Lara,RR Sarwan,RJ Peterson,0,1,,,1,,,"",""
+ball,1,30.5,West Indies,RR Sarwan,BC Lara,RJ Peterson,4,0,,,,,,"",""
+ball,1,30.6,West Indies,RR Sarwan,BC Lara,RJ Peterson,2,0,,,,,,"",""
+ball,1,31.1,West Indies,BC Lara,RR Sarwan,L Klusener,0,0,,,,,,"",""
+ball,1,31.2,West Indies,BC Lara,RR Sarwan,L Klusener,1,0,,,,,,"",""
+ball,1,31.3,West Indies,RR Sarwan,BC Lara,L Klusener,0,0,,,,,,"",""
+ball,1,31.4,West Indies,RR Sarwan,BC Lara,L Klusener,1,0,,,,,,"",""
+ball,1,31.5,West Indies,BC Lara,RR Sarwan,L Klusener,0,0,,,,,,"",""
+ball,1,31.6,West Indies,BC Lara,RR Sarwan,L Klusener,1,0,,,,,,"",""
+ball,1,32.1,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,32.2,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,32.3,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,32.4,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,32.5,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,32.6,West Indies,BC Lara,RR Sarwan,SM Pollock,2,0,,,,,,"",""
+ball,1,33.1,West Indies,RR Sarwan,BC Lara,L Klusener,0,0,,,,,,"",""
+ball,1,33.2,West Indies,RR Sarwan,BC Lara,L Klusener,2,0,,,,,,"",""
+ball,1,33.3,West Indies,RR Sarwan,BC Lara,L Klusener,0,0,,,,,,"",""
+ball,1,33.4,West Indies,RR Sarwan,BC Lara,L Klusener,1,0,,,,,,"",""
+ball,1,33.5,West Indies,BC Lara,RR Sarwan,L Klusener,4,0,,,,,,"",""
+ball,1,33.6,West Indies,BC Lara,RR Sarwan,L Klusener,0,1,,,,1,,"",""
+ball,1,34.1,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,34.2,West Indies,BC Lara,RR Sarwan,SM Pollock,0,0,,,,,,"",""
+ball,1,34.3,West Indies,BC Lara,RR Sarwan,SM Pollock,1,0,,,,,,"",""
+ball,1,34.4,West Indies,RR Sarwan,BC Lara,SM Pollock,4,0,,,,,,"",""
+ball,1,34.5,West Indies,RR Sarwan,BC Lara,SM Pollock,0,0,,,,,,caught,RR Sarwan
+ball,1,34.6,West Indies,BC Lara,DR Smith,SM Pollock,1,0,,,,,,"",""
+ball,1,35.1,West Indies,BC Lara,DR Smith,JH Kallis,0,0,,,,,,caught,BC Lara
+ball,1,35.2,West Indies,DR Smith,RD Jacobs,JH Kallis,0,0,,,,,,"",""
+ball,1,35.3,West Indies,DR Smith,RD Jacobs,JH Kallis,1,0,,,,,,"",""
+ball,1,35.4,West Indies,RD Jacobs,DR Smith,JH Kallis,1,0,,,,,,"",""
+ball,1,35.5,West Indies,DR Smith,RD Jacobs,JH Kallis,1,0,,,,,,"",""
+ball,1,35.6,West Indies,RD Jacobs,DR Smith,JH Kallis,0,1,,,,1,,"",""
+ball,1,36.1,West Indies,RD Jacobs,DR Smith,L Klusener,1,0,,,,,,"",""
+ball,1,36.2,West Indies,DR Smith,RD Jacobs,L Klusener,4,0,,,,,,"",""
+ball,1,36.3,West Indies,DR Smith,RD Jacobs,L Klusener,6,0,,,,,,"",""
+ball,1,36.4,West Indies,DR Smith,RD Jacobs,L Klusener,0,0,,,,,,caught,DR Smith
+ball,1,36.5,West Indies,RD Jacobs,RO Hurley,L Klusener,1,0,,,,,,"",""
+ball,1,36.6,West Indies,RO Hurley,RD Jacobs,L Klusener,1,0,,,,,,"",""
+ball,1,37.1,West Indies,RO Hurley,RD Jacobs,JH Kallis,0,0,,,,,,"",""
+ball,1,37.2,West Indies,RO Hurley,RD Jacobs,JH Kallis,1,0,,,,,,"",""
+ball,1,37.3,West Indies,RD Jacobs,RO Hurley,JH Kallis,0,0,,,,,,"",""
+ball,1,37.4,West Indies,RD Jacobs,RO Hurley,JH Kallis,1,0,,,,,,"",""
+ball,1,37.5,West Indies,RO Hurley,RD Jacobs,JH Kallis,0,1,,,,1,,"",""
+ball,1,37.6,West Indies,RD Jacobs,RO Hurley,JH Kallis,1,0,,,,,,"",""
+ball,1,38.1,West Indies,RD Jacobs,RO Hurley,L Klusener,0,0,,,,,,"",""
+ball,1,38.2,West Indies,RD Jacobs,RO Hurley,L Klusener,1,0,,,,,,"",""
+ball,1,38.3,West Indies,RO Hurley,RD Jacobs,L Klusener,0,0,,,,,,"",""
+ball,1,38.4,West Indies,RO Hurley,RD Jacobs,L Klusener,2,0,,,,,,"",""
+ball,1,38.5,West Indies,RO Hurley,RD Jacobs,L Klusener,0,0,,,,,,"",""
+ball,1,38.6,West Indies,RO Hurley,RD Jacobs,L Klusener,1,0,,,,,,"",""
+ball,1,39.1,West Indies,RO Hurley,RD Jacobs,JH Kallis,1,0,,,,,,"",""
+ball,1,39.2,West Indies,RD Jacobs,RO Hurley,JH Kallis,1,0,,,,,,"",""
+ball,1,39.3,West Indies,RO Hurley,RD Jacobs,JH Kallis,0,0,,,,,,bowled,RO Hurley
+ball,1,39.4,West Indies,M Dillon,RD Jacobs,JH Kallis,0,0,,,,,,caught,M Dillon
+ball,1,39.5,West Indies,RD Jacobs,R Rampaul,JH Kallis,0,0,,,,,,"",""
+ball,1,39.6,West Indies,RD Jacobs,R Rampaul,JH Kallis,0,1,,,,1,,"",""
+ball,2,0.1,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,0.2,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,0.3,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,0.4,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,0.5,South Africa,GC Smith,HH Gibbs,M Dillon,1,0,,,,,,"",""
+ball,2,0.6,South Africa,HH Gibbs,GC Smith,M Dillon,0,0,,,,,,"",""
+ball,2,1.1,South Africa,GC Smith,HH Gibbs,CD Collymore,1,0,,,,,,"",""
+ball,2,1.2,South Africa,HH Gibbs,GC Smith,CD Collymore,0,0,,,,,,"",""
+ball,2,1.3,South Africa,HH Gibbs,GC Smith,CD Collymore,0,0,,,,,,"",""
+ball,2,1.4,South Africa,HH Gibbs,GC Smith,CD Collymore,1,0,,,,,,"",""
+ball,2,1.5,South Africa,GC Smith,HH Gibbs,CD Collymore,1,0,,,,,,"",""
+ball,2,1.6,South Africa,HH Gibbs,GC Smith,CD Collymore,4,0,,,,,,"",""
+ball,2,2.1,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,2.2,South Africa,GC Smith,HH Gibbs,M Dillon,1,0,,,,,,"",""
+ball,2,2.3,South Africa,HH Gibbs,GC Smith,M Dillon,0,1,,,,1,,"",""
+ball,2,2.4,South Africa,GC Smith,HH Gibbs,M Dillon,0,0,,,,,,caught,GC Smith
+ball,2,2.5,South Africa,HH Gibbs,JH Kallis,M Dillon,1,0,,,,,,"",""
+ball,2,2.6,South Africa,JH Kallis,HH Gibbs,M Dillon,1,0,,,,,,"",""
+ball,2,3.1,South Africa,JH Kallis,HH Gibbs,CD Collymore,0,0,,,,,,"",""
+ball,2,3.2,South Africa,JH Kallis,HH Gibbs,CD Collymore,0,0,,,,,,"",""
+ball,2,3.3,South Africa,JH Kallis,HH Gibbs,CD Collymore,0,0,,,,,,"",""
+ball,2,3.4,South Africa,JH Kallis,HH Gibbs,CD Collymore,0,0,,,,,,"",""
+ball,2,3.5,South Africa,JH Kallis,HH Gibbs,CD Collymore,1,0,,,,,,"",""
+ball,2,3.6,South Africa,HH Gibbs,JH Kallis,CD Collymore,1,0,,,,,,"",""
+ball,2,4.1,South Africa,HH Gibbs,JH Kallis,M Dillon,0,1,,,1,,,"",""
+ball,2,4.2,South Africa,JH Kallis,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,4.3,South Africa,JH Kallis,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,4.4,South Africa,JH Kallis,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,4.5,South Africa,JH Kallis,HH Gibbs,M Dillon,0,0,,,,,,"",""
+ball,2,4.6,South Africa,JH Kallis,HH Gibbs,M Dillon,0,0,,,,,,"",""

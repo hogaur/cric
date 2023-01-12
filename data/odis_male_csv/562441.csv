@@ -1,0 +1,106 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2012
+info,date,2012/06/13
+info,event,Pakistan in Sri Lanka ODI Series
+info,match_number,3
+info,venue,R Premadasa Stadium
+info,city,Colombo
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,umpire,EAR de Silva
+info,umpire,PR Reiffel
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,BC Broad
+info,outcome,no result
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Azhar Ali
+info,player,Pakistan,Asad Shafiq
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Umar Akmal
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Sarfraz Ahmed
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Saeed Ajmal
+info,player,Pakistan,Sohail Tanvir
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,LD Chandimal
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HDRL Thirimanne
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,NLTC Perera
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,SL Malinga
+info,player,Sri Lanka,S Weerakoon
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,HDRL Thirimanne,c5928dec
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Weerakoon,3703d634
+info,registry,people,SL Malinga,a12e1d51
+info,registry,people,Saeed Ajmal,05d74535
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Sohail Tanvir,64d43928
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,Umar Akmal,fd2bf2a0
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,WU Tharanga,7ed9fd56
+info,registry,people,Younis Khan,33cb3411
+ball,1,0.1,Pakistan,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,,,,,,"",""
+ball,1,0.3,Pakistan,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,,,,,,"",""
+ball,1,0.4,Pakistan,Mohammad Hafeez,Azhar Ali,SL Malinga,0,0,,,,,,caught,Mohammad Hafeez
+ball,1,0.5,Pakistan,Asad Shafiq,Azhar Ali,SL Malinga,1,0,,,,,,"",""
+ball,1,0.6,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,1.1,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.2,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.3,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.4,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.5,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.6,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,2.1,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,2.2,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,2.3,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,2.5,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,2.6,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,2,0,,,,,,"",""
+ball,1,3.1,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.2,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.3,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.4,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.5,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.6,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,2,0,,,,,,"",""
+ball,1,4.1,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,1,0,,,,,,"",""
+ball,1,4.2,Pakistan,Asad Shafiq,Azhar Ali,SL Malinga,0,0,,,,,,"",""
+ball,1,4.3,Pakistan,Asad Shafiq,Azhar Ali,SL Malinga,0,0,,,,,,"",""
+ball,1,4.4,Pakistan,Asad Shafiq,Azhar Ali,SL Malinga,1,0,,,,,,"",""
+ball,1,4.5,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,0,0,,,,,,"",""
+ball,1,4.6,Pakistan,Azhar Ali,Asad Shafiq,SL Malinga,4,0,,,,,,"",""
+ball,1,5.1,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Asad Shafiq,Azhar Ali,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,5.3,Pakistan,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,5.4,Pakistan,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,5.5,Pakistan,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,5.6,Pakistan,Azhar Ali,Asad Shafiq,KMDN Kulasekara,0,0,,,,,,lbw,Azhar Ali
+ball,1,6.1,Pakistan,Asad Shafiq,Misbah-ul-Haq,AD Mathews,0,0,,,,,,"",""
+ball,1,6.2,Pakistan,Asad Shafiq,Misbah-ul-Haq,AD Mathews,0,0,,,,,,"",""

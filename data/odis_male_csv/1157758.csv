@@ -1,0 +1,359 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2018/19
+info,date,2018/11/01
+info,event,West Indies tour of India
+info,match_number,5
+info,venue,Greenfield International Stadium
+info,city,Thiruvananthapuram
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,RA Jadeja
+info,umpire,P Wilson
+info,umpire,AK Chaudhary
+info,reserve_umpire,C Shamshuddin
+info,tv_umpire,IJ Gould
+info,match_referee,BC Broad
+info,winner,India
+info,winner_wickets,9
+info,player,West Indies,KOA Powell
+info,player,West Indies,R Powell
+info,player,West Indies,SD Hope
+info,player,West Indies,MN Samuels
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,JO Holder
+info,player,West Indies,FA Allen
+info,player,West Indies,KMA Paul
+info,player,West Indies,D Bishoo
+info,player,West Indies,KAJ Roach
+info,player,West Indies,O Thomas
+info,player,India,RG Sharma
+info,player,India,S Dhawan
+info,player,India,V Kohli
+info,player,India,AT Rayudu
+info,player,India,KM Jadhav
+info,player,India,MS Dhoni
+info,player,India,RA Jadeja
+info,player,India,B Kumar
+info,player,India,Kuldeep Yadav
+info,player,India,KK Ahmed
+info,player,India,JJ Bumrah
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Shamshuddin,0f9d921b
+info,registry,people,D Bishoo,7a80ddf2
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,IJ Gould,a9dfdf6c
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KOA Powell,e012ad13
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MN Samuels,f846de6a
+info,registry,people,MS Dhoni,4a8a2e3b
+info,registry,people,O Thomas,c6097d68
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Powell,650d5e49
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,West Indies,KOA Powell,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,0.2,West Indies,KOA Powell,R Powell,B Kumar,0,1,1,,,,,"",""
+ball,1,0.3,West Indies,KOA Powell,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,0.4,West Indies,KOA Powell,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,0.5,West Indies,KOA Powell,R Powell,B Kumar,0,0,,,,,,caught,KOA Powell
+ball,1,0.6,West Indies,SD Hope,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,0.7,West Indies,SD Hope,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,1.1,West Indies,R Powell,SD Hope,JJ Bumrah,1,0,,,,,,"",""
+ball,1,1.2,West Indies,SD Hope,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.3,West Indies,SD Hope,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.4,West Indies,SD Hope,R Powell,JJ Bumrah,0,0,,,,,,bowled,SD Hope
+ball,1,1.5,West Indies,MN Samuels,R Powell,JJ Bumrah,0,1,1,,,,,"",""
+ball,1,1.6,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,1.7,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,2.1,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,2.2,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,2.3,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,2.4,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,2.5,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,2.6,West Indies,R Powell,MN Samuels,B Kumar,0,0,,,,,,"",""
+ball,1,3.1,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.2,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.3,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.4,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.5,West Indies,MN Samuels,R Powell,JJ Bumrah,0,0,,,,,,"",""
+ball,1,3.6,West Indies,MN Samuels,R Powell,JJ Bumrah,1,0,,,,,,"",""
+ball,1,4.1,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,4.2,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,4.3,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,4.4,West Indies,MN Samuels,R Powell,B Kumar,2,0,,,,,,"",""
+ball,1,4.5,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,4.6,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,5.1,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.2,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.3,West Indies,R Powell,MN Samuels,JJ Bumrah,4,0,,,,,,"",""
+ball,1,5.4,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.5,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.6,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,6.1,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,6.2,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,6.3,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,6.4,West Indies,MN Samuels,R Powell,B Kumar,4,0,,,,,,"",""
+ball,1,6.5,West Indies,MN Samuels,R Powell,B Kumar,4,0,,,,,,"",""
+ball,1,6.6,West Indies,MN Samuels,R Powell,B Kumar,0,0,,,,,,"",""
+ball,1,7.1,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,7.2,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,7.3,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,7.4,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,7.5,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,7.6,West Indies,R Powell,MN Samuels,JJ Bumrah,0,0,,,,,,"",""
+ball,1,8.1,West Indies,MN Samuels,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,8.2,West Indies,MN Samuels,R Powell,KK Ahmed,6,0,,,,,,"",""
+ball,1,8.3,West Indies,MN Samuels,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,8.4,West Indies,MN Samuels,R Powell,KK Ahmed,4,0,,,,,,"",""
+ball,1,8.5,West Indies,MN Samuels,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,8.6,West Indies,MN Samuels,R Powell,KK Ahmed,0,1,1,,,,,"",""
+ball,1,8.7,West Indies,MN Samuels,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,9.1,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.2,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.3,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.4,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.5,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,9.6,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,10.1,West Indies,R Powell,MN Samuels,KK Ahmed,0,0,,,,,,"",""
+ball,1,10.2,West Indies,R Powell,MN Samuels,KK Ahmed,1,0,,,,,,"",""
+ball,1,10.3,West Indies,MN Samuels,R Powell,KK Ahmed,0,1,,,,1,,"",""
+ball,1,10.4,West Indies,R Powell,MN Samuels,KK Ahmed,1,0,,,,,,"",""
+ball,1,10.5,West Indies,MN Samuels,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,10.6,West Indies,MN Samuels,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,11.1,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.2,West Indies,MN Samuels,R Powell,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.3,West Indies,R Powell,MN Samuels,RA Jadeja,0,0,,,,,,"",""
+ball,1,11.4,West Indies,R Powell,MN Samuels,RA Jadeja,1,0,,,,,,"",""
+ball,1,11.5,West Indies,MN Samuels,R Powell,RA Jadeja,0,0,,,,,,caught,MN Samuels
+ball,1,11.6,West Indies,SO Hetmyer,R Powell,RA Jadeja,1,0,,,,,,"",""
+ball,1,12.1,West Indies,SO Hetmyer,R Powell,KK Ahmed,0,1,1,,,,,"",""
+ball,1,12.2,West Indies,SO Hetmyer,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,12.3,West Indies,R Powell,SO Hetmyer,KK Ahmed,0,0,,,,,,"",""
+ball,1,12.4,West Indies,R Powell,SO Hetmyer,KK Ahmed,0,0,,,,,,"",""
+ball,1,12.5,West Indies,R Powell,SO Hetmyer,KK Ahmed,1,0,,,,,,"",""
+ball,1,12.6,West Indies,SO Hetmyer,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,12.7,West Indies,R Powell,SO Hetmyer,KK Ahmed,1,0,,,,,,"",""
+ball,1,13.1,West Indies,R Powell,SO Hetmyer,RA Jadeja,0,0,,,,,,"",""
+ball,1,13.2,West Indies,R Powell,SO Hetmyer,RA Jadeja,0,0,,,,,,"",""
+ball,1,13.3,West Indies,R Powell,SO Hetmyer,RA Jadeja,1,0,,,,,,"",""
+ball,1,13.4,West Indies,SO Hetmyer,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,13.5,West Indies,SO Hetmyer,R Powell,RA Jadeja,4,0,,,,,,"",""
+ball,1,13.6,West Indies,SO Hetmyer,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,14.1,West Indies,R Powell,SO Hetmyer,KK Ahmed,1,0,,,,,,"",""
+ball,1,14.2,West Indies,SO Hetmyer,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,14.3,West Indies,SO Hetmyer,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,14.4,West Indies,R Powell,SO Hetmyer,KK Ahmed,0,0,,,,,,"",""
+ball,1,14.5,West Indies,R Powell,SO Hetmyer,KK Ahmed,2,0,,,,,,"",""
+ball,1,14.6,West Indies,R Powell,SO Hetmyer,KK Ahmed,0,0,,,,,,"",""
+ball,1,15.1,West Indies,SO Hetmyer,R Powell,RA Jadeja,1,0,,,,,,"",""
+ball,1,15.2,West Indies,R Powell,SO Hetmyer,RA Jadeja,0,0,,,,,,"",""
+ball,1,15.3,West Indies,R Powell,SO Hetmyer,RA Jadeja,1,0,,,,,,"",""
+ball,1,15.4,West Indies,SO Hetmyer,R Powell,RA Jadeja,0,0,,,,,,"",""
+ball,1,15.5,West Indies,SO Hetmyer,R Powell,RA Jadeja,0,0,,,,,,lbw,SO Hetmyer
+ball,1,15.6,West Indies,JO Holder,R Powell,RA Jadeja,1,0,,,,,,"",""
+ball,1,16.1,West Indies,JO Holder,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,16.2,West Indies,R Powell,JO Holder,KK Ahmed,1,0,,,,,,"",""
+ball,1,16.3,West Indies,JO Holder,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,16.4,West Indies,JO Holder,R Powell,KK Ahmed,0,0,,,,,,"",""
+ball,1,16.5,West Indies,JO Holder,R Powell,KK Ahmed,1,0,,,,,,"",""
+ball,1,16.6,West Indies,R Powell,JO Holder,KK Ahmed,0,0,,,,,,caught,R Powell
+ball,1,17.1,West Indies,FA Allen,JO Holder,RA Jadeja,0,0,,,,,,"",""
+ball,1,17.2,West Indies,FA Allen,JO Holder,RA Jadeja,0,0,,,,,,"",""
+ball,1,17.3,West Indies,FA Allen,JO Holder,RA Jadeja,1,0,,,,,,"",""
+ball,1,17.4,West Indies,JO Holder,FA Allen,RA Jadeja,2,0,,,,,,"",""
+ball,1,17.5,West Indies,JO Holder,FA Allen,RA Jadeja,0,0,,,,,,"",""
+ball,1,17.6,West Indies,JO Holder,FA Allen,RA Jadeja,0,0,,,,,,"",""
+ball,1,18.1,West Indies,FA Allen,JO Holder,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.2,West Indies,FA Allen,JO Holder,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.3,West Indies,FA Allen,JO Holder,JJ Bumrah,1,0,,,,,,"",""
+ball,1,18.4,West Indies,JO Holder,FA Allen,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.5,West Indies,JO Holder,FA Allen,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.6,West Indies,JO Holder,FA Allen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,19.1,West Indies,JO Holder,FA Allen,RA Jadeja,1,0,,,,,,"",""
+ball,1,19.2,West Indies,FA Allen,JO Holder,RA Jadeja,0,0,,,,,,"",""
+ball,1,19.3,West Indies,FA Allen,JO Holder,RA Jadeja,1,0,,,,,,"",""
+ball,1,19.4,West Indies,JO Holder,FA Allen,RA Jadeja,0,0,,,,,,"",""
+ball,1,19.5,West Indies,JO Holder,FA Allen,RA Jadeja,0,0,,,,,,"",""
+ball,1,19.6,West Indies,JO Holder,FA Allen,RA Jadeja,0,0,,,,,,"",""
+ball,1,20.1,West Indies,FA Allen,JO Holder,JJ Bumrah,1,0,,,,,,"",""
+ball,1,20.2,West Indies,JO Holder,FA Allen,JJ Bumrah,0,0,,,,,,"",""
+ball,1,20.3,West Indies,JO Holder,FA Allen,JJ Bumrah,0,0,,,,,,"",""
+ball,1,20.4,West Indies,JO Holder,FA Allen,JJ Bumrah,1,0,,,,,,"",""
+ball,1,20.5,West Indies,FA Allen,JO Holder,JJ Bumrah,0,0,,,,,,"",""
+ball,1,20.6,West Indies,FA Allen,JO Holder,JJ Bumrah,0,0,,,,,,caught,FA Allen
+ball,1,21.1,West Indies,JO Holder,KMA Paul,RA Jadeja,4,0,,,,,,"",""
+ball,1,21.2,West Indies,JO Holder,KMA Paul,RA Jadeja,1,0,,,,,,"",""
+ball,1,21.3,West Indies,KMA Paul,JO Holder,RA Jadeja,0,0,,,,,,"",""
+ball,1,21.4,West Indies,KMA Paul,JO Holder,RA Jadeja,0,0,,,,,,"",""
+ball,1,21.5,West Indies,KMA Paul,JO Holder,RA Jadeja,1,0,,,,,,"",""
+ball,1,21.6,West Indies,JO Holder,KMA Paul,RA Jadeja,0,0,,,,,,"",""
+ball,1,22.1,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,22.2,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,22.3,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,1,1,,,,,"",""
+ball,1,22.4,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,22.5,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,22.6,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,22.7,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,23.1,West Indies,JO Holder,KMA Paul,RA Jadeja,2,0,,,,,,"",""
+ball,1,23.2,West Indies,JO Holder,KMA Paul,RA Jadeja,0,0,,,,,,"",""
+ball,1,23.3,West Indies,JO Holder,KMA Paul,RA Jadeja,0,0,,,,,,"",""
+ball,1,23.4,West Indies,JO Holder,KMA Paul,RA Jadeja,0,0,,,,,,"",""
+ball,1,23.5,West Indies,JO Holder,KMA Paul,RA Jadeja,4,0,,,,,,"",""
+ball,1,23.6,West Indies,JO Holder,KMA Paul,RA Jadeja,1,0,,,,,,"",""
+ball,1,24.1,West Indies,JO Holder,KMA Paul,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,24.2,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,24.3,West Indies,JO Holder,KMA Paul,Kuldeep Yadav,2,0,,,,,,"",""
+ball,1,24.4,West Indies,JO Holder,KMA Paul,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,24.5,West Indies,KMA Paul,JO Holder,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,24.6,West Indies,JO Holder,KMA Paul,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,25.1,West Indies,JO Holder,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,25.2,West Indies,JO Holder,KMA Paul,KK Ahmed,0,0,,,,,,caught,JO Holder
+ball,1,25.3,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,25.4,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,25.5,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,25.6,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,26.1,West Indies,KMA Paul,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,26.2,West Indies,KMA Paul,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,26.3,West Indies,KMA Paul,D Bishoo,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,26.4,West Indies,D Bishoo,KMA Paul,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,26.5,West Indies,D Bishoo,KMA Paul,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,26.6,West Indies,D Bishoo,KMA Paul,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,27.1,West Indies,KMA Paul,D Bishoo,KK Ahmed,0,0,,,,,,"",""
+ball,1,27.2,West Indies,KMA Paul,D Bishoo,KK Ahmed,0,1,1,,,,,"",""
+ball,1,27.3,West Indies,KMA Paul,D Bishoo,KK Ahmed,0,0,,,,,,"",""
+ball,1,27.4,West Indies,KMA Paul,D Bishoo,KK Ahmed,1,0,,,,,,"",""
+ball,1,27.5,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,27.6,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,27.7,West Indies,D Bishoo,KMA Paul,KK Ahmed,0,0,,,,,,"",""
+ball,1,28.1,West Indies,KMA Paul,D Bishoo,Kuldeep Yadav,0,0,,,,,,caught,KMA Paul
+ball,1,28.2,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,28.3,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,28.4,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,28.5,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,28.6,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,29.1,West Indies,D Bishoo,KAJ Roach,RA Jadeja,1,0,,,,,,"",""
+ball,1,29.2,West Indies,KAJ Roach,D Bishoo,RA Jadeja,0,0,,,,,,"",""
+ball,1,29.3,West Indies,KAJ Roach,D Bishoo,RA Jadeja,0,0,,,,,,"",""
+ball,1,29.4,West Indies,KAJ Roach,D Bishoo,RA Jadeja,0,0,,,,,,"",""
+ball,1,29.5,West Indies,KAJ Roach,D Bishoo,RA Jadeja,1,0,,,,,,"",""
+ball,1,29.6,West Indies,D Bishoo,KAJ Roach,RA Jadeja,1,0,,,,,,"",""
+ball,1,30.1,West Indies,D Bishoo,KAJ Roach,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,30.2,West Indies,D Bishoo,KAJ Roach,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,30.3,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,30.4,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,30.5,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,30.6,West Indies,KAJ Roach,D Bishoo,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,31.1,West Indies,D Bishoo,KAJ Roach,RA Jadeja,1,0,,,,,,"",""
+ball,1,31.2,West Indies,KAJ Roach,D Bishoo,RA Jadeja,0,0,,,,,,"",""
+ball,1,31.3,West Indies,KAJ Roach,D Bishoo,RA Jadeja,0,0,,,,,,caught,KAJ Roach
+ball,1,31.4,West Indies,O Thomas,D Bishoo,RA Jadeja,0,0,,,,,,"",""
+ball,1,31.5,West Indies,O Thomas,D Bishoo,RA Jadeja,0,1,1,,,,,"",""
+ball,1,31.6,West Indies,O Thomas,D Bishoo,RA Jadeja,0,0,,,,,,lbw,O Thomas
+ball,2,0.1,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,0.2,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,0.3,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,0.4,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,0.5,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,0.6,India,RG Sharma,S Dhawan,KAJ Roach,0,0,,,,,,"",""
+ball,2,1.1,India,S Dhawan,RG Sharma,O Thomas,4,0,,,,,,"",""
+ball,2,1.2,India,S Dhawan,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,1.3,India,S Dhawan,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,1.4,India,S Dhawan,RG Sharma,O Thomas,2,0,,,,,,"",""
+ball,2,1.5,India,S Dhawan,RG Sharma,O Thomas,0,0,,,,,,bowled,S Dhawan
+ball,2,1.6,India,V Kohli,RG Sharma,O Thomas,4,0,,,,,,"",""
+ball,2,2.1,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,2.2,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,2.3,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,2.4,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,2.5,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,2.6,India,RG Sharma,V Kohli,KAJ Roach,4,0,,,,,,"",""
+ball,2,3.1,India,V Kohli,RG Sharma,O Thomas,4,0,,,,,,"",""
+ball,2,3.2,India,V Kohli,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,3.3,India,V Kohli,RG Sharma,O Thomas,4,0,,,,,,"",""
+ball,2,3.4,India,V Kohli,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,3.5,India,V Kohli,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,3.6,India,V Kohli,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,4.1,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,4.2,India,RG Sharma,V Kohli,KAJ Roach,3,0,,,,,,"",""
+ball,2,4.3,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,4.4,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,4.5,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,4.6,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,5.1,India,RG Sharma,V Kohli,O Thomas,4,0,,,,,,"",""
+ball,2,5.2,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,5.3,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,5.4,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,5.5,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,5.6,India,RG Sharma,V Kohli,O Thomas,1,0,,,,,,"",""
+ball,2,6.1,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,6.2,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,6.3,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,6.4,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,6.5,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,6.6,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,7.1,India,V Kohli,RG Sharma,O Thomas,0,1,1,,,,,"",""
+ball,2,7.2,India,V Kohli,RG Sharma,O Thomas,0,0,,,,,,"",""
+ball,2,7.3,India,V Kohli,RG Sharma,O Thomas,1,0,,,,,,"",""
+ball,2,7.4,India,RG Sharma,V Kohli,O Thomas,6,0,,,,,,"",""
+ball,2,7.5,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,7.6,India,RG Sharma,V Kohli,O Thomas,0,0,,,,,,"",""
+ball,2,7.7,India,RG Sharma,V Kohli,O Thomas,0,1,,1,,,,"",""
+ball,2,7.8,India,RG Sharma,V Kohli,O Thomas,1,0,,,,,,"",""
+ball,2,8.1,India,RG Sharma,V Kohli,KAJ Roach,0,0,,,,,,"",""
+ball,2,8.2,India,RG Sharma,V Kohli,KAJ Roach,0,1,,,,1,,"",""
+ball,2,8.3,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,8.4,India,V Kohli,RG Sharma,KAJ Roach,2,0,,,,,,"",""
+ball,2,8.5,India,V Kohli,RG Sharma,KAJ Roach,4,0,,,,,,"",""
+ball,2,8.6,India,V Kohli,RG Sharma,KAJ Roach,0,0,,,,,,"",""
+ball,2,9.1,India,RG Sharma,V Kohli,KMA Paul,0,0,,,,,,"",""
+ball,2,9.2,India,RG Sharma,V Kohli,KMA Paul,1,0,,,,,,"",""
+ball,2,9.3,India,V Kohli,RG Sharma,KMA Paul,4,0,,,,,,"",""
+ball,2,9.4,India,V Kohli,RG Sharma,KMA Paul,0,0,,,,,,"",""
+ball,2,9.5,India,V Kohli,RG Sharma,KMA Paul,0,0,,,,,,"",""
+ball,2,9.6,India,V Kohli,RG Sharma,KMA Paul,0,0,,,,,,"",""
+ball,2,10.1,India,RG Sharma,V Kohli,JO Holder,4,0,,,,,,"",""
+ball,2,10.2,India,RG Sharma,V Kohli,JO Holder,6,0,,,,,,"",""
+ball,2,10.3,India,RG Sharma,V Kohli,JO Holder,2,0,,,,,,"",""
+ball,2,10.4,India,RG Sharma,V Kohli,JO Holder,1,0,,,,,,"",""
+ball,2,10.5,India,V Kohli,RG Sharma,JO Holder,1,0,,,,,,"",""
+ball,2,10.6,India,RG Sharma,V Kohli,JO Holder,1,0,,,,,,"",""
+ball,2,11.1,India,RG Sharma,V Kohli,KMA Paul,4,0,,,,,,"",""
+ball,2,11.2,India,RG Sharma,V Kohli,KMA Paul,4,0,,,,,,"",""
+ball,2,11.3,India,RG Sharma,V Kohli,KMA Paul,1,0,,,,,,"",""
+ball,2,11.4,India,V Kohli,RG Sharma,KMA Paul,1,0,,,,,,"",""
+ball,2,11.5,India,RG Sharma,V Kohli,KMA Paul,6,0,,,,,,"",""
+ball,2,11.6,India,RG Sharma,V Kohli,KMA Paul,1,0,,,,,,"",""
+ball,2,12.1,India,RG Sharma,V Kohli,D Bishoo,0,0,,,,,,"",""
+ball,2,12.2,India,RG Sharma,V Kohli,D Bishoo,0,0,,,,,,"",""
+ball,2,12.3,India,RG Sharma,V Kohli,D Bishoo,1,0,,,,,,"",""
+ball,2,12.4,India,V Kohli,RG Sharma,D Bishoo,1,0,,,,,,"",""
+ball,2,12.5,India,RG Sharma,V Kohli,D Bishoo,6,0,,,,,,"",""
+ball,2,12.6,India,RG Sharma,V Kohli,D Bishoo,1,0,,,,,,"",""
+ball,2,13.1,India,RG Sharma,V Kohli,FA Allen,1,0,,,,,,"",""
+ball,2,13.2,India,V Kohli,RG Sharma,FA Allen,0,0,,,,,,"",""
+ball,2,13.3,India,V Kohli,RG Sharma,FA Allen,1,0,,,,,,"",""
+ball,2,13.4,India,RG Sharma,V Kohli,FA Allen,1,0,,,,,,"",""
+ball,2,13.5,India,V Kohli,RG Sharma,FA Allen,1,0,,,,,,"",""
+ball,2,13.6,India,RG Sharma,V Kohli,FA Allen,1,0,,,,,,"",""
+ball,2,14.1,India,RG Sharma,V Kohli,D Bishoo,1,0,,,,,,"",""
+ball,2,14.2,India,V Kohli,RG Sharma,D Bishoo,4,0,,,,,,"",""
+ball,2,14.3,India,V Kohli,RG Sharma,D Bishoo,1,0,,,,,,"",""
+ball,2,14.4,India,RG Sharma,V Kohli,D Bishoo,0,0,,,,,,"",""
+ball,2,14.5,India,RG Sharma,V Kohli,D Bishoo,1,0,,,,,,"",""

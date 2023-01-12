@@ -1,0 +1,361 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Ireland
+info,gender,male
+info,season,2018/19
+info,date,2019/03/02
+info,event,Ireland tour of India
+info,match_number,2
+info,venue,"Rajiv Gandhi International Cricket Stadium, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,umpire,Bismillah Shinwari
+info,umpire,S Ravi
+info,reserve_umpire,Izatullah Safi
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,J Srinath
+info,outcome,no result
+info,player,Afghanistan,Hazratullah
+info,player,Afghanistan,Javed Ahmadi
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Ikram Alikhil
+info,player,Afghanistan,Sayed Shirzad
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Ireland,WTS Porterfield
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,KJ O'Brien
+info,player,Ireland,J Cameron-Dow
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,TJ Murtagh
+info,player,Ireland,SW Poynter
+info,player,Ireland,Simi Singh
+info,player,Ireland,WB Rankin
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,J Cameron-Dow,b9a2c483
+info,registry,people,J Srinath,bad31fac
+info,registry,people,Javed Ahmadi,0087a35d
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SW Poynter,cdf59953
+info,registry,people,Sayed Shirzad,0ec1f412
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,TJ Murtagh,c89474d1
+info,registry,people,WB Rankin,29b89ae8
+info,registry,people,WTS Porterfield,ec02b798
+ball,1,0.1,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,0.2,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,6,0,,,,,,"",""
+ball,1,0.3,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,0.4,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,0.5,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,0.6,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,1.1,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,1.2,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,1.3,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,1,0,,,,,,"",""
+ball,1,1.4,Afghanistan,Javed Ahmadi,Hazratullah,AR McBrine,0,0,,,,,,"",""
+ball,1,1.5,Afghanistan,Javed Ahmadi,Hazratullah,AR McBrine,0,0,,,,,,"",""
+ball,1,1.6,Afghanistan,Javed Ahmadi,Hazratullah,AR McBrine,0,0,,,,,,"",""
+ball,1,2.1,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,2.2,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,2.3,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,1,0,,,,,,"",""
+ball,1,2.4,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,2.5,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,2.6,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,3.1,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,6,0,,,,,,"",""
+ball,1,3.2,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,3.3,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,1,0,,,,,,"",""
+ball,1,3.4,Afghanistan,Javed Ahmadi,Hazratullah,AR McBrine,0,0,,,,,,"",""
+ball,1,3.5,Afghanistan,Javed Ahmadi,Hazratullah,AR McBrine,1,0,,,,,,"",""
+ball,1,3.6,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,1,0,,,,,,"",""
+ball,1,4.1,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,4.2,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,2,0,,,,,,"",""
+ball,1,4.3,Afghanistan,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,4.4,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,4.5,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,4.6,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,5.1,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,6,0,,,,,,"",""
+ball,1,5.2,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,5.3,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,4,0,,,,,,"",""
+ball,1,5.4,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,4,0,,,,,,"",""
+ball,1,5.5,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,5.6,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,6.1,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,6.2,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,6.3,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,6.4,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,6.5,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,6.6,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,7.1,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,4,0,,,,,,"",""
+ball,1,7.2,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,1,0,,,,,,"",""
+ball,1,7.3,Afghanistan,Javed Ahmadi,Hazratullah,WB Rankin,4,0,,,,,,"",""
+ball,1,7.4,Afghanistan,Javed Ahmadi,Hazratullah,WB Rankin,0,0,,,,,,"",""
+ball,1,7.5,Afghanistan,Javed Ahmadi,Hazratullah,WB Rankin,0,0,,,,,,"",""
+ball,1,7.6,Afghanistan,Javed Ahmadi,Hazratullah,WB Rankin,0,1,,,,1,,"",""
+ball,1,8.1,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,8.2,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,4,0,,,,,,"",""
+ball,1,8.3,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,8.4,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,8.5,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,8.6,Afghanistan,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,9.1,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,1,0,,,,,,"",""
+ball,1,9.2,Afghanistan,Javed Ahmadi,Hazratullah,WB Rankin,1,0,,,,,,"",""
+ball,1,9.3,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,0,0,,,,,,"",""
+ball,1,9.4,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,2,0,,,,,,"",""
+ball,1,9.5,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,0,0,,,,,,"",""
+ball,1,9.6,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,0,1,1,,,,,"",""
+ball,1,9.7,Afghanistan,Hazratullah,Javed Ahmadi,WB Rankin,0,0,,,,,,"",""
+ball,1,10.1,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,1,0,,,,,,"",""
+ball,1,10.2,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,1,0,,,,,,"",""
+ball,1,10.3,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,10.4,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,10.5,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,10.6,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,11.1,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,11.2,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,11.3,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,6,0,,,,,,"",""
+ball,1,11.4,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,6,0,,,,,,"",""
+ball,1,11.5,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,4,0,,,,,,"",""
+ball,1,11.6,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,12.1,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,12.2,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,1,0,,,,,,"",""
+ball,1,12.3,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,0,0,,,,,,"",""
+ball,1,12.4,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,0,0,,,,,,"",""
+ball,1,12.5,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,0,0,,,,,,"",""
+ball,1,12.6,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,4,0,,,,,,"",""
+ball,1,13.1,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,13.2,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,13.3,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,13.4,Afghanistan,Hazratullah,Javed Ahmadi,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,13.5,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,13.6,Afghanistan,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,14.1,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,4,0,,,,,,"",""
+ball,1,14.2,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,14.3,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,1,0,,,,,,"",""
+ball,1,14.4,Afghanistan,Hazratullah,Javed Ahmadi,Simi Singh,1,0,,,,,,"",""
+ball,1,14.5,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,14.6,Afghanistan,Javed Ahmadi,Hazratullah,Simi Singh,0,0,,,,,,"",""
+ball,1,15.1,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,15.2,Afghanistan,Hazratullah,Javed Ahmadi,AR McBrine,0,0,,,,,,caught,Hazratullah
+ball,1,15.3,Afghanistan,Rahmat Shah,Javed Ahmadi,AR McBrine,1,0,,,,,,"",""
+ball,1,15.4,Afghanistan,Javed Ahmadi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,15.5,Afghanistan,Javed Ahmadi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,15.6,Afghanistan,Rahmat Shah,Javed Ahmadi,AR McBrine,0,0,,,,,,"",""
+ball,1,16.1,Afghanistan,Javed Ahmadi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,16.2,Afghanistan,Javed Ahmadi,Rahmat Shah,GH Dockrell,0,0,,,,,,caught,Javed Ahmadi
+ball,1,16.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,16.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,16.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,16.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,,,,,,"",""
+ball,1,17.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,17.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,17.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,17.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,17.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,17.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,18.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,18.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,18.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,,,,,,"",""
+ball,1,18.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,18.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,18.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,19.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,19.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,19.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,19.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,19.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,19.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,20.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,20.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,20.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,20.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,20.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,,,,,,"",""
+ball,1,20.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,,,,,,"",""
+ball,1,21.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,21.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,21.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,,,,,,"",""
+ball,1,21.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,21.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,21.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,22.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,22.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,22.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,22.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,22.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,22.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,23.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,23.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,23.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,23.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,23.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,"",""
+ball,1,23.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,24.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,24.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,24.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,24.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,24.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,24.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,1,0,,,,,,"",""
+ball,1,25.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,4,0,,,,,,"",""
+ball,1,25.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,,,,,,"",""
+ball,1,25.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,25.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,25.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,25.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,26.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,26.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,26.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,4,0,,,,,,"",""
+ball,1,26.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,26.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,4,0,,,,,,"",""
+ball,1,26.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,27.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,1,1,,,,,"",""
+ball,1,27.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,27.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,27.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,2,0,,,,,,"",""
+ball,1,27.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,27.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,27.7,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,28.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,28.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,2,0,,,,,,"",""
+ball,1,28.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,28.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,28.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,28.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,29.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,4,0,,,,,,"",""
+ball,1,29.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,29.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,29.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,,,,,,"",""
+ball,1,29.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,4,0,,,,,,"",""
+ball,1,29.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,1,0,,,,,,"",""
+ball,1,30.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,30.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,30.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,,,,,,"",""
+ball,1,30.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,"",""
+ball,1,30.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,30.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,,,,,,"",""
+ball,1,31.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,31.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,31.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,0,0,,,,,,"",""
+ball,1,31.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,,,,,,"",""
+ball,1,31.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,31.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,32.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,,,,,,"",""
+ball,1,32.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,,,,,,"",""
+ball,1,32.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,32.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,4,0,,,,,,"",""
+ball,1,32.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,,,,,,"",""
+ball,1,32.6,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,33.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,33.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,4,0,,,,,,"",""
+ball,1,33.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,33.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,,,,,,"",""
+ball,1,33.5,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,33.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,,,,,,"",""
+ball,1,34.1,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,34.2,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,34.3,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,34.4,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,34.5,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,34.6,Afghanistan,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,,,,,,"",""
+ball,1,35.1,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,35.2,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,35.3,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,35.4,Afghanistan,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,bowled,Rahmat Shah
+ball,1,35.5,Afghanistan,Asghar Stanikzai,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,35.6,Afghanistan,Asghar Stanikzai,Hashmatullah Shahidi,GH Dockrell,4,0,,,,,,"",""
+ball,1,36.1,Afghanistan,Hashmatullah Shahidi,Asghar Stanikzai,AR McBrine,0,0,,,,,,"",""
+ball,1,36.2,Afghanistan,Hashmatullah Shahidi,Asghar Stanikzai,AR McBrine,1,0,,,,,,"",""
+ball,1,36.3,Afghanistan,Asghar Stanikzai,Hashmatullah Shahidi,AR McBrine,0,0,,,,,,bowled,Asghar Stanikzai
+ball,1,36.4,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,36.5,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,AR McBrine,1,0,,,,,,"",""
+ball,1,36.6,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,AR McBrine,1,0,,,,,,"",""
+ball,1,37.1,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,37.2,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,,,,,,"",""
+ball,1,37.3,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,37.4,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,,,,,,"",""
+ball,1,37.5,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,37.6,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,38.1,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,,,,,,"",""
+ball,1,38.2,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,1,0,,,,,,"",""
+ball,1,38.3,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,38.4,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,1,0,,,,,,"",""
+ball,1,38.5,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,6,0,,,,,,"",""
+ball,1,38.6,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,39.1,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,39.2,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,39.3,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,39.4,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,TJ Murtagh,1,0,,,,,,"",""
+ball,1,39.5,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,0,0,,,,,,"",""
+ball,1,39.6,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,4,0,,,,,,"",""
+ball,1,40.1,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,0,0,,,,,,"",""
+ball,1,40.2,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,40.3,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,,,,,,"",""
+ball,1,40.4,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,,,,,,"",""
+ball,1,40.5,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,,,,,,"",""
+ball,1,40.6,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,,,,,,"",""
+ball,1,41.1,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,2,0,,,,,,"",""
+ball,1,41.2,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,1,,,,1,,"",""
+ball,1,41.3,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,,,,,,"",""
+ball,1,41.4,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,41.5,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,6,0,,,,,,"",""
+ball,1,41.6,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,42.1,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,Simi Singh,1,0,,,,,,"",""
+ball,1,42.2,Afghanistan,Hashmatullah Shahidi,Mohammad Nabi,Simi Singh,1,0,,,,,,"",""
+ball,1,42.3,Afghanistan,Mohammad Nabi,Hashmatullah Shahidi,Simi Singh,0,0,,,,,,caught,Mohammad Nabi
+ball,1,42.4,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,0,0,,,,,,"",""
+ball,1,42.5,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,0,0,,,,,,"",""
+ball,1,42.6,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,1,0,,,,,,"",""
+ball,1,43.1,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,,,,,,"",""
+ball,1,43.2,Afghanistan,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,0,0,,,,,,"",""
+ball,1,43.3,Afghanistan,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,43.4,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,,,,,,"",""
+ball,1,43.5,Afghanistan,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,1,0,,,,,,"",""
+ball,1,43.6,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,,,,,,"",""
+ball,1,44.1,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,WB Rankin,1,0,,,,,,"",""
+ball,1,44.2,Afghanistan,Gulbadin Naib,Hashmatullah Shahidi,WB Rankin,1,0,,,,,,"",""
+ball,1,44.3,Afghanistan,Hashmatullah Shahidi,Gulbadin Naib,WB Rankin,0,0,,,,,,caught,Hashmatullah Shahidi
+ball,1,44.4,Afghanistan,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,,,,,,"",""
+ball,1,44.5,Afghanistan,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,,,,,,"",""
+ball,1,44.6,Afghanistan,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,,,,,,"",""
+ball,1,45.1,Afghanistan,Gulbadin Naib,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,45.2,Afghanistan,Gulbadin Naib,Rashid Khan,GH Dockrell,0,0,,,,,,stumped,Gulbadin Naib
+ball,1,45.3,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,45.4,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,45.5,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,45.6,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,46.1,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,,,,,,"",""
+ball,1,46.2,Afghanistan,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,,,,,,"",""
+ball,1,46.3,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,0,0,,,,,,"",""
+ball,1,46.4,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,,,,,,"",""
+ball,1,46.5,Afghanistan,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,,,,,,"",""
+ball,1,46.6,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,,,,,,"",""
+ball,1,47.1,Afghanistan,Rashid Khan,Ikram Alikhil,GH Dockrell,1,0,,,,,,"",""
+ball,1,47.2,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,1,0,,,,,,"",""
+ball,1,47.3,Afghanistan,Rashid Khan,Ikram Alikhil,GH Dockrell,0,0,,,,,,"",""
+ball,1,47.4,Afghanistan,Rashid Khan,Ikram Alikhil,GH Dockrell,1,0,,,,,,"",""
+ball,1,47.5,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,,,,,,"",""
+ball,1,47.6,Afghanistan,Ikram Alikhil,Rashid Khan,GH Dockrell,1,0,,,,,,"",""
+ball,1,48.1,Afghanistan,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,,,,,,"",""
+ball,1,48.2,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,0,0,,,,,,"",""
+ball,1,48.3,Afghanistan,Rashid Khan,Ikram Alikhil,TJ Murtagh,6,0,,,,,,"",""

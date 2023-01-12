@@ -1,0 +1,171 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2003/04
+info,date,2004/04/24
+info,event,England tour of West Indies
+info,match_number,2
+info,venue,Queen's Park Oval
+info,city,Port of Spain
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,umpire,BR Doctrove
+info,umpire,DB Hair
+info,tv_umpire,BEW Morgan
+info,match_referee,JJ Crowe
+info,outcome,no result
+info,player,West Indies,CH Gayle
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RL Powell
+info,player,West Indies,RR Sarwan
+info,player,West Indies,BC Lara
+info,player,West Indies,DR Smith
+info,player,West Indies,M Dillon
+info,player,West Indies,RD Jacobs
+info,player,West Indies,DJ Bravo
+info,player,West Indies,CD Collymore
+info,player,West Indies,R Rampaul
+info,player,England,JM Anderson
+info,player,England,D Gough
+info,player,England,R Clarke
+info,player,England,PD Collingwood
+info,player,England,ME Trescothick
+info,player,England,A Flintoff
+info,player,England,MP Vaughan
+info,player,England,CMW Read
+info,player,England,AJ Strauss
+info,player,England,SJ Harmison
+info,player,England,ID Blackwell
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AJ Strauss,b68d14a9
+info,registry,people,BC Lara,d5403021
+info,registry,people,BEW Morgan,e9afb08a
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CD Collymore,87b177e8
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Smith,35205dfc
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,R Clarke,8728a058
+info,registry,people,R Rampaul,d68e7f48
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,SJ Harmison,c16d2e28
+ball,1,0.1,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,0.2,West Indies,CH Gayle,S Chanderpaul,D Gough,0,1,1,,,,,"",""
+ball,1,0.3,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,0.4,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,0.5,West Indies,CH Gayle,S Chanderpaul,D Gough,0,1,1,,,,,"",""
+ball,1,0.6,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,0.7,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,0.8,West Indies,CH Gayle,S Chanderpaul,D Gough,4,0,,,,,,"",""
+ball,1,1.1,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,1,1,,,,,"",""
+ball,1,1.2,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,1.3,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,1.4,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,1.5,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,1.6,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,1.7,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,2.1,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,2.2,West Indies,CH Gayle,S Chanderpaul,D Gough,2,0,,,,,,"",""
+ball,1,2.3,West Indies,CH Gayle,S Chanderpaul,D Gough,0,1,,,,1,,"",""
+ball,1,2.4,West Indies,S Chanderpaul,CH Gayle,D Gough,0,1,,,,1,,"",""
+ball,1,2.5,West Indies,CH Gayle,S Chanderpaul,D Gough,4,0,,,,,,"",""
+ball,1,2.6,West Indies,CH Gayle,S Chanderpaul,D Gough,1,0,,,,,,"",""
+ball,1,3.1,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,3.2,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,3.3,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,3.4,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,3.5,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,3.6,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,1,0,,,,,,"",""
+ball,1,4.1,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,4.2,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,4.3,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,4.4,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,4.5,West Indies,CH Gayle,S Chanderpaul,D Gough,0,0,,,,,,"",""
+ball,1,4.6,West Indies,CH Gayle,S Chanderpaul,D Gough,0,1,1,,,,,"",""
+ball,1,4.7,West Indies,CH Gayle,S Chanderpaul,D Gough,2,0,,,,,,"",""
+ball,1,5.1,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,5.2,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,1,1,,,,,"",""
+ball,1,5.3,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,1,0,,,,,,"",""
+ball,1,5.4,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,1,1,,,,,"",""
+ball,1,5.5,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,5.6,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,5.7,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,5.8,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,6.1,West Indies,S Chanderpaul,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,6.2,West Indies,S Chanderpaul,CH Gayle,D Gough,2,0,,,,,,"",""
+ball,1,6.3,West Indies,S Chanderpaul,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,6.4,West Indies,S Chanderpaul,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,6.5,West Indies,S Chanderpaul,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,6.6,West Indies,S Chanderpaul,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,7.1,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,2,0,,,,,,"",""
+ball,1,7.2,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,7.3,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,7.4,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,0,0,,,,,,"",""
+ball,1,7.5,West Indies,CH Gayle,S Chanderpaul,SJ Harmison,1,0,,,,,,"",""
+ball,1,7.6,West Indies,S Chanderpaul,CH Gayle,SJ Harmison,0,0,,,,,,caught,S Chanderpaul
+ball,1,8.1,West Indies,CH Gayle,RL Powell,D Gough,0,0,,,,,,"",""
+ball,1,8.2,West Indies,CH Gayle,RL Powell,D Gough,0,0,,,,,,"",""
+ball,1,8.3,West Indies,CH Gayle,RL Powell,D Gough,0,0,,,,,,"",""
+ball,1,8.4,West Indies,CH Gayle,RL Powell,D Gough,1,0,,,,,,"",""
+ball,1,8.5,West Indies,RL Powell,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,8.6,West Indies,RL Powell,CH Gayle,D Gough,0,1,1,,,,,"",""
+ball,1,8.7,West Indies,RL Powell,CH Gayle,D Gough,0,0,,,,,,"",""
+ball,1,9.1,West Indies,CH Gayle,RL Powell,SJ Harmison,1,0,,,,,,"",""
+ball,1,9.2,West Indies,RL Powell,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,9.3,West Indies,RL Powell,CH Gayle,SJ Harmison,1,0,,,,,,"",""
+ball,1,9.4,West Indies,CH Gayle,RL Powell,SJ Harmison,0,0,,,,,,"",""
+ball,1,9.5,West Indies,CH Gayle,RL Powell,SJ Harmison,1,0,,,,,,"",""
+ball,1,9.6,West Indies,RL Powell,CH Gayle,SJ Harmison,0,0,,,,,,"",""
+ball,1,10.1,West Indies,CH Gayle,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,10.2,West Indies,CH Gayle,RL Powell,JM Anderson,0,1,1,,,,,"",""
+ball,1,10.3,West Indies,CH Gayle,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,10.4,West Indies,CH Gayle,RL Powell,JM Anderson,0,0,,,,,,caught,CH Gayle
+ball,1,10.5,West Indies,RR Sarwan,RL Powell,JM Anderson,4,0,,,,,,"",""
+ball,1,10.6,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,10.7,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,11.1,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,11.2,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,11.3,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,11.4,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,11.5,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,11.6,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,1,1,,,,,"",""
+ball,1,11.7,West Indies,RL Powell,RR Sarwan,SJ Harmison,4,0,,,,,,"",""
+ball,1,12.1,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,12.2,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,12.3,West Indies,RR Sarwan,RL Powell,JM Anderson,4,0,,,,,,"",""
+ball,1,12.4,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,12.5,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,12.6,West Indies,RR Sarwan,RL Powell,JM Anderson,2,0,,,,,,"",""
+ball,1,13.1,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,13.2,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,13.3,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,13.4,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,13.5,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,13.6,West Indies,RL Powell,RR Sarwan,SJ Harmison,0,0,,,,,,"",""
+ball,1,14.1,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,14.2,West Indies,RR Sarwan,RL Powell,JM Anderson,0,0,,,,,,"",""
+ball,1,14.3,West Indies,RR Sarwan,RL Powell,JM Anderson,0,4,,,,4,,"",""
+ball,1,14.4,West Indies,RR Sarwan,RL Powell,JM Anderson,1,0,,,,,,"",""
+ball,1,14.5,West Indies,RL Powell,RR Sarwan,JM Anderson,0,0,,,,,,"",""
+ball,1,14.6,West Indies,RL Powell,RR Sarwan,JM Anderson,1,0,,,,,,"",""
+ball,1,15.1,West Indies,RL Powell,RR Sarwan,A Flintoff,0,0,,,,,,"",""
+ball,1,15.2,West Indies,RL Powell,RR Sarwan,A Flintoff,0,0,,,,,,"",""
+ball,1,15.3,West Indies,RL Powell,RR Sarwan,A Flintoff,0,0,,,,,,"",""
+ball,1,15.4,West Indies,RL Powell,RR Sarwan,A Flintoff,0,0,,,,,,"",""
+ball,1,15.5,West Indies,RL Powell,RR Sarwan,A Flintoff,0,0,,,,,,"",""
+ball,1,15.6,West Indies,RL Powell,RR Sarwan,A Flintoff,2,0,,,,,,"",""

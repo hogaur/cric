@@ -1,0 +1,153 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2016/17
+info,date,2016/11/21
+info,event,Zimbabwe Tri-Nation Series
+info,match_number,4
+info,venue,Queens Sports Club
+info,city,Bulawayo
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,umpire,MA Gough
+info,umpire,L Rusere
+info,reserve_umpire,TJ Matibiri
+info,tv_umpire,RK Illingworth
+info,match_referee,J Srinath
+info,outcome,no result
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,N Dickwella
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,WU Tharanga
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,DAS Gunaratne
+info,player,Sri Lanka,SS Pathirana
+info,player,Sri Lanka,KMDN Kulasekara
+info,player,Sri Lanka,RAS Lakmal
+info,player,Sri Lanka,JDF Vandersay
+info,player,Zimbabwe,BB Chari
+info,player,Zimbabwe,CJ Chibhabha
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,E Chigumbura
+info,player,Zimbabwe,PJ Moor
+info,player,Zimbabwe,AG Cremer
+info,player,Zimbabwe,DT Tiripano
+info,player,Zimbabwe,CB Mpofu
+info,player,Zimbabwe,TS Chisoro
+info,registry,people,AG Cremer,9f0270e0
+info,registry,people,BB Chari,41fc1ece
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CB Mpofu,49691d7a
+info,registry,people,CJ Chibhabha,f32dbc84
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DAS Gunaratne,770494eb
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DT Tiripano,dbfb8218
+info,registry,people,E Chigumbura,d2babdd5
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,KMDN Kulasekara,469ea22b
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SS Pathirana,753c95b9
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TJ Matibiri,4a3132b1
+info,registry,people,TS Chisoro,4b2d6789
+info,registry,people,WU Tharanga,7ed9fd56
+ball,1,0.1,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,0.2,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,1,,,,,"",""
+ball,1,0.5,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,0.7,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,2,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,2,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,1.6,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,4,,,,4,,"",""
+ball,1,2.2,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,1,,,,,"",""
+ball,1,2.5,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,4,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,2.7,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,1,,,,,"",""
+ball,1,4.2,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,4.3,Zimbabwe,BB Chari,CJ Chibhabha,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,CJ Chibhabha,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,CJ Chibhabha,BB Chari,KMDN Kulasekara,4,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,CJ Chibhabha,BB Chari,KMDN Kulasekara,0,0,,,,,,lbw,CJ Chibhabha
+ball,1,4.7,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,BB Chari,CR Ervine,RAS Lakmal,1,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,BB Chari,CR Ervine,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,BB Chari,CR Ervine,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,4,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,4,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,0,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,CR Ervine,BB Chari,RAS Lakmal,1,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,BB Chari,CR Ervine,KMDN Kulasekara,0,1,,,,1,,"",""
+ball,1,8.4,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,0,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,CR Ervine,BB Chari,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,BB Chari,CR Ervine,KMDN Kulasekara,1,0,,,,,,"",""
+ball,1,9.1,Zimbabwe,BB Chari,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,BB Chari,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,BB Chari,CR Ervine,MD Shanaka,1,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,CR Ervine,BB Chari,MD Shanaka,1,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,BB Chari,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,BB Chari,CR Ervine,MD Shanaka,2,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,CR Ervine,BB Chari,DM de Silva,1,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,BB Chari,CR Ervine,DM de Silva,0,0,,,,,,run out,BB Chari
+ball,1,10.3,Zimbabwe,Sikandar Raza,CR Ervine,DM de Silva,1,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,CR Ervine,Sikandar Raza,DM de Silva,1,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,Sikandar Raza,CR Ervine,DM de Silva,1,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,CR Ervine,Sikandar Raza,DM de Silva,0,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,Sikandar Raza,CR Ervine,SS Pathirana,0,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,Sikandar Raza,CR Ervine,SS Pathirana,1,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,1,0,,,,,,"",""
+ball,1,11.4,Zimbabwe,Sikandar Raza,CR Ervine,SS Pathirana,1,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,2,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,1,1,,,,,"",""
+ball,1,12.3,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,12.7,Zimbabwe,Sikandar Raza,CR Ervine,MD Shanaka,0,0,,,,,,"",""
+ball,1,13.1,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,0,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,4,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,CR Ervine,Sikandar Raza,SS Pathirana,1,0,,,,,,"",""

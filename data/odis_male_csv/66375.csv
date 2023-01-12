@@ -1,0 +1,262 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2004
+info,date,2004/08/23
+info,event,Videocon Cup
+info,match_number,2
+info,venue,VRA Cricket Ground
+info,city,Amstelveen
+info,toss_winner,Australia
+info,toss_decision,bat
+info,umpire,JW Lloyds
+info,umpire,SA Bucknor
+info,tv_umpire,DR Shepherd
+info,match_referee,BC Broad
+info,outcome,no result
+info,player,Australia,ML Hayden
+info,player,Australia,BJ Haddin
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,A Symonds
+info,player,Australia,DS Lehmann
+info,player,Australia,MJ Clarke
+info,player,Australia,GB Hogg
+info,player,Australia,B Lee
+info,player,Australia,MS Kasprowicz
+info,player,Australia,GD McGrath
+info,player,India,A Kumble
+info,player,India,Yuvraj Singh
+info,player,India,SC Ganguly
+info,player,India,V Sehwag
+info,player,India,A Nehra
+info,player,India,L Balaji
+info,player,India,IK Pathan
+info,player,India,R Dravid
+info,player,India,VVS Laxman
+info,player,India,RS Gavaskar
+info,player,India,M Kaif
+info,registry,people,A Kumble,0c2730df
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BJ Haddin,b0c772ee
+info,registry,people,DR Martyn,69762509
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,L Balaji,b2b50355
+info,registry,people,M Kaif,d84378a4
+info,registry,people,MJ Clarke,f842c2cf
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Kasprowicz,8d0ea930
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RS Gavaskar,9ff100a6
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,VVS Laxman,de8cce37
+info,registry,people,Yuvraj Singh,1c914163
+ball,1,0.1,Australia,ML Hayden,BJ Haddin,IK Pathan,0,0,,,,,,"",""
+ball,1,0.2,Australia,ML Hayden,BJ Haddin,IK Pathan,0,0,,,,,,"",""
+ball,1,0.3,Australia,ML Hayden,BJ Haddin,IK Pathan,4,0,,,,,,"",""
+ball,1,0.4,Australia,ML Hayden,BJ Haddin,IK Pathan,0,0,,,,,,"",""
+ball,1,0.5,Australia,ML Hayden,BJ Haddin,IK Pathan,0,0,,,,,,"",""
+ball,1,0.6,Australia,ML Hayden,BJ Haddin,IK Pathan,0,0,,,,,,"",""
+ball,1,1.1,Australia,BJ Haddin,ML Hayden,A Nehra,1,0,,,,,,"",""
+ball,1,1.2,Australia,ML Hayden,BJ Haddin,A Nehra,0,0,,,,,,"",""
+ball,1,1.3,Australia,ML Hayden,BJ Haddin,A Nehra,0,0,,,,,,"",""
+ball,1,1.4,Australia,ML Hayden,BJ Haddin,A Nehra,4,0,,,,,,"",""
+ball,1,1.5,Australia,ML Hayden,BJ Haddin,A Nehra,1,0,,,,,,"",""
+ball,1,1.6,Australia,BJ Haddin,ML Hayden,A Nehra,0,1,1,,,,,"",""
+ball,1,1.7,Australia,BJ Haddin,ML Hayden,A Nehra,1,0,,,,,,"",""
+ball,1,2.1,Australia,BJ Haddin,ML Hayden,IK Pathan,0,0,,,,,,"",""
+ball,1,2.2,Australia,BJ Haddin,ML Hayden,IK Pathan,1,0,,,,,,"",""
+ball,1,2.3,Australia,ML Hayden,BJ Haddin,IK Pathan,1,0,,,,,,"",""
+ball,1,2.4,Australia,BJ Haddin,ML Hayden,IK Pathan,0,0,,,,,,"",""
+ball,1,2.5,Australia,BJ Haddin,ML Hayden,IK Pathan,0,4,,,,4,,"",""
+ball,1,2.6,Australia,BJ Haddin,ML Hayden,IK Pathan,1,0,,,,,,"",""
+ball,1,3.1,Australia,BJ Haddin,ML Hayden,A Nehra,0,0,,,,,,"",""
+ball,1,3.2,Australia,BJ Haddin,ML Hayden,A Nehra,0,1,1,,,,,"",""
+ball,1,3.3,Australia,BJ Haddin,ML Hayden,A Nehra,0,1,,1,,,,"",""
+ball,1,3.4,Australia,BJ Haddin,ML Hayden,A Nehra,1,0,,,,,,"",""
+ball,1,3.5,Australia,ML Hayden,BJ Haddin,A Nehra,1,0,,,,,,"",""
+ball,1,3.6,Australia,BJ Haddin,ML Hayden,A Nehra,0,0,,,,,,"",""
+ball,1,3.7,Australia,BJ Haddin,ML Hayden,A Nehra,0,0,,,,,,"",""
+ball,1,3.8,Australia,BJ Haddin,ML Hayden,A Nehra,0,0,,,,,,caught,BJ Haddin
+ball,1,4.1,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,4.2,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,4.3,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,4.4,Australia,ML Hayden,RT Ponting,IK Pathan,0,1,1,,,,,"",""
+ball,1,4.5,Australia,ML Hayden,RT Ponting,IK Pathan,2,0,,,,,,"",""
+ball,1,4.6,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,4.7,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,5.1,Australia,RT Ponting,ML Hayden,A Nehra,0,0,,,,,,"",""
+ball,1,5.2,Australia,RT Ponting,ML Hayden,A Nehra,4,0,,,,,,"",""
+ball,1,5.3,Australia,RT Ponting,ML Hayden,A Nehra,1,0,,,,,,"",""
+ball,1,5.4,Australia,ML Hayden,RT Ponting,A Nehra,1,0,,,,,,"",""
+ball,1,5.5,Australia,RT Ponting,ML Hayden,A Nehra,0,0,,,,,,"",""
+ball,1,5.6,Australia,RT Ponting,ML Hayden,A Nehra,1,0,,,,,,"",""
+ball,1,6.1,Australia,RT Ponting,ML Hayden,IK Pathan,0,0,,,,,,"",""
+ball,1,6.2,Australia,RT Ponting,ML Hayden,IK Pathan,1,0,,,,,,"",""
+ball,1,6.3,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,6.4,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,6.5,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,6.6,Australia,ML Hayden,RT Ponting,IK Pathan,0,1,1,,,,,"",""
+ball,1,6.7,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,7.1,Australia,RT Ponting,ML Hayden,A Nehra,3,0,,,,,,"",""
+ball,1,7.2,Australia,ML Hayden,RT Ponting,A Nehra,0,0,,,,,,"",""
+ball,1,7.3,Australia,ML Hayden,RT Ponting,A Nehra,2,0,,,,,,"",""
+ball,1,7.4,Australia,ML Hayden,RT Ponting,A Nehra,0,0,,,,,,"",""
+ball,1,7.5,Australia,ML Hayden,RT Ponting,A Nehra,1,0,,,,,,"",""
+ball,1,7.6,Australia,RT Ponting,ML Hayden,A Nehra,6,0,,,,,,"",""
+ball,1,8.1,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,8.2,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,8.3,Australia,ML Hayden,RT Ponting,IK Pathan,0,0,,,,,,"",""
+ball,1,8.4,Australia,ML Hayden,RT Ponting,IK Pathan,3,0,,,,,,"",""
+ball,1,8.5,Australia,RT Ponting,ML Hayden,IK Pathan,0,0,,,,,,"",""
+ball,1,8.6,Australia,RT Ponting,ML Hayden,IK Pathan,1,0,,,,,,"",""
+ball,1,9.1,Australia,RT Ponting,ML Hayden,V Sehwag,1,0,,,,,,"",""
+ball,1,9.2,Australia,ML Hayden,RT Ponting,V Sehwag,0,0,,,,,,"",""
+ball,1,9.3,Australia,ML Hayden,RT Ponting,V Sehwag,0,0,,,,,,"",""
+ball,1,9.4,Australia,ML Hayden,RT Ponting,V Sehwag,0,0,,,,,,"",""
+ball,1,9.5,Australia,ML Hayden,RT Ponting,V Sehwag,0,0,,,,,,"",""
+ball,1,9.6,Australia,ML Hayden,RT Ponting,V Sehwag,2,0,,,,,,"",""
+ball,1,10.1,Australia,RT Ponting,ML Hayden,L Balaji,0,0,,,,,,"",""
+ball,1,10.2,Australia,RT Ponting,ML Hayden,L Balaji,1,0,,,,,,"",""
+ball,1,10.3,Australia,ML Hayden,RT Ponting,L Balaji,0,0,,,,,,"",""
+ball,1,10.4,Australia,ML Hayden,RT Ponting,L Balaji,0,0,,,,,,"",""
+ball,1,10.5,Australia,ML Hayden,RT Ponting,L Balaji,0,0,,,,,,"",""
+ball,1,10.6,Australia,ML Hayden,RT Ponting,L Balaji,1,0,,,,,,"",""
+ball,1,11.1,Australia,ML Hayden,RT Ponting,V Sehwag,1,0,,,,,,"",""
+ball,1,11.2,Australia,RT Ponting,ML Hayden,V Sehwag,0,0,,,,,,"",""
+ball,1,11.3,Australia,RT Ponting,ML Hayden,V Sehwag,1,0,,,,,,"",""
+ball,1,11.4,Australia,ML Hayden,RT Ponting,V Sehwag,0,0,,,,,,"",""
+ball,1,11.5,Australia,ML Hayden,RT Ponting,V Sehwag,1,0,,,,,,"",""
+ball,1,11.6,Australia,RT Ponting,ML Hayden,V Sehwag,0,0,,,,,,"",""
+ball,1,12.1,Australia,ML Hayden,RT Ponting,L Balaji,0,0,,,,,,"",""
+ball,1,12.2,Australia,ML Hayden,RT Ponting,L Balaji,1,0,,,,,,"",""
+ball,1,12.3,Australia,RT Ponting,ML Hayden,L Balaji,0,0,,,,,,"",""
+ball,1,12.4,Australia,RT Ponting,ML Hayden,L Balaji,1,0,,,,,,"",""
+ball,1,12.5,Australia,ML Hayden,RT Ponting,L Balaji,1,0,,,,,,"",""
+ball,1,12.6,Australia,RT Ponting,ML Hayden,L Balaji,1,0,,,,,,"",""
+ball,1,13.1,Australia,RT Ponting,ML Hayden,V Sehwag,0,0,,,,,,"",""
+ball,1,13.2,Australia,RT Ponting,ML Hayden,V Sehwag,2,0,,,,,,"",""
+ball,1,13.3,Australia,RT Ponting,ML Hayden,V Sehwag,0,0,,,,,,"",""
+ball,1,13.4,Australia,RT Ponting,ML Hayden,V Sehwag,0,0,,,,,,"",""
+ball,1,13.5,Australia,RT Ponting,ML Hayden,V Sehwag,1,0,,,,,,"",""
+ball,1,13.6,Australia,ML Hayden,RT Ponting,V Sehwag,1,0,,,,,,"",""
+ball,1,14.1,Australia,ML Hayden,RT Ponting,L Balaji,1,0,,,,,,"",""
+ball,1,14.2,Australia,RT Ponting,ML Hayden,L Balaji,1,0,,,,,,"",""
+ball,1,14.3,Australia,ML Hayden,RT Ponting,L Balaji,0,0,,,,,,caught,ML Hayden
+ball,1,14.4,Australia,DR Martyn,RT Ponting,L Balaji,1,0,,,,,,"",""
+ball,1,14.5,Australia,RT Ponting,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,14.6,Australia,RT Ponting,DR Martyn,L Balaji,0,0,,,,,,lbw,RT Ponting
+ball,1,15.1,Australia,DR Martyn,A Symonds,V Sehwag,1,0,,,,,,"",""
+ball,1,15.2,Australia,A Symonds,DR Martyn,V Sehwag,4,0,,,,,,"",""
+ball,1,15.3,Australia,A Symonds,DR Martyn,V Sehwag,0,0,,,,,,"",""
+ball,1,15.4,Australia,A Symonds,DR Martyn,V Sehwag,1,0,,,,,,"",""
+ball,1,15.5,Australia,DR Martyn,A Symonds,V Sehwag,0,0,,,,,,"",""
+ball,1,15.6,Australia,DR Martyn,A Symonds,V Sehwag,0,0,,,,,,"",""
+ball,1,16.1,Australia,A Symonds,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,16.2,Australia,A Symonds,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,16.3,Australia,A Symonds,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,16.4,Australia,A Symonds,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,16.5,Australia,A Symonds,DR Martyn,L Balaji,1,0,,,,,,"",""
+ball,1,16.6,Australia,DR Martyn,A Symonds,L Balaji,0,0,,,,,,"",""
+ball,1,17.1,Australia,A Symonds,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,17.2,Australia,A Symonds,DR Martyn,A Kumble,2,0,,,,,,"",""
+ball,1,17.3,Australia,A Symonds,DR Martyn,A Kumble,4,0,,,,,,"",""
+ball,1,17.4,Australia,A Symonds,DR Martyn,A Kumble,0,0,,,,,,caught,A Symonds
+ball,1,17.5,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,17.6,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,18.1,Australia,DR Martyn,DS Lehmann,L Balaji,1,0,,,,,,"",""
+ball,1,18.2,Australia,DS Lehmann,DR Martyn,L Balaji,0,0,,,,,,"",""
+ball,1,18.3,Australia,DS Lehmann,DR Martyn,L Balaji,1,0,,,,,,"",""
+ball,1,18.4,Australia,DR Martyn,DS Lehmann,L Balaji,1,0,,,,,,"",""
+ball,1,18.5,Australia,DS Lehmann,DR Martyn,L Balaji,1,0,,,,,,"",""
+ball,1,18.6,Australia,DR Martyn,DS Lehmann,L Balaji,1,0,,,,,,"",""
+ball,1,19.1,Australia,DR Martyn,DS Lehmann,A Kumble,0,0,,,,,,"",""
+ball,1,19.2,Australia,DR Martyn,DS Lehmann,A Kumble,0,0,,,,,,"",""
+ball,1,19.3,Australia,DR Martyn,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,19.4,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,19.5,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,19.6,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,20.1,Australia,DR Martyn,DS Lehmann,V Sehwag,0,0,,,,,,"",""
+ball,1,20.2,Australia,DR Martyn,DS Lehmann,V Sehwag,1,0,,,,,,"",""
+ball,1,20.3,Australia,DS Lehmann,DR Martyn,V Sehwag,2,0,,,,,,"",""
+ball,1,20.4,Australia,DS Lehmann,DR Martyn,V Sehwag,0,0,,,,,,"",""
+ball,1,20.5,Australia,DS Lehmann,DR Martyn,V Sehwag,1,0,,,,,,"",""
+ball,1,20.6,Australia,DR Martyn,DS Lehmann,V Sehwag,4,0,,,,,,"",""
+ball,1,21.1,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,21.2,Australia,DS Lehmann,DR Martyn,A Kumble,0,0,,,,,,"",""
+ball,1,21.3,Australia,DS Lehmann,DR Martyn,A Kumble,1,0,,,,,,"",""
+ball,1,21.4,Australia,DR Martyn,DS Lehmann,A Kumble,0,0,,,,,,"",""
+ball,1,21.5,Australia,DR Martyn,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,21.6,Australia,DS Lehmann,DR Martyn,A Kumble,2,0,,,,,,"",""
+ball,1,22.1,Australia,DR Martyn,DS Lehmann,V Sehwag,0,0,,,,,,bowled,DR Martyn
+ball,1,22.2,Australia,MJ Clarke,DS Lehmann,V Sehwag,0,0,,,,,,"",""
+ball,1,22.3,Australia,MJ Clarke,DS Lehmann,V Sehwag,4,0,,,,,,"",""
+ball,1,22.4,Australia,MJ Clarke,DS Lehmann,V Sehwag,1,0,,,,,,"",""
+ball,1,22.5,Australia,DS Lehmann,MJ Clarke,V Sehwag,0,2,2,,,,,"",""
+ball,1,22.6,Australia,MJ Clarke,DS Lehmann,V Sehwag,0,0,,,,,,"",""
+ball,1,22.7,Australia,MJ Clarke,DS Lehmann,V Sehwag,4,0,,,,,,"",""
+ball,1,23.1,Australia,DS Lehmann,MJ Clarke,A Kumble,0,0,,,,,,"",""
+ball,1,23.2,Australia,DS Lehmann,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,23.3,Australia,MJ Clarke,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,23.4,Australia,DS Lehmann,MJ Clarke,A Kumble,0,0,,,,,,"",""
+ball,1,23.5,Australia,DS Lehmann,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,23.6,Australia,MJ Clarke,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,24.1,Australia,MJ Clarke,DS Lehmann,A Nehra,1,0,,,,,,"",""
+ball,1,24.2,Australia,DS Lehmann,MJ Clarke,A Nehra,1,0,,,,,,"",""
+ball,1,24.3,Australia,MJ Clarke,DS Lehmann,A Nehra,1,0,,,,,,"",""
+ball,1,24.4,Australia,DS Lehmann,MJ Clarke,A Nehra,1,0,,,,,,"",""
+ball,1,24.5,Australia,MJ Clarke,DS Lehmann,A Nehra,1,0,,,,,,"",""
+ball,1,24.6,Australia,DS Lehmann,MJ Clarke,A Nehra,1,0,,,,,,"",""
+ball,1,25.1,Australia,DS Lehmann,MJ Clarke,A Kumble,2,0,,,,,,"",""
+ball,1,25.2,Australia,DS Lehmann,MJ Clarke,A Kumble,0,0,,,,,,"",""
+ball,1,25.3,Australia,DS Lehmann,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,25.4,Australia,MJ Clarke,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,25.5,Australia,DS Lehmann,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,25.6,Australia,MJ Clarke,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,26.1,Australia,MJ Clarke,DS Lehmann,A Nehra,0,0,,,,,,"",""
+ball,1,26.2,Australia,MJ Clarke,DS Lehmann,A Nehra,2,0,,,,,,"",""
+ball,1,26.3,Australia,MJ Clarke,DS Lehmann,A Nehra,4,0,,,,,,"",""
+ball,1,26.4,Australia,MJ Clarke,DS Lehmann,A Nehra,0,1,,,1,,,"",""
+ball,1,26.5,Australia,DS Lehmann,MJ Clarke,A Nehra,1,0,,,,,,"",""
+ball,1,26.6,Australia,MJ Clarke,DS Lehmann,A Nehra,0,0,,,,,,"",""
+ball,1,27.1,Australia,DS Lehmann,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,27.2,Australia,MJ Clarke,DS Lehmann,A Kumble,1,0,,,,,,"",""
+ball,1,27.3,Australia,DS Lehmann,MJ Clarke,A Kumble,0,0,,,,,,caught,DS Lehmann
+ball,1,27.4,Australia,MJ Clarke,GB Hogg,A Kumble,1,0,,,,,,"",""
+ball,1,27.5,Australia,GB Hogg,MJ Clarke,A Kumble,0,0,,,,,,"",""
+ball,1,27.6,Australia,GB Hogg,MJ Clarke,A Kumble,2,0,,,,,,"",""
+ball,1,28.1,Australia,MJ Clarke,GB Hogg,IK Pathan,1,0,,,,,,"",""
+ball,1,28.2,Australia,GB Hogg,MJ Clarke,IK Pathan,0,0,,,,,,"",""
+ball,1,28.3,Australia,GB Hogg,MJ Clarke,IK Pathan,0,0,,,,,,"",""
+ball,1,28.4,Australia,GB Hogg,MJ Clarke,IK Pathan,3,0,,,,,,"",""
+ball,1,28.5,Australia,MJ Clarke,GB Hogg,IK Pathan,4,0,,,,,,"",""
+ball,1,28.6,Australia,MJ Clarke,GB Hogg,IK Pathan,4,0,,,,,,"",""
+ball,1,29.1,Australia,GB Hogg,MJ Clarke,A Kumble,2,0,,,,,,"",""
+ball,1,29.2,Australia,GB Hogg,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,29.3,Australia,MJ Clarke,GB Hogg,A Kumble,1,0,,,,,,"",""
+ball,1,29.4,Australia,GB Hogg,MJ Clarke,A Kumble,1,0,,,,,,"",""
+ball,1,29.5,Australia,MJ Clarke,GB Hogg,A Kumble,2,0,,,,,,"",""
+ball,1,29.6,Australia,MJ Clarke,GB Hogg,A Kumble,4,0,,,,,,"",""
+ball,1,30.1,Australia,GB Hogg,MJ Clarke,L Balaji,1,0,,,,,,"",""
+ball,1,30.2,Australia,MJ Clarke,GB Hogg,L Balaji,1,0,,,,,,"",""
+ball,1,30.3,Australia,GB Hogg,MJ Clarke,L Balaji,1,0,,,,,,"",""
+ball,1,30.4,Australia,MJ Clarke,GB Hogg,L Balaji,1,0,,,,,,"",""
+ball,1,30.5,Australia,GB Hogg,MJ Clarke,L Balaji,1,0,,,,,,"",""
+ball,1,30.6,Australia,MJ Clarke,GB Hogg,L Balaji,0,0,,,,,,caught,MJ Clarke
+ball,1,31.1,Australia,GB Hogg,B Lee,IK Pathan,2,0,,,,,,"",""
+ball,1,31.2,Australia,GB Hogg,B Lee,IK Pathan,2,0,,,,,,"",""
+ball,1,31.3,Australia,GB Hogg,B Lee,IK Pathan,1,0,,,,,,"",""
+ball,1,31.4,Australia,B Lee,GB Hogg,IK Pathan,1,0,,,,,,"",""
