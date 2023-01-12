@@ -18,7 +18,8 @@ func main() {
 	m.AddTeams(matchFile)
 	m.AddVenue(matchFile)
 	m.AddWinner(matchFile)
-	// printMatch11s()
+	m.AddPlayerOfMatch(matchFile)
+	m.AddPlaying11s(matchFile)
 
 	fmt.Println("Here's the match", m)
 }

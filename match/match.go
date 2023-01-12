@@ -10,9 +10,11 @@ import (
 )
 
 type Match struct {
-	teams  []string
-	venue  string
-	winner string
+	teams           []string
+	venue           string
+	winner          string
+	player_of_match string
+	playing11s      []string
 }
 
 func (m *Match) AddTeams(matchFile string) {
@@ -96,4 +98,58 @@ func (m *Match) AddWinner(matchFile string) {
 		}
 	}
 	fmt.Println("Match Winner ", m.winner)
+}
+func (m *Match) AddPlayerOfMatch(matchFile string) {
+	readFile, err := os.Open(matchFile)
+	defer readFile.Close()
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	matchFileScanner := bufio.NewScanner(readFile)
+	matchFileScanner.Split(bufio.ScanLines)
+
+	for matchFileScanner.Scan() {
+		line := matchFileScanner.Text()
+
+		match, err := regexp.MatchString("info,player_of_match", line)
+		if err != nil {
+			log.Fatal("Error matching for the player of the match", line, err)
+		}
+		if match {
+			line := strings.Split(line, ",")
+			m.player_of_match = line[2]
+			break
+		}
+	}
+	fmt.Println("Player of the match ", m.player_of_match)
+}
+
+func (m *Match) AddPlaying11s(matchFile string) {
+	readFile, err := os.Open(matchFile)
+	defer readFile.Close()
+
+	if err != nil {
+		fmt.Println(err)
+	}
+	matchFileScanner := bufio.NewScanner(readFile)
+	matchFileScanner.Split(bufio.ScanLines)
+
+	for matchFileScanner.Scan() {
+		line := matchFileScanner.Text()
+
+		match, err := regexp.MatchString("info,player,", line)
+		if err != nil {
+			log.Fatal("Error matching for team info", line, err)
+		}
+		if match {
+			infoline := strings.Split(line, ",")
+			m.playing11s = append(m.playing11s, infoline[3])
+			if len(m.playing11s) == 22 {
+				break
+			}
+		}
+	}
+	fmt.Println("Match playing 11s ", m.playing11s)
 }
